@@ -2,501 +2,501 @@ hr->dimension: 363
 hr->size: 6054
 >>> applicationer
 >>> searcher 
-<<< searcher 0.178266s
+<<< searcher 0.163281s
 >>> transer 
 fud: 1
 fud slice size: 6054
-sized entropy label : 5928.12
-sized conditional entropy: 5562.99
-sized entropy decrease: 365.127
+sized entropy label : 5887.21
+sized conditional entropy: 5517.48
+sized entropy decrease: 369.731
 entropy variable: <<<<f,2>,1>,s>,5>
-<<< transer 0.000316047s
+<<< transer 0.000113562s
 >>> slicer 
 slice size: 4259
 slice variable: <<<1,1>,s>,1>
-<<< slicer 0.000125495s
+<<< slicer 5.7744e-05s
 >>> searcher 
-<<< searcher 0.21702s
+<<< searcher 0.150962s
 >>> transer 
 fud: 2
 fud slice size: 4259
-sized entropy label : 3917.94
-sized conditional entropy: 3645.36
-sized entropy decrease: 272.58
+sized entropy label : 3877.09
+sized conditional entropy: 3603.05
+sized entropy decrease: 274.033
 entropy variable: <<<<f,5>,1>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000309118s
+<<< transer 0.000125881s
 >>> slicer 
 slice size: 2224
 slice variable: <<<1,2>,s>,1>
-<<< slicer 5.6203e-05s
+<<< slicer 5.5819e-05s
 >>> searcher 
-<<< searcher 0.0999155s
+<<< searcher 0.0877543s
 >>> transer 
 fud: 3
 fud slice size: 2224
-sized entropy label : 1901.14
-sized conditional entropy: 1695.91
-sized entropy decrease: 205.234
+sized entropy label : 1877.6
+sized conditional entropy: 1672.64
+sized entropy decrease: 204.957
 entropy variable: <<<<f,11>,1>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000153212s
+<<< transer 0.000163607s
 >>> slicer 
 slice size: 2035
 slice variable: <<<1,2>,s>,2>
-<<< slicer 5.0814e-05s
+<<< slicer 5.1199e-05s
 >>> searcher 
-<<< searcher 0.105745s
+<<< searcher 0.0800324s
 >>> transer 
 fud: 4
 fud slice size: 2035
-sized entropy label : 1744.22
-sized conditional entropy: 1629.68
-sized entropy decrease: 114.535
+sized entropy label : 1725.45
+sized conditional entropy: 1613.96
+sized entropy decrease: 111.497
 entropy variable: <<<<f,7>,1>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000161295s
+<<< transer 0.000144744s
 >>> slicer 
 slice size: 1795
 slice variable: <<<1,1>,s>,2>
-<<< slicer 4.8889e-05s
+<<< slicer 5.1199e-05s
 >>> searcher 
-<<< searcher 0.0784886s
+<<< searcher 0.0753271s
 >>> transer 
 fud: 5
 fud slice size: 1795
-sized entropy label : 1645.05
-sized conditional entropy: 1483.85
-sized entropy decrease: 161.203
+sized entropy label : 1640.39
+sized conditional entropy: 1478.15
+sized entropy decrease: 162.248
 entropy variable: <<<<f,9>,3>,s>,7>
 fud slice cardinality: 2
-<<< transer 0.00016322s
+<<< transer 0.000123572s
 >>> slicer 
 slice size: 1864
 slice variable: <<<1,4>,s>,1>
-<<< slicer 5.0044e-05s
+<<< slicer 5.1584e-05s
 >>> searcher 
-<<< searcher 0.0396476s
+<<< searcher 0.0776953s
 >>> transer 
 fud: 6
 fud slice size: 1864
-sized entropy label : 1487.42
-sized conditional entropy: 1364.1
-sized entropy decrease: 123.313
+sized entropy label : 1471.02
+sized conditional entropy: 1346.37
+sized entropy decrease: 124.649
 entropy variable: <<<<f,12>,1>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000153211s
+<<< transer 0.000125881s
 >>> slicer 
 slice size: 1835
 slice variable: <<<1,3>,s>,1>
-<<< slicer 4.735e-05s
+<<< slicer 4.812e-05s
 >>> searcher 
-<<< searcher 0.0649475s
+<<< searcher 0.0812273s
 >>> transer 
 fud: 7
 fud slice size: 1835
-sized entropy label : 1377.14
-sized conditional entropy: 1217.09
-sized entropy decrease: 160.048
+sized entropy label : 1371.57
+sized conditional entropy: 1207.35
+sized entropy decrease: 164.218
 entropy variable: <<<<f,3>,1>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000161295s
+<<< transer 0.000128576s
 >>> slicer 
 slice size: 1754
 slice variable: <<<1,6>,s>,1>
-<<< slicer 5.0428e-05s
+<<< slicer 5.1199e-05s
 >>> searcher 
-<<< searcher 0.0408983s
+<<< searcher 0.0768742s
 >>> transer 
 fud: 8
 fud slice size: 1754
-sized entropy label : 1289.29
-sized conditional entropy: 1230.42
-sized entropy decrease: 58.8663
-entropy variable: <<<<f,6>,16>,s>,4>
+sized entropy label : 1271.56
+sized conditional entropy: 1209.72
+sized entropy decrease: 61.8329
+entropy variable: <<<<f,6>,7>,s>,8>
 fud slice cardinality: 2
-<<< transer 0.000120876s
->>> slicer 
-slice size: 1616
-slice variable: <<<1,8>,s>,1>
-<<< slicer 4.6579e-05s
->>> searcher 
-<<< searcher 0.0397007s
->>> transer 
-fud: 9
-fud slice size: 1616
-sized entropy label : 1118.18
-sized conditional entropy: 1071.62
-sized entropy decrease: 46.5526
-entropy variable: <<<<f,12>,7>,s>,1>
-fud slice cardinality: 2
-<<< transer 0.000163605s
->>> slicer 
-slice size: 1362
-slice variable: <<<1,9>,s>,1>
-<<< slicer 4.7735e-05s
->>> searcher 
-<<< searcher 0.0368824s
->>> transer 
-fud: 10
-fud slice size: 1362
-sized entropy label : 1008.12
-sized conditional entropy: 963.256
-sized entropy decrease: 44.86
-entropy variable: <<<<f,12>,2>,s>,1>
-fud slice cardinality: 2
-<<< transer 0.000122415s
+<<< transer 0.000122802s
 >>> slicer 
 slice size: 1575
 slice variable: <<<1,7>,s>,1>
-<<< slicer 4.6965e-05s
+<<< slicer 5.0815e-05s
 >>> searcher 
-<<< searcher 0.0374572s
+<<< searcher 0.0727402s
 >>> transer 
-fud: 11
+fud: 9
 fud slice size: 1575
-sized entropy label : 1007.12
-sized conditional entropy: 928.809
-sized entropy decrease: 78.314
+sized entropy label : 1009.99
+sized conditional entropy: 925.036
+sized entropy decrease: 84.9502
 entropy variable: <<<<f,4>,8>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000142048s
->>> slicer 
-slice size: 1341
-slice variable: <<<1,10>,s>,1>
-<<< slicer 5.0429e-05s
->>> searcher 
-<<< searcher 0.0393565s
->>> transer 
-fud: 12
-fud slice size: 1341
-sized entropy label : 954.559
-sized conditional entropy: 921.815
-sized entropy decrease: 32.7435
-entropy variable: <<<<f,8>,1>,s>,5>
-fud slice cardinality: 2
-<<< transer 0.000216344s
->>> slicer 
-slice size: 1271
-slice variable: <<<1,12>,s>,1>
-<<< slicer 4.6194e-05s
->>> searcher 
-<<< searcher 0.0358473s
->>> transer 
-fud: 13
-fud slice size: 1271
-sized entropy label : 888.92
-sized conditional entropy: 861.284
-sized entropy decrease: 27.636
-entropy variable: <<<<f,7>,16>,s>,4>
-fud slice cardinality: 2
-<<< transer 0.000128189s
+<<< transer 0.000125496s
 >>> slicer 
 slice size: 1237
-slice variable: <<<1,11>,s>,1>
-<<< slicer 4.8119e-05s
+slice variable: <<<1,9>,s>,1>
+<<< slicer 5.0814e-05s
 >>> searcher 
-<<< searcher 0.0801944s
+<<< searcher 0.0741487s
 >>> transer 
-fud: 14
+fud: 10
 fud slice size: 1237
-sized entropy label : 869.678
-sized conditional entropy: 818.443
-sized entropy decrease: 51.2351
+sized entropy label : 872.122
+sized conditional entropy: 820.744
+sized entropy decrease: 51.3781
 entropy variable: <<<<f,2>,2>,s>,4>
 fud slice cardinality: 2
-<<< transer 0.000127035s
+<<< transer 0.000129731s
+>>> slicer 
+slice size: 1262
+slice variable: <<<1,8>,s>,1>
+<<< slicer 4.8119e-05s
+>>> searcher 
+<<< searcher 0.0702622s
+>>> transer 
+fud: 11
+fud slice size: 1262
+sized entropy label : 811.29
+sized conditional entropy: 758.212
+sized entropy decrease: 53.0782
+entropy variable: <<<<f,10>,3>,s>,7>
+fud slice cardinality: 2
+<<< transer 0.000128192s
 >>> slicer 
 slice size: 949
 slice variable: <<<1,5>,s>,1>
-<<< slicer 4.812e-05s
+<<< slicer 5.0429e-05s
 >>> searcher 
-<<< searcher 0.0420912s
+<<< searcher 0.0628309s
 >>> transer 
-fud: 15
+fud: 12
 fud slice size: 949
-sized entropy label : 769.934
-sized conditional entropy: 704.881
-sized entropy decrease: 65.0522
+sized entropy label : 764.23
+sized conditional entropy: 700.075
+sized entropy decrease: 64.1549
 entropy variable: <<<<f,12>,2>,s>,4>
 fud slice cardinality: 2
-<<< transer 0.000124725s
->>> slicer 
-slice size: 1095
-slice variable: <<<1,13>,s>,1>
-<<< slicer 4.8119e-05s
->>> searcher 
-<<< searcher 0.034888s
->>> transer 
-fud: 16
-fud slice size: 1095
-sized entropy label : 717.039
-sized conditional entropy: 683.365
-sized entropy decrease: 33.6737
-entropy variable: <<<<f,6>,58>,s>,7>
-fud slice cardinality: 2
-<<< transer 0.000156292s
+<<< transer 0.000218656s
 >>> slicer 
 slice size: 846
 slice variable: <<<1,5>,s>,2>
-<<< slicer 6.0822e-05s
+<<< slicer 5.1584e-05s
 >>> searcher 
-<<< searcher 0.0609855s
+<<< searcher 0.0596677s
 >>> transer 
-fud: 17
+fud: 13
 fud slice size: 846
 sized entropy label : 713.915
 sized conditional entropy: 656.173
 sized entropy decrease: 57.7427
 entropy variable: <<<<f,7>,1>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000163606s
+<<< transer 0.000125881s
 >>> slicer 
 slice size: 839
-slice variable: <<<1,15>,s>,1>
-<<< slicer 4.581e-05s
->>> searcher 
-<<< searcher 0.0322137s
->>> transer 
-fud: 18
-fud slice size: 839
-sized entropy label : 687.926
-sized conditional entropy: 642.178
-sized entropy decrease: 45.748
-entropy variable: <<<<f,4>,1>,s>,5>
-fud slice cardinality: 2
-<<< transer 0.000128575s
->>> slicer 
-slice size: 836
-slice variable: <<<1,14>,s>,1>
-<<< slicer 4.7734e-05s
->>> searcher 
-<<< searcher 0.0678731s
->>> transer 
-fud: 19
-fud slice size: 836
-sized entropy label : 639.494
-sized conditional entropy: 594.755
-sized entropy decrease: 44.7385
-entropy variable: <<<<f,5>,6>,s>,1>
-fud slice cardinality: 2
-<<< transer 0.00012434s
->>> slicer 
-slice size: 800
-slice variable: <<<1,17>,s>,1>
+slice variable: <<<1,12>,s>,1>
 <<< slicer 4.658e-05s
 >>> searcher 
-<<< searcher 0.0615992s
+<<< searcher 0.0620799s
 >>> transer 
-fud: 20
+fud: 14
+fud slice size: 839
+sized entropy label : 683.12
+sized conditional entropy: 637.121
+sized entropy decrease: 45.9991
+entropy variable: <<<<f,4>,1>,s>,5>
+fud slice cardinality: 2
+<<< transer 0.000163607s
+>>> slicer 
+slice size: 836
+slice variable: <<<1,10>,s>,1>
+<<< slicer 5.0429e-05s
+>>> searcher 
+<<< searcher 0.0594375s
+>>> transer 
+fud: 15
+fud slice size: 836
+sized entropy label : 638.527
+sized conditional entropy: 593.681
+sized entropy decrease: 44.8467
+entropy variable: <<<<f,5>,6>,s>,1>
+fud slice cardinality: 2
+<<< transer 0.000125497s
+>>> slicer 
+slice size: 800
+slice variable: <<<1,13>,s>,1>
+<<< slicer 4.812e-05s
+>>> searcher 
+<<< searcher 0.0584413s
+>>> transer 
+fud: 16
 fud slice size: 800
 sized entropy label : 630.461
 sized conditional entropy: 582.931
 sized entropy decrease: 47.5302
 entropy variable: <<<<f,6>,1>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000159371s
->>> slicer 
-slice size: 987
-slice variable: <<<1,16>,s>,1>
-<<< slicer 6.8137e-05s
->>> searcher 
-<<< searcher 0.0630832s
->>> transer 
-fud: 21
-fud slice size: 987
-sized entropy label : 596.802
-sized conditional entropy: 565.611
-sized entropy decrease: 31.1907
-entropy variable: <<<<f,3>,2>,s>,4>
-fud slice cardinality: 2
-<<< transer 0.000162065s
->>> slicer 
-slice size: 943
-slice variable: <<<1,21>,s>,1>
-<<< slicer 4.6579e-05s
->>> searcher 
-<<< searcher 0.0700878s
->>> transer 
-fud: 22
-fud slice size: 943
-sized entropy label : 540.938
-sized conditional entropy: 519.299
-sized entropy decrease: 21.6392
-entropy variable: <<<<f,9>,45>,s>,5>
-fud slice cardinality: 2
-<<< transer 0.000124725s
+<<< transer 0.000123957s
 >>> slicer 
 slice size: 723
-slice variable: <<<1,19>,s>,1>
-<<< slicer 4.658e-05s
+slice variable: <<<1,15>,s>,1>
+<<< slicer 4.7735e-05s
 >>> searcher 
-<<< searcher 0.0634181s
+<<< searcher 0.0573488s
 >>> transer 
-fud: 23
+fud: 17
 fud slice size: 723
-sized entropy label : 540.036
-sized conditional entropy: 509.447
-sized entropy decrease: 30.5896
-entropy variable: <<<<f,8>,2>,s>,1>
+sized entropy label : 540.337
+sized conditional entropy: 510.084
+sized entropy decrease: 30.253
+entropy variable: <<<<f,3>,2>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000155521s
+<<< transer 0.000127037s
 >>> slicer 
-slice size: 931
-slice variable: <<<1,22>,s>,1>
-<<< slicer 6.6982e-05s
+slice size: 665
+slice variable: <<<1,17>,s>,1>
+<<< slicer 4.735e-05s
 >>> searcher 
-<<< searcher 0.0688313s
+<<< searcher 0.0545871s
 >>> transer 
-fud: 24
-fud slice size: 931
-sized entropy label : 519.299
-sized conditional entropy: 498.172
-sized entropy decrease: 21.1274
-entropy variable: <<<<f,7>,28>,s>,1>
-fud slice cardinality: 2
-<<< transer 0.00016861s
->>> slicer 
-slice size: 688
-slice variable: <<<1,23>,s>,1>
-<<< slicer 6.8136e-05s
->>> searcher 
-<<< searcher 0.0616042s
->>> transer 
-fud: 25
-fud slice size: 688
-sized entropy label : 482.7
-sized conditional entropy: 452.007
-sized entropy decrease: 30.6924
-entropy variable: <<<<f,4>,13>,s>,1>
-fud slice cardinality: 2
-<<< transer 0.000123571s
->>> slicer 
-slice size: 890
-slice variable: <<<1,24>,s>,1>
-<<< slicer 4.5039e-05s
->>> searcher 
-<<< searcher 0.0696855s
->>> transer 
-fud: 26
-fud slice size: 890
-sized entropy label : 472.14
-sized conditional entropy: 447.138
-sized entropy decrease: 25.002
-entropy variable: <<<<f,8>,16>,s>,7>
-fud slice cardinality: 2
-<<< transer 0.000123186s
->>> slicer 
-slice size: 666
-slice variable: <<<1,25>,s>,1>
-<<< slicer 4.7349e-05s
->>> searcher 
-<<< searcher 0.0574651s
->>> transer 
-fud: 27
-fud slice size: 666
-sized entropy label : 441.829
-sized conditional entropy: 410.347
-sized entropy decrease: 31.4819
-entropy variable: <<<<f,1>,5>,s>,8>
-fud slice cardinality: 2
-<<< transer 0.00016399s
->>> slicer 
-slice size: 467
-slice variable: <<<1,18>,s>,1>
-<<< slicer 4.581e-05s
->>> searcher 
-<<< searcher 0.0562741s
->>> transer 
-fud: 28
-fud slice size: 467
-sized entropy label : 403.009
-sized conditional entropy: 365.268
-sized entropy decrease: 37.7403
+fud: 18
+fud slice size: 665
+sized entropy label : 460.701
+sized conditional entropy: 426.809
+sized entropy decrease: 33.8926
 entropy variable: <<<<f,12>,1>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000152056s
+<<< transer 0.00013435s
+>>> slicer 
+slice size: 635
+slice variable: <<<1,11>,s>,2>
+<<< slicer 4.812e-05s
+>>> searcher 
+<<< searcher 0.0550544s
+>>> transer 
+fud: 19
+fud slice size: 635
+sized entropy label : 428.984
+sized conditional entropy: 386.468
+sized entropy decrease: 42.516
+entropy variable: <<<<f,1>,21>,s>,7>
+fud slice cardinality: 2
+<<< transer 0.00013666s
+>>> slicer 
+slice size: 624
+slice variable: <<<1,18>,s>,1>
+<<< slicer 4.9275e-05s
+>>> searcher 
+<<< searcher 0.0537532s
+>>> transer 
+fud: 20
+fud slice size: 624
+sized entropy label : 400.442
+sized conditional entropy: 368.973
+sized entropy decrease: 31.4687
+entropy variable: <<<<f,1>,5>,s>,8>
+fud slice cardinality: 2
+<<< transer 0.000131271s
+>>> slicer 
+slice size: 492
+slice variable: <<<1,8>,s>,2>
+<<< slicer 4.889e-05s
+>>> searcher 
+<<< searcher 0.0484724s
+>>> transer 
+fud: 21
+fud slice size: 492
+sized entropy label : 398.433
+sized conditional entropy: 362.972
+sized entropy decrease: 35.4611
+entropy variable: <<<<f,7>,51>,s>,8>
+fud slice cardinality: 2
+<<< transer 0.000168611s
+>>> slicer 
+slice size: 467
+slice variable: <<<1,14>,s>,1>
+<<< slicer 4.658e-05s
+>>> searcher 
+<<< searcher 0.0560033s
+>>> transer 
+fud: 22
+fud slice size: 467
+sized entropy label : 397.951
+sized conditional entropy: 359.305
+sized entropy decrease: 38.6468
+entropy variable: <<<<f,12>,1>,s>,5>
+fud slice cardinality: 2
+<<< transer 0.00013512s
 >>> slicer 
 slice size: 460
-slice variable: <<<1,20>,s>,2>
-<<< slicer 4.6194e-05s
+slice variable: <<<1,16>,s>,2>
+<<< slicer 0.000223661s
 >>> searcher 
-<<< searcher 0.0495874s
+<<< searcher 0.0513192s
 >>> transer 
-fud: 29
+fud: 23
 fud slice size: 460
 sized entropy label : 372.059
 sized conditional entropy: 337.991
 sized entropy decrease: 34.0676
 entropy variable: <<<<f,12>,1>,s>,9>
 fud slice cardinality: 2
-<<< transer 0.000126264s
+<<< transer 0.000129346s
 >>> slicer 
-slice size: 743
-slice variable: <<<1,26>,s>,1>
-<<< slicer 4.4654e-05s
+slice size: 454
+slice variable: <<<1,21>,s>,1>
+<<< slicer 6.1593e-05s
 >>> searcher 
-<<< searcher 0.0619937s
+<<< searcher 0.0481148s
 >>> transer 
-fud: 30
-fud slice size: 743
-sized entropy label : 348.451
-sized conditional entropy: 323.093
-sized entropy decrease: 25.3576
-entropy variable: <<<<f,3>,4>,s>,5>
+fud: 24
+fud slice size: 454
+sized entropy label : 362.972
+sized conditional entropy: 326.656
+sized entropy decrease: 36.3155
+entropy variable: <<<<f,3>,36>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000161296s
+<<< transer 0.000124342s
 >>> slicer 
-slice size: 550
-slice variable: <<<1,27>,s>,1>
-<<< slicer 4.735e-05s
+slice size: 627
+slice variable: <<<1,11>,s>,1>
+<<< slicer 4.6965e-05s
 >>> searcher 
-<<< searcher 0.0482297s
+<<< searcher 0.0578711s
 >>> transer 
-fud: 31
-fud slice size: 550
-sized entropy label : 328.562
-sized conditional entropy: 288.237
-sized entropy decrease: 40.3248
-entropy variable: <<<<f,7>,10>,s>,8>
+fud: 25
+fud slice size: 627
+sized entropy label : 329.228
+sized conditional entropy: 298.049
+sized entropy decrease: 31.1785
+entropy variable: <<<<f,12>,2>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000148977s
+<<< transer 0.000123571s
+>>> slicer 
+slice size: 410
+slice variable: <<<1,24>,s>,1>
+<<< slicer 4.6195e-05s
+>>> searcher 
+<<< searcher 0.0477872s
+>>> transer 
+fud: 26
+fud slice size: 410
+sized entropy label : 317.165
+sized conditional entropy: 287.006
+sized entropy decrease: 30.1594
+entropy variable: <<<<f,6>,31>,s>,4>
+fud slice cardinality: 2
+<<< transer 0.0001382s
 >>> slicer 
 slice size: 389
 slice variable: <<<1,3>,s>,2>
-<<< slicer 4.581e-05s
+<<< slicer 5.351e-05s
 >>> searcher 
-<<< searcher 0.0436214s
+<<< searcher 0.0474592s
 >>> transer 
-fud: 32
+fud: 27
 fud slice size: 389
-sized entropy label : 318.769
-sized conditional entropy: 253.926
-sized entropy decrease: 64.8428
+sized entropy label : 301.078
+sized conditional entropy: 233.35
+sized entropy decrease: 67.7284
 entropy variable: <<<<f,1>,1>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.0001663s
+<<< transer 0.000174001s
 >>> slicer 
-slice size: 472
-slice variable: <<<1,31>,s>,1>
-<<< slicer 4.4654e-05s
+slice size: 610
+slice variable: <<<1,25>,s>,1>
+<<< slicer 4.6195e-05s
 >>> searcher 
-<<< searcher 0.044175s
+<<< searcher 0.0580016s
+>>> transer 
+fud: 28
+fud slice size: 610
+sized entropy label : 291.527
+sized conditional entropy: 264.995
+sized entropy decrease: 26.5323
+entropy variable: <<<<f,12>,7>,s>,1>
+fud slice cardinality: 2
+<<< transer 0.000125881s
+>>> slicer 
+slice size: 512
+slice variable: <<<1,20>,s>,1>
+<<< slicer 4.6965e-05s
+>>> searcher 
+<<< searcher 0.0516741s
+>>> transer 
+fud: 29
+fud slice size: 512
+sized entropy label : 289.185
+sized conditional entropy: 250.48
+sized entropy decrease: 38.7055
+entropy variable: <<<<f,2>,15>,s>,7>
+fud slice cardinality: 2
+<<< transer 0.000171307s
+>>> slicer 
+slice size: 362
+slice variable: <<<1,26>,s>,1>
+<<< slicer 4.6195e-05s
+>>> searcher 
+<<< searcher 0.046374s
+>>> transer 
+fud: 30
+fud slice size: 362
+sized entropy label : 252.096
+sized conditional entropy: 227.259
+sized entropy decrease: 24.8371
+entropy variable: <<<<f,2>,2>,s>,7>
+fud slice cardinality: 2
+<<< transer 0.000128961s
+>>> slicer 
+slice size: 481
+slice variable: <<<1,29>,s>,1>
+<<< slicer 4.6195e-05s
+>>> searcher 
+<<< searcher 0.0517938s
+>>> transer 
+fud: 31
+fud slice size: 481
+sized entropy label : 244.338
+sized conditional entropy: 223.57
+sized entropy decrease: 20.7679
+entropy variable: <<<<f,10>,4>,s>,1>
+fud slice cardinality: 2
+<<< transer 0.000136275s
+>>> slicer 
+slice size: 393
+slice variable: <<<1,28>,s>,1>
+<<< slicer 4.7735e-05s
+>>> searcher 
+<<< searcher 0.0517076s
+>>> transer 
+fud: 32
+fud slice size: 393
+sized entropy label : 241.32
+sized conditional entropy: 217.599
+sized entropy decrease: 23.7207
+entropy variable: <<<<f,8>,4>,s>,5>
+fud slice cardinality: 2
+<<< transer 0.000149364s
+>>> slicer 
+slice size: 433
+slice variable: <<<1,19>,s>,1>
+<<< slicer 4.6195e-05s
+>>> searcher 
+<<< searcher 0.0500919s
 >>> transer 
 fud: 33
-fud slice size: 472
-sized entropy label : 241.65
-sized conditional entropy: 214.38
-sized entropy decrease: 27.2698
-entropy variable: <<<<f,3>,13>,s>,4>
+fud slice size: 433
+sized entropy label : 240.807
+sized conditional entropy: 217.783
+sized entropy decrease: 23.0233
+entropy variable: <<<<f,4>,2>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000125495s
+<<< transer 0.000135506s
 >>> slicer 
 slice size: 372
-slice variable: <<<1,18>,s>,2>
-<<< slicer 4.6579e-05s
+slice variable: <<<1,14>,s>,2>
+<<< slicer 4.9275e-05s
 >>> searcher 
-<<< searcher 0.0390682s
+<<< searcher 0.0493897s
 >>> transer 
 fud: 34
 fud slice size: 372
@@ -505,193 +505,193 @@ sized conditional entropy: 221.661
 sized entropy decrease: 17.5087
 entropy variable: <<<<f,6>,4>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000127034s
+<<< transer 0.000124726s
 >>> slicer 
-slice size: 299
-slice variable: <<<1,28>,s>,1>
-<<< slicer 4.6964e-05s
+slice size: 342
+slice variable: <<<1,30>,s>,1>
+<<< slicer 4.966e-05s
 >>> searcher 
-<<< searcher 0.0493977s
+<<< searcher 0.0468271s
 >>> transer 
 fud: 35
-fud slice size: 299
-sized entropy label : 216.9
-sized conditional entropy: 187.476
-sized entropy decrease: 29.424
-entropy variable: <<<<f,7>,1>,s>,5>
+fud slice size: 342
+sized entropy label : 224.264
+sized conditional entropy: 206.183
+sized entropy decrease: 18.081
+entropy variable: <<<<f,2>,94>,s>,2>
 fud slice cardinality: 2
-<<< transer 0.000177464s
+<<< transer 0.000212497s
 >>> slicer 
-slice size: 340
-slice variable: <<<1,20>,s>,1>
-<<< slicer 6.0438e-05s
+slice size: 467
+slice variable: <<<1,31>,s>,1>
+<<< slicer 6.1593e-05s
 >>> searcher 
-<<< searcher 0.0360159s
+<<< searcher 0.0513207s
 >>> transer 
 fud: 36
+fud slice size: 467
+sized entropy label : 218.366
+sized conditional entropy: 195.888
+sized entropy decrease: 22.4784
+entropy variable: <<<<f,7>,10>,s>,8>
+fud slice cardinality: 2
+<<< transer 0.000132425s
+>>> slicer 
+slice size: 384
+slice variable: <<<1,32>,s>,1>
+<<< slicer 4.9274e-05s
+>>> searcher 
+<<< searcher 0.0518558s
+>>> transer 
+fud: 37
+fud slice size: 384
+sized entropy label : 217.599
+sized conditional entropy: 199.075
+sized entropy decrease: 18.5241
+entropy variable: <<<<f,3>,1>,s>,1>
+fud slice cardinality: 2
+<<< transer 0.000130116s
+>>> slicer 
+slice size: 340
+slice variable: <<<1,16>,s>,1>
+<<< slicer 4.9275e-05s
+>>> searcher 
+<<< searcher 0.0470738s
+>>> transer 
+fud: 38
 fud slice size: 340
 sized entropy label : 210.872
 sized conditional entropy: 180.247
 sized entropy decrease: 30.6247
 entropy variable: <<<<f,2>,32>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000166685s
+<<< transer 0.000235209s
 >>> slicer 
-slice size: 260
-slice variable: <<<1,7>,s>,2>
-<<< slicer 4.8504e-05s
+slice size: 299
+slice variable: <<<1,22>,s>,1>
+<<< slicer 4.7735e-05s
 >>> searcher 
-<<< searcher 0.0425659s
+<<< searcher 0.0487773s
 >>> transer 
-fud: 37
-fud slice size: 260
-sized entropy label : 209.969
-sized conditional entropy: 171.854
-sized entropy decrease: 38.1151
-entropy variable: <<<<f,6>,4>,s>,5>
+fud: 39
+fud slice size: 299
+sized entropy label : 210.293
+sized conditional entropy: 183.066
+sized entropy decrease: 27.2267
+entropy variable: <<<<f,7>,1>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.00012357s
+<<< transer 0.000127421s
 >>> slicer 
 slice size: 299
 slice variable: <<<1,34>,s>,1>
-<<< slicer 4.7349e-05s
+<<< slicer 5.043e-05s
 >>> searcher 
-<<< searcher 0.0440749s
+<<< searcher 0.0489274s
 >>> transer 
-fud: 38
+fud: 40
 fud slice size: 299
 sized entropy label : 202.708
 sized conditional entropy: 185.97
 sized entropy decrease: 16.7378
 entropy variable: <<<<f,12>,1>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000160141s
+<<< transer 0.000133195s
 >>> slicer 
-slice size: 448
-slice variable: <<<1,33>,s>,1>
-<<< slicer 6.0437e-05s
+slice size: 280
+slice variable: <<<1,35>,s>,1>
+<<< slicer 5.0044e-05s
 >>> searcher 
-<<< searcher 0.0494854s
->>> transer 
-fud: 39
-fud slice size: 448
-sized entropy label : 202.114
-sized conditional entropy: 182.073
-sized entropy decrease: 20.041
-entropy variable: <<<<f,1>,1>,s>,5>
-fud slice cardinality: 2
-<<< transer 0.000124725s
->>> slicer 
-slice size: 370
-slice variable: <<<1,30>,s>,1>
-<<< slicer 4.6579e-05s
->>> searcher 
-<<< searcher 0.0406261s
->>> transer 
-fud: 40
-fud slice size: 370
-sized entropy label : 193.67
-sized conditional entropy: 172.585
-sized entropy decrease: 21.0857
-entropy variable: <<<<f,4>,1>,s>,5>
-fud slice cardinality: 2
-<<< transer 0.000122415s
->>> slicer 
-slice size: 401
-slice variable: <<<1,14>,s>,2>
-<<< slicer 4.6965e-05s
->>> searcher 
-<<< searcher 0.0453037s
+<<< searcher 0.0460695s
 >>> transer 
 fud: 41
-fud slice size: 401
-sized entropy label : 178.949
-sized conditional entropy: 138.08
-sized entropy decrease: 40.8691
-entropy variable: <<<<f,12>,1>,s>,5>
+fud slice size: 280
+sized entropy label : 198.638
+sized conditional entropy: 182.658
+sized entropy decrease: 15.9801
+entropy variable: <<<<f,10>,33>,s>,4>
 fud slice cardinality: 2
-<<< transer 0.000128574s
+<<< transer 0.000144745s
 >>> slicer 
-slice size: 298
-slice variable: <<<1,32>,s>,1>
-<<< slicer 4.658e-05s
+slice size: 260
+slice variable: <<<1,7>,s>,2>
+<<< slicer 4.9275e-05s
 >>> searcher 
-<<< searcher 0.0414588s
+<<< searcher 0.0484081s
 >>> transer 
 fud: 42
-fud slice size: 298
-sized entropy label : 176.949
-sized conditional entropy: 156.801
-sized entropy decrease: 20.1486
-entropy variable: <<<<f,9>,1>,s>,9>
+fud slice size: 260
+sized entropy label : 197.362
+sized conditional entropy: 162.121
+sized entropy decrease: 35.241
+entropy variable: <<<<f,8>,1>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000122801s
+<<< transer 0.000124342s
 >>> slicer 
-slice size: 291
-slice variable: <<<1,29>,s>,2>
-<<< slicer 4.6194e-05s
+slice size: 401
+slice variable: <<<1,10>,s>,2>
+<<< slicer 4.8505e-05s
 >>> searcher 
-<<< searcher 0.0395167s
+<<< searcher 0.0479731s
 >>> transer 
 fud: 43
+fud slice size: 401
+sized entropy label : 182.217
+sized conditional entropy: 142.16
+sized entropy decrease: 40.0564
+entropy variable: <<<<f,12>,1>,s>,5>
+fud slice cardinality: 2
+<<< transer 0.000125496s
+>>> slicer 
+slice size: 291
+slice variable: <<<1,23>,s>,2>
+<<< slicer 4.8889e-05s
+>>> searcher 
+<<< searcher 0.045626s
+>>> transer 
+fud: 44
 fud slice size: 291
 sized entropy label : 176.029
 sized conditional entropy: 152.759
 sized entropy decrease: 23.2696
 entropy variable: <<<<f,7>,1>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.00012434s
+<<< transer 0.000127036s
 >>> slicer 
-slice size: 427
-slice variable: <<<1,39>,s>,1>
-<<< slicer 4.658e-05s
+slice size: 261
+slice variable: <<<1,41>,s>,1>
+<<< slicer 4.889e-05s
 >>> searcher 
-<<< searcher 0.0491871s
->>> transer 
-fud: 44
-fud slice size: 427
-sized entropy label : 168.463
-sized conditional entropy: 154.85
-sized entropy decrease: 13.6127
-entropy variable: <<<<f,5>,6>,s>,2>
-fud slice cardinality: 2
-<<< transer 0.000123186s
->>> slicer 
-slice size: 259
-slice variable: <<<1,35>,s>,1>
-<<< slicer 4.6194e-05s
->>> searcher 
-<<< searcher 0.0437046s
+<<< searcher 0.0449677s
 >>> transer 
 fud: 45
-fud slice size: 259
-sized entropy label : 168.05
-sized conditional entropy: 148.661
-sized entropy decrease: 19.3883
-entropy variable: <<<<f,5>,2>,s>,1>
+fud slice size: 261
+sized entropy label : 167.64
+sized conditional entropy: 154.132
+sized entropy decrease: 13.508
+entropy variable: <<<<f,1>,24>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000158986s
+<<< transer 0.000209032s
 >>> slicer 
-slice size: 236
-slice variable: <<<1,37>,s>,1>
-<<< slicer 4.6579e-05s
+slice size: 259
+slice variable: <<<1,39>,s>,1>
+<<< slicer 4.7735e-05s
 >>> searcher 
-<<< searcher 0.0452898s
+<<< searcher 0.047023s
 >>> transer 
 fud: 46
-fud slice size: 236
-sized entropy label : 162.582
-sized conditional entropy: 149.109
-sized entropy decrease: 13.4733
-entropy variable: <<<<f,6>,4>,s>,7>
+fud slice size: 259
+sized entropy label : 162.508
+sized conditional entropy: 143.109
+sized entropy decrease: 19.399
+entropy variable: <<<<f,5>,2>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000212879s
+<<< transer 0.000267931s
 >>> slicer 
 slice size: 169
-slice variable: <<<1,29>,s>,1>
-<<< slicer 4.6964e-05s
+slice variable: <<<1,23>,s>,1>
+<<< slicer 4.8119e-05s
 >>> searcher 
-<<< searcher 0.0315889s
+<<< searcher 0.0413969s
 >>> transer 
 fud: 47
 fud slice size: 169
@@ -700,1207 +700,1207 @@ sized conditional entropy: 134.768
 sized entropy decrease: 27.1942
 entropy variable: <<<<f,3>,4>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000157831s
+<<< transer 0.000133195s
 >>> slicer 
-slice size: 417
-slice variable: <<<1,44>,s>,1>
-<<< slicer 6.0053e-05s
+slice size: 364
+slice variable: <<<1,33>,s>,1>
+<<< slicer 4.8504e-05s
 >>> searcher 
-<<< searcher 0.048249s
+<<< searcher 0.0482487s
 >>> transer 
 fud: 48
-fud slice size: 417
-sized entropy label : 151.044
-sized conditional entropy: 137.373
-sized entropy decrease: 13.6702
-entropy variable: <<<<f,2>,92>,s>,1>
+fud slice size: 364
+sized entropy label : 161.748
+sized conditional entropy: 146.701
+sized entropy decrease: 15.0469
+entropy variable: <<<<f,9>,3>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000159371s
+<<< transer 0.000125496s
 >>> slicer 
-slice size: 168
-slice variable: <<<1,28>,s>,2>
-<<< slicer 6.0053e-05s
+slice size: 414
+slice variable: <<<1,36>,s>,1>
+<<< slicer 4.8505e-05s
 >>> searcher 
-<<< searcher 0.0335376s
+<<< searcher 0.0495645s
 >>> transer 
 fud: 49
-fud slice size: 168
-sized entropy label : 148.368
-sized conditional entropy: 124.774
-sized entropy decrease: 23.5943
-entropy variable: <<<<f,10>,1>,s>,5>
+fud slice size: 414
+sized entropy label : 161.45
+sized conditional entropy: 146.698
+sized entropy decrease: 14.7515
+entropy variable: <<<<f,4>,13>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000124725s
+<<< transer 0.00013358s
 >>> slicer 
-slice size: 211
-slice variable: <<<1,38>,s>,1>
-<<< slicer 4.6964e-05s
+slice size: 298
+slice variable: <<<1,27>,s>,1>
+<<< slicer 4.8504e-05s
 >>> searcher 
-<<< searcher 0.0393777s
+<<< searcher 0.0457858s
 >>> transer 
 fud: 50
+fud slice size: 298
+sized entropy label : 154.507
+sized conditional entropy: 131.898
+sized entropy decrease: 22.6089
+entropy variable: <<<<f,10>,1>,s>,5>
+fud slice cardinality: 2
+<<< transer 0.000122416s
+>>> slicer 
+slice size: 251
+slice variable: <<<1,45>,s>,1>
+<<< slicer 5.4279e-05s
+>>> searcher 
+<<< searcher 0.0446036s
+>>> transer 
+fud: 51
+fud slice size: 251
+sized entropy label : 154.132
+sized conditional entropy: 140.047
+sized entropy decrease: 14.0858
+entropy variable: <<<<f,4>,30>,s>,1>
+fud slice cardinality: 2
+<<< transer 0.000127036s
+>>> slicer 
+slice size: 168
+slice variable: <<<1,22>,s>,2>
+<<< slicer 4.966e-05s
+>>> searcher 
+<<< searcher 0.0447529s
+>>> transer 
+fud: 52
+fud slice size: 168
+sized entropy label : 149.012
+sized conditional entropy: 126.798
+sized entropy decrease: 22.2138
+entropy variable: <<<<f,10>,1>,s>,5>
+fud slice cardinality: 2
+<<< transer 0.000134735s
+>>> slicer 
+slice size: 234
+slice variable: <<<1,42>,s>,1>
+<<< slicer 4.6964e-05s
+>>> searcher 
+<<< searcher 0.0470169s
+>>> transer 
+fud: 53
+fud slice size: 234
+sized entropy label : 148.724
+sized conditional entropy: 136.443
+sized entropy decrease: 12.2808
+entropy variable: <<<<f,6>,4>,s>,7>
+fud slice cardinality: 2
+<<< transer 0.000127806s
+>>> slicer 
+slice size: 211
+slice variable: <<<1,40>,s>,1>
+<<< slicer 4.8505e-05s
+>>> searcher 
+<<< searcher 0.0449743s
+>>> transer 
+fud: 54
 fud slice size: 211
 sized entropy label : 147.974
 sized conditional entropy: 131.594
 sized entropy decrease: 16.3801
 entropy variable: <<<<f,5>,4>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000157062s
+<<< transer 0.000132811s
 >>> slicer 
-slice size: 283
-slice variable: <<<1,42>,s>,1>
-<<< slicer 5.9283e-05s
+slice size: 360
+slice variable: <<<1,48>,s>,1>
+<<< slicer 4.7735e-05s
 >>> searcher 
-<<< searcher 0.033016s
+<<< searcher 0.0476871s
 >>> transer 
-fud: 51
-fud slice size: 283
-sized entropy label : 147.79
-sized conditional entropy: 126.112
-sized entropy decrease: 21.678
-entropy variable: <<<<f,4>,25>,s>,8>
+fud: 55
+fud slice size: 360
+sized entropy label : 146.701
+sized conditional entropy: 133.838
+sized entropy decrease: 12.8625
+entropy variable: <<<<f,5>,32>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000159756s
+<<< transer 0.000124341s
 >>> slicer 
-slice size: 176
-slice variable: <<<1,13>,s>,2>
-<<< slicer 5.9667e-05s
+slice size: 407
+slice variable: <<<1,49>,s>,1>
+<<< slicer 4.7349e-05s
 >>> searcher 
-<<< searcher 0.0298204s
+<<< searcher 0.0486033s
 >>> transer 
-fud: 52
-fud slice size: 176
-sized entropy label : 144.245
-sized conditional entropy: 89.7371
-sized entropy decrease: 54.5084
-entropy variable: <<<<f,2>,1>,s>,9>
+fud: 56
+fud slice size: 407
+sized entropy label : 146.698
+sized conditional entropy: 132.282
+sized entropy decrease: 14.4162
+entropy variable: <<<<f,3>,33>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.00012588s
+<<< transer 0.00013589s
+>>> slicer 
+slice size: 202
+slice variable: <<<1,19>,s>,2>
+<<< slicer 4.812e-05s
+>>> searcher 
+<<< searcher 0.0409515s
+>>> transer 
+fud: 57
+fud slice size: 202
+sized entropy label : 145.662
+sized conditional entropy: 104.798
+sized entropy decrease: 40.8638
+entropy variable: <<<<f,7>,16>,s>,4>
+fud slice cardinality: 2
+<<< transer 0.000162452s
 >>> slicer 
 slice size: 171
 slice variable: <<<1,4>,s>,2>
-<<< slicer 6.0438e-05s
+<<< slicer 4.8505e-05s
 >>> searcher 
-<<< searcher 0.0339749s
+<<< searcher 0.0419466s
 >>> transer 
-fud: 53
+fud: 58
 fud slice size: 171
-sized entropy label : 142.263
-sized conditional entropy: 118.514
-sized entropy decrease: 23.7488
+sized entropy label : 142.936
+sized conditional entropy: 120.091
+sized entropy decrease: 22.8447
 entropy variable: <<<<f,7>,52>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000123955s
+<<< transer 0.000168611s
 >>> slicer 
 slice size: 200
-slice variable: <<<1,43>,s>,2>
-<<< slicer 5.6203e-05s
+slice variable: <<<1,44>,s>,2>
+<<< slicer 4.8119e-05s
 >>> searcher 
-<<< searcher 0.0293435s
+<<< searcher 0.0415481s
 >>> transer 
-fud: 54
+fud: 59
 fud slice size: 200
 sized entropy label : 141.052
 sized conditional entropy: 126.237
 sized entropy decrease: 14.8148
 entropy variable: <<<<f,4>,4>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000125879s
->>> slicer 
-slice size: 411
-slice variable: <<<1,48>,s>,1>
-<<< slicer 5.3123e-05s
->>> searcher 
-<<< searcher 0.0397915s
->>> transer 
-fud: 55
-fud slice size: 411
-sized entropy label : 137.373
-sized conditional entropy: 125.324
-sized entropy decrease: 12.0493
-entropy variable: <<<<f,7>,39>,s>,6>
-fud slice cardinality: 2
-<<< transer 0.000147823s
->>> slicer 
-slice size: 186
-slice variable: <<<1,46>,s>,1>
-<<< slicer 4.7734e-05s
->>> searcher 
-<<< searcher 0.0428908s
->>> transer 
-fud: 56
-fud slice size: 186
-sized entropy label : 136.762
-sized conditional entropy: 127.024
-sized entropy decrease: 9.73851
-entropy variable: <<<<f,7>,1>,s>,9>
-fud slice cardinality: 2
-<<< transer 0.00012357s
+<<< transer 0.000127036s
 >>> slicer 
 slice size: 378
-slice variable: <<<1,41>,s>,1>
-<<< slicer 4.658e-05s
+slice variable: <<<1,43>,s>,1>
+<<< slicer 4.9659e-05s
 >>> searcher 
-<<< searcher 0.0456032s
->>> transer 
-fud: 57
-fud slice size: 378
-sized entropy label : 134.945
-sized conditional entropy: 106.697
-sized entropy decrease: 28.2481
-entropy variable: <<<<f,8>,1>,s>,9>
-fud slice cardinality: 2
-<<< transer 0.00012357s
->>> slicer 
-slice size: 373
-slice variable: <<<1,30>,s>,2>
-<<< slicer 4.8119e-05s
->>> searcher 
-<<< searcher 0.0410026s
->>> transer 
-fud: 58
-fud slice size: 373
-sized entropy label : 129.422
-sized conditional entropy: 113.756
-sized entropy decrease: 15.6664
-entropy variable: <<<<f,8>,5>,s>,1>
-fud slice cardinality: 2
-<<< transer 0.00016168s
->>> slicer 
-slice size: 222
-slice variable: <<<1,45>,s>,1>
-<<< slicer 4.735e-05s
->>> searcher 
-<<< searcher 0.0366749s
->>> transer 
-fud: 59
-fud slice size: 222
-sized entropy label : 122.61
-sized conditional entropy: 106.989
-sized entropy decrease: 15.6208
-entropy variable: <<<<f,7>,20>,s>,7>
-fud slice cardinality: 2
-<<< transer 0.000123185s
->>> slicer 
-slice size: 171
-slice variable: <<<1,50>,s>,1>
-<<< slicer 4.6579e-05s
->>> searcher 
-<<< searcher 0.0369048s
+<<< searcher 0.0476405s
 >>> transer 
 fud: 60
+fud slice size: 378
+sized entropy label : 139.025
+sized conditional entropy: 110.396
+sized entropy decrease: 28.629
+entropy variable: <<<<f,8>,1>,s>,9>
+fud slice cardinality: 2
+<<< transer 0.000268316s
+>>> slicer 
+slice size: 357
+slice variable: <<<1,55>,s>,1>
+<<< slicer 6.6213e-05s
+>>> searcher 
+<<< searcher 0.0480747s
+>>> transer 
+fud: 61
+fud slice size: 357
+sized entropy label : 133.838
+sized conditional entropy: 122.51
+sized entropy decrease: 11.3282
+entropy variable: <<<<f,6>,35>,s>,6>
+fud slice cardinality: 2
+<<< transer 0.000128576s
+>>> slicer 
+slice size: 258
+slice variable: <<<1,37>,s>,1>
+<<< slicer 4.8889e-05s
+>>> searcher 
+<<< searcher 0.0469772s
+>>> transer 
+fud: 62
+fud slice size: 258
+sized entropy label : 129.002
+sized conditional entropy: 109.989
+sized entropy decrease: 19.0129
+entropy variable: <<<<f,12>,3>,s>,1>
+fud slice cardinality: 2
+<<< transer 0.000143974s
+>>> slicer 
+slice size: 397
+slice variable: <<<1,56>,s>,1>
+<<< slicer 5.0045e-05s
+>>> searcher 
+<<< searcher 0.0481898s
+>>> transer 
+fud: 63
+fud slice size: 397
+sized entropy label : 128.475
+sized conditional entropy: 116.495
+sized entropy decrease: 11.9807
+entropy variable: <<<<f,9>,50>,s>,8>
+fud slice cardinality: 2
+<<< transer 0.000134351s
+>>> slicer 
+slice size: 184
+slice variable: <<<1,53>,s>,1>
+<<< slicer 4.812e-05s
+>>> searcher 
+<<< searcher 0.044361s
+>>> transer 
+fud: 64
+fud slice size: 184
+sized entropy label : 126.56
+sized conditional entropy: 116.888
+sized entropy decrease: 9.67195
+entropy variable: <<<<f,3>,86>,s>,1>
+fud slice cardinality: 2
+<<< transer 0.000133965s
+>>> slicer 
+slice size: 171
+slice variable: <<<1,54>,s>,1>
+<<< slicer 4.6965e-05s
+>>> searcher 
+<<< searcher 0.0440966s
+>>> transer 
+fud: 65
 fud slice size: 171
 sized entropy label : 118.197
 sized conditional entropy: 105.283
 sized entropy decrease: 12.9144
 entropy variable: <<<<f,11>,12>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000129345s
+<<< transer 0.000163992s
 >>> slicer 
-slice size: 397
-slice variable: <<<1,55>,s>,1>
-<<< slicer 4.6195e-05s
+slice size: 222
+slice variable: <<<1,46>,s>,1>
+<<< slicer 4.735e-05s
 >>> searcher 
-<<< searcher 0.0487021s
+<<< searcher 0.0451637s
 >>> transer 
-fud: 61
-fud slice size: 397
-sized entropy label : 117.317
-sized conditional entropy: 104.253
-sized entropy decrease: 13.0639
-entropy variable: <<<<f,1>,5>,s>,7>
+fud: 66
+fud slice size: 222
+sized entropy label : 117.058
+sized conditional entropy: 101.065
+sized entropy decrease: 15.9929
+entropy variable: <<<<f,7>,20>,s>,7>
 fud slice cardinality: 2
-<<< transer 0.00012434s
+<<< transer 0.00013512s
 >>> slicer 
-slice size: 138
-slice variable: <<<1,8>,s>,2>
-<<< slicer 4.6194e-05s
+slice size: 344
+slice variable: <<<1,61>,s>,1>
+<<< slicer 4.8505e-05s
 >>> searcher 
-<<< searcher 0.0261807s
+<<< searcher 0.0475539s
 >>> transer 
-fud: 62
-fud slice size: 138
-sized entropy label : 112.247
-sized conditional entropy: 75.3198
-sized entropy decrease: 36.9271
-entropy variable: <<<<f,7>,5>,s>,1>
+fud: 67
+fud slice size: 344
+sized entropy label : 116.854
+sized conditional entropy: 106.318
+sized entropy decrease: 10.5358
+entropy variable: <<<<f,6>,86>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000158986s
+<<< transer 0.00013512s
+>>> slicer 
+slice size: 392
+slice variable: <<<1,63>,s>,1>
+<<< slicer 4.9274e-05s
+>>> searcher 
+<<< searcher 0.0487357s
+>>> transer 
+fud: 68
+fud slice size: 392
+sized entropy label : 116.495
+sized conditional entropy: 103.829
+sized entropy decrease: 12.666
+entropy variable: <<<<f,11>,24>,s>,6>
+fud slice cardinality: 2
+<<< transer 0.000171691s
 >>> slicer 
 slice size: 144
-slice variable: <<<1,53>,s>,1>
-<<< slicer 6.7751e-05s
+slice variable: <<<1,58>,s>,1>
+<<< slicer 6.2363e-05s
 >>> searcher 
-<<< searcher 0.0303594s
+<<< searcher 0.0405457s
 >>> transer 
-fud: 63
+fud: 69
 fud slice size: 144
-sized entropy label : 111.96
-sized conditional entropy: 94.1355
-sized entropy decrease: 17.8248
+sized entropy label : 113.537
+sized conditional entropy: 96.7586
+sized entropy decrease: 16.7787
 entropy variable: <<<<f,3>,2>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.00012434s
+<<< transer 0.000169766s
+>>> slicer 
+slice size: 172
+slice variable: <<<1,64>,s>,1>
+<<< slicer 4.812e-05s
+>>> searcher 
+<<< searcher 0.0438317s
+>>> transer 
+fud: 70
+fud slice size: 172
+sized entropy label : 111.494
+sized conditional entropy: 103.567
+sized entropy decrease: 7.92702
+entropy variable: <<<<f,2>,1>,s>,1>
+fud slice cardinality: 2
+<<< transer 0.000133966s
 >>> slicer 
 slice size: 195
-slice variable: <<<1,36>,s>,1>
-<<< slicer 4.504e-05s
+slice variable: <<<1,38>,s>,1>
+<<< slicer 5.043e-05s
 >>> searcher 
-<<< searcher 0.0345885s
+<<< searcher 0.043339s
 >>> transer 
-fud: 64
+fud: 71
 fud slice size: 195
 sized entropy label : 108.288
 sized conditional entropy: 89.1342
 sized entropy decrease: 19.1542
 entropy variable: <<<<f,6>,46>,s>,2>
 fud slice cardinality: 2
-<<< transer 0.000157062s
+<<< transer 0.000163223s
 >>> slicer 
 slice size: 109
-slice variable: <<<1,49>,s>,1>
-<<< slicer 5.9668e-05s
+slice variable: <<<1,52>,s>,1>
+<<< slicer 6.3134e-05s
 >>> searcher 
-<<< searcher 0.0321155s
+<<< searcher 0.0432951s
 >>> transer 
-fud: 65
+fud: 72
 fud slice size: 109
 sized entropy label : 107.15
 sized conditional entropy: 93.8578
 sized entropy decrease: 13.2925
 entropy variable: <<<<f,6>,3>,s>,7>
 fud slice cardinality: 2
-<<< transer 0.00012819s
+<<< transer 0.000128191s
 >>> slicer 
 slice size: 157
-slice variable: <<<1,60>,s>,1>
-<<< slicer 4.6194e-05s
+slice variable: <<<1,65>,s>,1>
+<<< slicer 5.2354e-05s
 >>> searcher 
-<<< searcher 0.0371688s
+<<< searcher 0.0436519s
 >>> transer 
-fud: 66
+fud: 73
 fud slice size: 157
 sized entropy label : 105.283
 sized conditional entropy: 93.6487
 sized entropy decrease: 11.6341
 entropy variable: <<<<f,8>,20>,s>,7>
 fud slice cardinality: 2
-<<< transer 0.000158601s
+<<< transer 0.000126267s
 >>> slicer 
-slice size: 392
-slice variable: <<<1,61>,s>,1>
-<<< slicer 6.0053e-05s
+slice size: 387
+slice variable: <<<1,68>,s>,1>
+<<< slicer 4.966e-05s
 >>> searcher 
-<<< searcher 0.049398s
+<<< searcher 0.0486679s
 >>> transer 
-fud: 67
-fud slice size: 392
-sized entropy label : 104.253
-sized conditional entropy: 92.5012
-sized entropy decrease: 11.7516
-entropy variable: <<<<f,1>,6>,s>,1>
+fud: 74
+fud slice size: 387
+sized entropy label : 103.829
+sized conditional entropy: 93.1156
+sized entropy decrease: 10.7131
+entropy variable: <<<<f,4>,3>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000158216s
+<<< transer 0.00013897s
 >>> slicer 
 slice size: 113
 slice variable: <<<1,47>,s>,1>
-<<< slicer 6.1208e-05s
+<<< slicer 4.966e-05s
 >>> searcher 
-<<< searcher 0.0272948s
+<<< searcher 0.039191s
 >>> transer 
-fud: 68
+fud: 75
 fud slice size: 113
 sized entropy label : 102.906
 sized conditional entropy: 81.757
 sized entropy decrease: 21.1487
 entropy variable: <<<<f,2>,4>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000157831s
+<<< transer 0.00013281s
+>>> slicer 
+slice size: 333
+slice variable: <<<1,67>,s>,1>
+<<< slicer 4.6965e-05s
+>>> searcher 
+<<< searcher 0.0469072s
+>>> transer 
+fud: 76
+fud slice size: 333
+sized entropy label : 100.519
+sized conditional entropy: 89.9956
+sized entropy decrease: 10.5235
+entropy variable: <<<<f,1>,21>,s>,2>
+fud slice cardinality: 2
+<<< transer 0.000128191s
 >>> slicer 
 slice size: 212
-slice variable: <<<1,59>,s>,1>
-<<< slicer 5.8128e-05s
+slice variable: <<<1,66>,s>,1>
+<<< slicer 4.8505e-05s
 >>> searcher 
-<<< searcher 0.0421771s
+<<< searcher 0.0454258s
 >>> transer 
-fud: 69
+fud: 77
 fud slice size: 212
-sized entropy label : 101.103
-sized conditional entropy: 86.8356
-sized entropy decrease: 14.2677
+sized entropy label : 95.1787
+sized conditional entropy: 80.9329
+sized entropy decrease: 14.2458
 entropy variable: <<<<f,6>,32>,s>,3>
 fud slice cardinality: 2
-<<< transer 0.000137043s
+<<< transer 0.000133966s
 >>> slicer 
-slice size: 266
-slice variable: <<<1,40>,s>,2>
-<<< slicer 4.9274e-05s
+slice size: 383
+slice variable: <<<1,74>,s>,1>
+<<< slicer 4.966e-05s
 >>> searcher 
-<<< searcher 0.0356922s
+<<< searcher 0.0529217s
 >>> transer 
-fud: 70
-fud slice size: 266
-sized entropy label : 99.1558
-sized conditional entropy: 86.9441
-sized entropy decrease: 12.2117
-entropy variable: <<<<f,8>,6>,s>,1>
+fud: 78
+fud slice size: 383
+sized entropy label : 93.1156
+sized conditional entropy: 84.3822
+sized entropy decrease: 8.73342
+entropy variable: <<<<f,5>,6>,s>,2>
 fud slice cardinality: 2
-<<< transer 0.000159371s
->>> slicer 
-slice size: 147
-slice variable: <<<1,26>,s>,2>
-<<< slicer 6.5827e-05s
->>> searcher 
-<<< searcher 0.0275646s
->>> transer 
-fud: 71
-fud slice size: 147
-sized entropy label : 98.6871
-sized conditional entropy: 80.508
-sized entropy decrease: 18.1791
-entropy variable: <<<<f,7>,2>,s>,4>
-fud slice cardinality: 2
-<<< transer 0.000161296s
->>> slicer 
-slice size: 239
-slice variable: <<<1,51>,s>,1>
-<<< slicer 6.0053e-05s
->>> searcher 
-<<< searcher 0.0307917s
->>> transer 
-fud: 72
-fud slice size: 239
-sized entropy label : 98.4519
-sized conditional entropy: 86.5203
-sized entropy decrease: 11.9316
-entropy variable: <<<<f,9>,4>,s>,5>
-fud slice cardinality: 2
-<<< transer 0.000161681s
+<<< transer 0.000136275s
 >>> slicer 
 slice size: 143
-slice variable: <<<1,66>,s>,1>
-<<< slicer 4.7734e-05s
+slice variable: <<<1,73>,s>,1>
+<<< slicer 5.0045e-05s
 >>> searcher 
-<<< searcher 0.0359966s
+<<< searcher 0.0435669s
 >>> transer 
-fud: 73
+fud: 79
 fud slice size: 143
 sized entropy label : 91.0097
 sized conditional entropy: 80.7731
 sized entropy decrease: 10.2365
 entropy variable: <<<<f,11>,21>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.00016707s
+<<< transer 0.000133966s
 >>> slicer 
-slice size: 314
-slice variable: <<<1,58>,s>,1>
-<<< slicer 4.7734e-05s
+slice size: 138
+slice variable: <<<1,57>,s>,1>
+<<< slicer 4.889e-05s
 >>> searcher 
-<<< searcher 0.0420601s
+<<< searcher 0.0398216s
 >>> transer 
-fud: 74
-fud slice size: 314
-sized entropy label : 88.8924
-sized conditional entropy: 77.2504
-sized entropy decrease: 11.642
-entropy variable: <<<<f,10>,23>,s>,1>
+fud: 80
+fud slice size: 138
+sized entropy label : 88.951
+sized conditional entropy: 64.3532
+sized entropy decrease: 24.5978
+entropy variable: <<<<f,7>,8>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000121645s
->>> slicer 
-slice size: 382
-slice variable: <<<1,67>,s>,1>
-<<< slicer 4.8119e-05s
->>> searcher 
-<<< searcher 0.0493723s
->>> transer 
-fud: 75
-fud slice size: 382
-sized entropy label : 87.1541
-sized conditional entropy: 75.0519
-sized entropy decrease: 12.1022
-entropy variable: <<<<f,10>,77>,s>,1>
-fud slice cardinality: 2
-<<< transer 0.000160141s
+<<< transer 0.000130886s
 >>> slicer 
 slice size: 91
-slice variable: <<<1,65>,s>,1>
-<<< slicer 4.8505e-05s
+slice variable: <<<1,72>,s>,1>
+<<< slicer 5.5049e-05s
 >>> searcher 
-<<< searcher 0.031351s
+<<< searcher 0.0425456s
 >>> transer 
-fud: 76
+fud: 81
 fud slice size: 91
 sized entropy label : 87.1534
 sized conditional entropy: 72.3098
 sized entropy decrease: 14.8436
 entropy variable: <<<<f,9>,8>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.00012357s
+<<< transer 0.000127421s
 >>> slicer 
-slice size: 261
-slice variable: <<<1,70>,s>,1>
-<<< slicer 4.7734e-05s
+slice size: 324
+slice variable: <<<1,76>,s>,1>
+<<< slicer 4.6965e-05s
 >>> searcher 
-<<< searcher 0.0389797s
+<<< searcher 0.0466577s
 >>> transer 
-fud: 77
-fud slice size: 261
-sized entropy label : 86.9441
-sized conditional entropy: 77.4942
-sized entropy decrease: 9.44995
-entropy variable: <<<<f,6>,35>,s>,6>
+fud: 82
+fud slice size: 324
+sized entropy label : 85.5648
+sized conditional entropy: 73.4988
+sized entropy decrease: 12.066
+entropy variable: <<<<f,7>,57>,s>,4>
 fud slice cardinality: 2
-<<< transer 0.00012511s
->>> slicer 
-slice size: 108
-slice variable: <<<1,16>,s>,2>
-<<< slicer 4.658e-05s
->>> searcher 
-<<< searcher 0.0232062s
->>> transer 
-fud: 78
-fud slice size: 108
-sized entropy label : 86.5632
-sized conditional entropy: 67.5917
-sized entropy decrease: 18.9715
-entropy variable: <<<<f,1>,8>,s>,5>
-fud slice cardinality: 2
-<<< transer 0.000160526s
->>> slicer 
-slice size: 203
-slice variable: <<<1,69>,s>,1>
-<<< slicer 4.6194e-05s
->>> searcher 
-<<< searcher 0.0418098s
->>> transer 
-fud: 79
-fud slice size: 203
-sized entropy label : 83.2521
-sized conditional entropy: 70.2613
-sized entropy decrease: 12.9908
-entropy variable: <<<<f,11>,4>,s>,5>
-fud slice cardinality: 2
-<<< transer 0.000158986s
+<<< transer 0.000174386s
 >>> slicer 
 slice size: 177
-slice variable: <<<1,64>,s>,1>
-<<< slicer 4.7349e-05s
+slice variable: <<<1,71>,s>,1>
+<<< slicer 4.7735e-05s
 >>> searcher 
-<<< searcher 0.0355116s
+<<< searcher 0.0426495s
 >>> transer 
-fud: 80
+fud: 83
 fud slice size: 177
 sized entropy label : 82.4298
 sized conditional entropy: 72.4374
 sized entropy decrease: 9.9924
 entropy variable: <<<<f,3>,74>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.00016553s
+<<< transer 0.000170921s
 >>> slicer 
-slice size: 147
-slice variable: <<<1,72>,s>,1>
-<<< slicer 5.5819e-05s
+slice size: 377
+slice variable: <<<1,78>,s>,1>
+<<< slicer 4.7735e-05s
 >>> searcher 
-<<< searcher 0.0300603s
->>> transer 
-fud: 81
-fud slice size: 147
-sized entropy label : 81.9986
-sized conditional entropy: 71.2905
-sized entropy decrease: 10.7081
-entropy variable: <<<<f,6>,2>,s>,7>
-fud slice cardinality: 2
-<<< transer 0.000157831s
->>> slicer 
-slice size: 116
-slice variable: <<<1,27>,s>,2>
-<<< slicer 6.0822e-05s
->>> searcher 
-<<< searcher 0.0214054s
->>> transer 
-fud: 82
-fud slice size: 116
-sized entropy label : 81.785
-sized conditional entropy: 50.8732
-sized entropy decrease: 30.9118
-entropy variable: <<<<f,5>,3>,s>,7>
-fud slice cardinality: 2
-<<< transer 0.000128575s
->>> slicer 
-slice size: 117
-slice variable: <<<1,56>,s>,1>
-<<< slicer 4.8119e-05s
->>> searcher 
-<<< searcher 0.0347109s
->>> transer 
-fud: 83
-fud slice size: 117
-sized entropy label : 79.8666
-sized conditional entropy: 69.2843
-sized entropy decrease: 10.5823
-entropy variable: <<<<f,10>,5>,s>,8>
-fud slice cardinality: 2
-<<< transer 0.00016476s
->>> slicer 
-slice size: 132
-slice variable: <<<1,73>,s>,1>
-<<< slicer 4.9274e-05s
->>> searcher 
-<<< searcher 0.0354608s
+<<< searcher 0.0482441s
 >>> transer 
 fud: 84
+fud slice size: 377
+sized entropy label : 81.6741
+sized conditional entropy: 72.7159
+sized entropy decrease: 8.95822
+entropy variable: <<<<f,7>,78>,s>,3>
+fud slice cardinality: 2
+<<< transer 0.000175156s
+>>> slicer 
+slice size: 101
+slice variable: <<<1,50>,s>,1>
+<<< slicer 4.8505e-05s
+>>> searcher 
+<<< searcher 0.0432551s
+>>> transer 
+fud: 85
+fud slice size: 101
+sized entropy label : 80.5176
+sized conditional entropy: 68.138
+sized entropy decrease: 12.3796
+entropy variable: <<<<f,9>,1>,s>,9>
+fud slice cardinality: 2
+<<< transer 0.000142049s
+>>> slicer 
+slice size: 112
+slice variable: <<<1,20>,s>,2>
+<<< slicer 5.0044e-05s
+>>> searcher 
+<<< searcher 0.0356483s
+>>> transer 
+fud: 86
+fud slice size: 112
+sized entropy label : 79.7876
+sized conditional entropy: 49.8613
+sized entropy decrease: 29.9263
+entropy variable: <<<<f,5>,3>,s>,7>
+fud slice cardinality: 2
+<<< transer 0.000124727s
+>>> slicer 
+slice size: 91
+slice variable: <<<1,27>,s>,2>
+<<< slicer 4.658e-05s
+>>> searcher 
+<<< searcher 0.0362596s
+>>> transer 
+fud: 87
+fud slice size: 91
+sized entropy label : 78.8426
+sized conditional entropy: 54.5706
+sized entropy decrease: 24.272
+entropy variable: <<<<f,2>,3>,s>,1>
+fud slice cardinality: 2
+<<< transer 0.000163992s
+>>> slicer 
+slice size: 132
+slice variable: <<<1,79>,s>,1>
+<<< slicer 4.889e-05s
+>>> searcher 
+<<< searcher 0.0434987s
+>>> transer 
+fud: 88
 fud slice size: 132
 sized entropy label : 78.3752
 sized conditional entropy: 70.0728
 sized entropy decrease: 8.30243
 entropy variable: <<<<f,4>,32>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000162451s
+<<< transer 0.00012973s
 >>> slicer 
-slice size: 91
-slice variable: <<<1,32>,s>,2>
-<<< slicer 4.6195e-05s
+slice size: 103
+slice variable: <<<1,70>,s>,2>
+<<< slicer 4.812e-05s
 >>> searcher 
-<<< searcher 0.0223069s
+<<< searcher 0.04408s
 >>> transer 
-fud: 85
-fud slice size: 91
-sized entropy label : 76.9767
-sized conditional entropy: 50.2285
-sized entropy decrease: 26.7481
-entropy variable: <<<<f,5>,2>,s>,7>
+fud: 89
+fud slice size: 103
+sized entropy label : 77.3883
+sized conditional entropy: 70.5799
+sized entropy decrease: 6.80841
+entropy variable: <<<<f,2>,29>,s>,7>
 fud slice cardinality: 2
-<<< transer 0.000176309s
+<<< transer 0.000127806s
 >>> slicer 
-slice size: 378
-slice variable: <<<1,75>,s>,1>
-<<< slicer 4.7349e-05s
+slice size: 203
+slice variable: <<<1,77>,s>,1>
+<<< slicer 4.735e-05s
 >>> searcher 
-<<< searcher 0.0483279s
+<<< searcher 0.0448288s
 >>> transer 
-fud: 86
-fud slice size: 378
-sized entropy label : 75.0519
-sized conditional entropy: 65.3749
-sized entropy decrease: 9.67703
-entropy variable: <<<<f,7>,78>,s>,3>
+fud: 90
+fud slice size: 203
+sized entropy label : 77.3494
+sized conditional entropy: 63.8952
+sized entropy decrease: 13.4542
+entropy variable: <<<<f,11>,4>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.00012588s
+<<< transer 0.00013127s
+>>> slicer 
+slice size: 165
+slice variable: <<<1,51>,s>,2>
+<<< slicer 4.8889e-05s
+>>> searcher 
+<<< searcher 0.0415362s
+>>> transer 
+fud: 91
+fud slice size: 165
+sized entropy label : 76.9125
+sized conditional entropy: 68.8783
+sized entropy decrease: 8.03419
+entropy variable: <<<<f,1>,8>,s>,5>
+fud slice cardinality: 2
+<<< transer 0.000128576s
 >>> slicer 
 slice size: 110
 slice variable: <<<1,6>,s>,2>
-<<< slicer 4.735e-05s
+<<< slicer 5.0429e-05s
 >>> searcher 
-<<< searcher 0.022392s
+<<< searcher 0.0380158s
 >>> transer 
-fud: 87
+fud: 92
 fud slice size: 110
 sized entropy label : 74.814
 sized conditional entropy: 51.8266
 sized entropy decrease: 22.9874
 entropy variable: <<<<f,7>,3>,s>,7>
 fud slice cardinality: 2
-<<< transer 0.000160141s
+<<< transer 0.000238674s
 >>> slicer 
-slice size: 307
-slice variable: <<<1,74>,s>,1>
-<<< slicer 4.658e-05s
+slice size: 187
+slice variable: <<<1,62>,s>,1>
+<<< slicer 5.0045e-05s
 >>> searcher 
-<<< searcher 0.0422006s
+<<< searcher 0.0419735s
 >>> transer 
-fud: 88
-fud slice size: 307
-sized entropy label : 74.2059
-sized conditional entropy: 62.967
-sized entropy decrease: 11.2388
-entropy variable: <<<<f,6>,1>,s>,9>
+fud: 93
+fud slice size: 187
+sized entropy label : 72.8315
+sized conditional entropy: 59.8953
+sized entropy decrease: 12.9362
+entropy variable: <<<<f,7>,1>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.00013127s
+<<< transer 0.000135121s
 >>> slicer 
-slice size: 104
-slice variable: <<<1,40>,s>,1>
-<<< slicer 4.6964e-05s
+slice size: 374
+slice variable: <<<1,84>,s>,1>
+<<< slicer 4.966e-05s
 >>> searcher 
-<<< searcher 0.0363885s
+<<< searcher 0.0478183s
 >>> transer 
-fud: 89
-fud slice size: 104
-sized entropy label : 73.429
-sized conditional entropy: 62.992
-sized entropy decrease: 10.437
-entropy variable: <<<<f,2>,2>,s>,4>
+fud: 94
+fud slice size: 374
+sized entropy label : 72.7159
+sized conditional entropy: 63.4272
+sized entropy decrease: 9.28871
+entropy variable: <<<<f,3>,100>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000160911s
+<<< transer 0.00013435s
 >>> slicer 
 slice size: 145
-slice variable: <<<1,36>,s>,2>
-<<< slicer 4.8504e-05s
+slice variable: <<<1,38>,s>,2>
+<<< slicer 5.1199e-05s
 >>> searcher 
-<<< searcher 0.0250513s
+<<< searcher 0.0370965s
 >>> transer 
-fud: 90
+fud: 95
 fud slice size: 145
 sized entropy label : 71.9589
 sized conditional entropy: 58.385
 sized entropy decrease: 13.574
 entropy variable: <<<<f,1>,63>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000123955s
+<<< transer 0.00013897s
 >>> slicer 
-slice size: 78
-slice variable: <<<1,62>,s>,1>
-<<< slicer 4.9274e-05s
+slice size: 87
+slice variable: <<<1,89>,s>,1>
+<<< slicer 4.8889e-05s
 >>> searcher 
-<<< searcher 0.0250736s
+<<< searcher 0.0430911s
 >>> transer 
-fud: 91
-fud slice size: 78
-sized entropy label : 71.2255
-sized conditional entropy: 52.6359
-sized entropy decrease: 18.5895
-entropy variable: <<<<f,2>,2>,s>,1>
+fud: 96
+fud slice size: 87
+sized entropy label : 70.5799
+sized conditional entropy: 64.1564
+sized entropy decrease: 6.42344
+entropy variable: <<<<f,5>,13>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000163605s
+<<< transer 0.000165147s
 >>> slicer 
 slice size: 170
-slice variable: <<<1,80>,s>,1>
-<<< slicer 4.6195e-05s
+slice variable: <<<1,83>,s>,1>
+<<< slicer 6.3133e-05s
 >>> searcher 
-<<< searcher 0.0336011s
+<<< searcher 0.0426668s
 >>> transer 
-fud: 92
+fud: 97
 fud slice size: 170
 sized entropy label : 70.4915
 sized conditional entropy: 59.5801
 sized entropy decrease: 10.9114
 entropy variable: <<<<f,10>,6>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000222888s
->>> slicer 
-slice size: 250
-slice variable: <<<1,77>,s>,1>
-<<< slicer 4.581e-05s
->>> searcher 
-<<< searcher 0.0382094s
->>> transer 
-fud: 93
-fud slice size: 250
-sized entropy label : 70.3088
-sized conditional entropy: 61.4723
-sized entropy decrease: 8.83645
-entropy variable: <<<<f,8>,8>,s>,5>
-fud slice cardinality: 2
-<<< transer 0.0001228s
+<<< transer 0.00017631s
 >>> slicer 
 slice size: 126
-slice variable: <<<1,84>,s>,1>
-<<< slicer 4.6194e-05s
+slice variable: <<<1,88>,s>,1>
+<<< slicer 4.8505e-05s
 >>> searcher 
-<<< searcher 0.0352768s
+<<< searcher 0.0436262s
 >>> transer 
-fud: 94
+fud: 98
 fud slice size: 126
 sized entropy label : 70.0728
 sized conditional entropy: 62.444
 sized entropy decrease: 7.62877
 entropy variable: <<<<f,7>,6>,s>,6>
 fud slice cardinality: 2
-<<< transer 0.000125495s
+<<< transer 0.000145899s
 >>> slicer 
-slice size: 99
-slice variable: <<<1,52>,s>,1>
-<<< slicer 4.6579e-05s
+slice size: 126
+slice variable: <<<1,37>,s>,2>
+<<< slicer 5.1584e-05s
 >>> searcher 
-<<< searcher 0.0247279s
+<<< searcher 0.0413102s
 >>> transer 
-fud: 95
-fud slice size: 99
-sized entropy label : 65.9673
-sized conditional entropy: 33.3327
-sized entropy decrease: 32.6346
-entropy variable: <<<<f,12>,6>,s>,6>
+fud: 99
+fud slice size: 126
+sized entropy label : 70.0728
+sized conditional entropy: 54.0168
+sized entropy decrease: 16.056
+entropy variable: <<<<f,3>,2>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000160141s
+<<< transer 0.000173231s
 >>> slicer 
-slice size: 196
-slice variable: <<<1,79>,s>,1>
-<<< slicer 4.6579e-05s
+slice size: 126
+slice variable: <<<1,91>,s>,1>
+<<< slicer 4.8504e-05s
 >>> searcher 
-<<< searcher 0.0399771s
+<<< searcher 0.0402893s
 >>> transer 
-fud: 96
-fud slice size: 196
-sized entropy label : 65.6073
-sized conditional entropy: 56.407
-sized entropy decrease: 9.20033
-entropy variable: <<<<f,2>,12>,s>,1>
+fud: 100
+fud slice size: 126
+sized entropy label : 68.8783
+sized conditional entropy: 56.1461
+sized entropy decrease: 12.7322
+entropy variable: <<<<f,6>,34>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000160141s
+<<< transer 0.00013281s
 >>> slicer 
 slice size: 92
-slice variable: <<<1,68>,s>,1>
-<<< slicer 0.000197482s
+slice variable: <<<1,75>,s>,1>
+<<< slicer 4.7735e-05s
 >>> searcher 
-<<< searcher 0.0265737s
+<<< searcher 0.0377937s
 >>> transer 
-fud: 97
+fud: 101
 fud slice size: 92
 sized entropy label : 65.5083
 sized conditional entropy: 45.0187
 sized entropy decrease: 20.4896
 entropy variable: <<<<f,3>,2>,s>,4>
 fud slice cardinality: 2
-<<< transer 0.00012357s
+<<< transer 0.000125881s
 >>> slicer 
-slice size: 375
-slice variable: <<<1,86>,s>,1>
-<<< slicer 4.6964e-05s
+slice size: 108
+slice variable: <<<1,69>,s>,1>
+<<< slicer 5.0045e-05s
 >>> searcher 
-<<< searcher 0.0489326s
+<<< searcher 0.0372759s
 >>> transer 
-fud: 98
-fud slice size: 375
-sized entropy label : 65.3749
-sized conditional entropy: 57.2868
-sized entropy decrease: 8.08809
-entropy variable: <<<<f,1>,33>,s>,4>
+fud: 102
+fud slice size: 108
+sized entropy label : 65.0582
+sized conditional entropy: 55.6886
+sized entropy decrease: 9.36966
+entropy variable: <<<<f,8>,1>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.00016014s
+<<< transer 0.000173616s
 >>> slicer 
 slice size: 77
-slice variable: <<<1,76>,s>,1>
-<<< slicer 4.8889e-05s
+slice variable: <<<1,81>,s>,1>
+<<< slicer 4.812e-05s
 >>> searcher 
-<<< searcher 0.0307759s
+<<< searcher 0.0416448s
 >>> transer 
-fud: 99
+fud: 103
 fud slice size: 77
 sized entropy label : 64.3025
 sized conditional entropy: 55.6643
 sized entropy decrease: 8.63814
 entropy variable: <<<<f,3>,2>,s>,7>
 fud slice cardinality: 2
-<<< transer 0.000123185s
+<<< transer 0.00013743s
 >>> slicer 
-slice size: 254
-slice variable: <<<1,9>,s>,2>
-<<< slicer 4.7735e-05s
+slice size: 307
+slice variable: <<<1,82>,s>,1>
+<<< slicer 5.4664e-05s
 >>> searcher 
-<<< searcher 0.0316247s
+<<< searcher 0.0465715s
 >>> transer 
-fud: 100
-fud slice size: 254
-sized entropy label : 63.5088
-sized conditional entropy: 47.0956
-sized entropy decrease: 16.4132
-entropy variable: <<<<f,5>,18>,s>,9>
+fud: 104
+fud slice size: 307
+sized entropy label : 63.4002
+sized conditional entropy: 55.8824
+sized entropy decrease: 7.51774
+entropy variable: <<<<f,1>,21>,s>,6>
 fud slice cardinality: 2
-<<< transer 0.00012896s
+<<< transer 0.000140509s
 >>> slicer 
 slice size: 122
-slice variable: <<<1,54>,s>,1>
-<<< slicer 5.3893e-05s
+slice variable: <<<1,59>,s>,1>
+<<< slicer 5.1199e-05s
 >>> searcher 
-<<< searcher 0.0266631s
+<<< searcher 0.0387857s
 >>> transer 
-fud: 101
+fud: 105
 fud slice size: 122
 sized entropy label : 63.2613
 sized conditional entropy: 55.1302
 sized entropy decrease: 8.13111
 entropy variable: <<<<f,9>,19>,s>,8>
 fud slice cardinality: 2
-<<< transer 0.000124725s
+<<< transer 0.000129731s
+>>> slicer 
+slice size: 86
+slice variable: <<<1,51>,s>,1>
+<<< slicer 5.12e-05s
+>>> searcher 
+<<< searcher 0.0416575s
+>>> transer 
+fud: 106
+fud slice size: 86
+sized entropy label : 63.1342
+sized conditional entropy: 50.4431
+sized entropy decrease: 12.6911
+entropy variable: <<<<f,3>,1>,s>,1>
+fud slice cardinality: 2
+<<< transer 0.000162837s
 >>> slicer 
 slice size: 78
-slice variable: <<<1,54>,s>,2>
-<<< slicer 4.658e-05s
+slice variable: <<<1,59>,s>,2>
+<<< slicer 6.3518e-05s
 >>> searcher 
-<<< searcher 0.0272151s
+<<< searcher 0.0400842s
 >>> transer 
-fud: 102
+fud: 107
 fud slice size: 78
 sized entropy label : 62.9757
 sized conditional entropy: 52.6176
 sized entropy decrease: 10.358
 entropy variable: <<<<f,11>,60>,s>,6>
 fud slice cardinality: 2
-<<< transer 0.000123185s
+<<< transer 0.000134735s
 >>> slicer 
 slice size: 121
-slice variable: <<<1,94>,s>,1>
-<<< slicer 4.6579e-05s
+slice variable: <<<1,98>,s>,1>
+<<< slicer 5.0044e-05s
 >>> searcher 
-<<< searcher 0.0359774s
+<<< searcher 0.0428905s
 >>> transer 
-fud: 103
+fud: 108
 fud slice size: 121
 sized entropy label : 62.444
 sized conditional entropy: 56.0595
 sized entropy decrease: 6.38456
 entropy variable: <<<<f,8>,11>,s>,8>
 fud slice cardinality: 2
-<<< transer 0.000131654s
+<<< transer 0.000132425s
 >>> slicer 
-slice size: 108
-slice variable: <<<1,63>,s>,1>
-<<< slicer 5.1969e-05s
+slice size: 118
+slice variable: <<<1,80>,s>,1>
+<<< slicer 5.5049e-05s
 >>> searcher 
-<<< searcher 0.0248957s
+<<< searcher 0.040225s
 >>> transer 
-fud: 104
-fud slice size: 108
-sized entropy label : 62.4351
-sized conditional entropy: 52.4411
-sized entropy decrease: 9.99396
-entropy variable: <<<<f,8>,1>,s>,1>
+fud: 109
+fud slice size: 118
+sized entropy label : 61.3574
+sized conditional entropy: 47.7008
+sized entropy decrease: 13.6566
+entropy variable: <<<<f,8>,5>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.00017246s
+<<< transer 0.000123957s
 >>> slicer 
-slice size: 302
-slice variable: <<<1,88>,s>,1>
-<<< slicer 5.9667e-05s
+slice size: 367
+slice variable: <<<1,94>,s>,1>
+<<< slicer 4.8505e-05s
 >>> searcher 
-<<< searcher 0.0401495s
+<<< searcher 0.0427061s
 >>> transer 
-fud: 105
-fud slice size: 302
-sized entropy label : 61.3576
-sized conditional entropy: 52.5449
-sized entropy decrease: 8.81269
-entropy variable: <<<<f,12>,3>,s>,1>
+fud: 110
+fud slice size: 367
+sized entropy label : 59.8718
+sized conditional entropy: 50.9673
+sized entropy decrease: 8.90453
+entropy variable: <<<<f,5>,116>,s>,4>
 fud slice cardinality: 2
-<<< transer 0.000125495s
+<<< transer 0.00013512s
+>>> slicer 
+slice size: 90
+slice variable: <<<1,60>,s>,1>
+<<< slicer 5.0815e-05s
+>>> searcher 
+<<< searcher 0.0268531s
+>>> transer 
+fud: 111
+fud slice size: 90
+sized entropy label : 59.6041
+sized conditional entropy: 44.6146
+sized entropy decrease: 14.9895
+entropy variable: <<<<f,3>,25>,s>,1>
+fud slice cardinality: 2
+<<< transer 0.000152059s
 >>> slicer 
 slice size: 165
-slice variable: <<<1,92>,s>,1>
-<<< slicer 4.7734e-05s
+slice variable: <<<1,97>,s>,1>
+<<< slicer 5.1584e-05s
 >>> searcher 
-<<< searcher 0.0289393s
+<<< searcher 0.0291421s
 >>> transer 
-fud: 106
+fud: 112
 fud slice size: 165
 sized entropy label : 59.5801
 sized conditional entropy: 51.5529
 sized entropy decrease: 8.02716
 entropy variable: <<<<f,7>,50>,s>,8>
 fud slice cardinality: 2
-<<< transer 0.000156676s
+<<< transer 0.000128191s
 >>> slicer 
-slice size: 338
-slice variable: <<<1,11>,s>,2>
-<<< slicer 6.1978e-05s
+slice size: 196
+slice variable: <<<1,90>,s>,1>
+<<< slicer 4.889e-05s
 >>> searcher 
-<<< searcher 0.041719s
->>> transer 
-fud: 107
-fud slice size: 338
-sized entropy label : 59.1312
-sized conditional entropy: 43.6831
-sized entropy decrease: 15.4481
-entropy variable: <<<<f,1>,26>,s>,4>
-fud slice cardinality: 2
-<<< transer 0.000161295s
->>> slicer 
-slice size: 90
-slice variable: <<<1,57>,s>,1>
-<<< slicer 4.8504e-05s
->>> searcher 
-<<< searcher 0.027217s
->>> transer 
-fud: 108
-fud slice size: 90
-sized entropy label : 58.9606
-sized conditional entropy: 43.5328
-sized entropy decrease: 15.4277
-entropy variable: <<<<f,3>,25>,s>,1>
-fud slice cardinality: 2
-<<< transer 0.000158986s
->>> slicer 
-slice size: 241
-slice variable: <<<1,93>,s>,1>
-<<< slicer 6.0438e-05s
->>> searcher 
-<<< searcher 0.0369398s
->>> transer 
-fud: 109
-fud slice size: 241
-sized entropy label : 56.636
-sized conditional entropy: 47.2092
-sized entropy decrease: 9.42681
-entropy variable: <<<<f,7>,1>,s>,3>
-fud slice cardinality: 2
-<<< transer 0.00016707s
->>> slicer 
-slice size: 87
-slice variable: <<<1,89>,s>,1>
-<<< slicer 4.7734e-05s
->>> searcher 
-<<< searcher 0.0343329s
->>> transer 
-fud: 110
-fud slice size: 87
-sized entropy label : 56.4699
-sized conditional entropy: 49.3636
-sized entropy decrease: 7.10634
-entropy variable: <<<<f,2>,6>,s>,6>
-fud slice cardinality: 2
-<<< transer 0.000174384s
->>> slicer 
-slice size: 370
-slice variable: <<<1,98>,s>,1>
-<<< slicer 4.8504e-05s
->>> searcher 
-<<< searcher 0.0481034s
->>> transer 
-fud: 111
-fud slice size: 370
-sized entropy label : 54.9842
-sized conditional entropy: 46.844
-sized entropy decrease: 8.1402
-entropy variable: <<<<f,9>,1>,s>,5>
-fud slice cardinality: 2
-<<< transer 0.000320282s
->>> slicer 
-slice size: 113
-slice variable: <<<1,19>,s>,2>
-<<< slicer 7.8146e-05s
->>> searcher 
-<<< searcher 0.0230149s
->>> transer 
-fud: 112
-fud slice size: 113
-sized entropy label : 54.7189
-sized conditional entropy: 15.7532
-sized entropy decrease: 38.9657
-entropy variable: <<<<f,7>,1>,s>,9>
-fud slice cardinality: 2
-<<< transer 0.000159756s
->>> slicer 
-slice size: 164
-slice variable: <<<1,105>,s>,1>
-<<< slicer 6.8136e-05s
->>> searcher 
-<<< searcher 0.0342705s
+<<< searcher 0.0347864s
 >>> transer 
 fud: 113
-fud slice size: 164
-sized entropy label : 52.5449
-sized conditional entropy: 44.4409
-sized entropy decrease: 8.10395
-entropy variable: <<<<f,6>,34>,s>,7>
+fud slice size: 196
+sized entropy label : 59.2412
+sized conditional entropy: 50.1193
+sized entropy decrease: 9.12194
+entropy variable: <<<<f,10>,43>,s>,8>
 fud slice cardinality: 2
-<<< transer 0.00012742s
+<<< transer 0.000128191s
 >>> slicer 
-slice size: 104
-slice variable: <<<1,96>,s>,1>
+slice size: 86
+slice variable: <<<1,85>,s>,1>
 <<< slicer 4.8889e-05s
 >>> searcher 
-<<< searcher 0.0337793s
+<<< searcher 0.0255832s
 >>> transer 
 fud: 114
-fud slice size: 104
-sized entropy label : 51.8852
-sized conditional entropy: 45.1585
-sized entropy decrease: 6.72669
-entropy variable: <<<<f,4>,2>,s>,1>
+fud slice size: 86
+sized entropy label : 59.1273
+sized conditional entropy: 48.8431
+sized entropy decrease: 10.2842
+entropy variable: <<<<f,8>,65>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000158986s
+<<< transer 0.000167071s
 >>> slicer 
-slice size: 91
-slice variable: <<<1,82>,s>,1>
-<<< slicer 6.8522e-05s
+slice size: 69
+slice variable: <<<1,33>,s>,2>
+<<< slicer 4.812e-05s
 >>> searcher 
-<<< searcher 0.0207952s
+<<< searcher 0.0250977s
 >>> transer 
 fud: 115
-fud slice size: 91
-sized entropy label : 50.8732
-sized conditional entropy: 29.7531
-sized entropy decrease: 21.1201
-entropy variable: <<<<f,8>,8>,s>,5>
+fud slice size: 69
+sized entropy label : 56.0358
+sized conditional entropy: 42.3659
+sized entropy decrease: 13.6699
+entropy variable: <<<<f,5>,46>,s>,3>
 fud slice cardinality: 2
-<<< transer 0.000175154s
+<<< transer 0.000172461s
 >>> slicer 
-slice size: 68
-slice variable: <<<1,71>,s>,2>
-<<< slicer 4.658e-05s
+slice size: 303
+slice variable: <<<1,104>,s>,1>
+<<< slicer 4.7735e-05s
 >>> searcher 
-<<< searcher 0.0241089s
+<<< searcher 0.0319588s
 >>> transer 
 fud: 116
-fud slice size: 68
-sized entropy label : 50.6756
-sized conditional entropy: 18.5213
-sized entropy decrease: 32.1543
-entropy variable: <<<<f,2>,2>,s>,1>
+fud slice size: 303
+sized entropy label : 54.4961
+sized conditional entropy: 47.677
+sized entropy decrease: 6.81912
+entropy variable: <<<<f,3>,69>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000164376s
+<<< transer 0.000127422s
 >>> slicer 
-slice size: 162
-slice variable: <<<1,106>,s>,1>
-<<< slicer 4.6579e-05s
+slice size: 113
+slice variable: <<<1,15>,s>,2>
+<<< slicer 4.9275e-05s
 >>> searcher 
-<<< searcher 0.0321275s
+<<< searcher 0.0217089s
 >>> transer 
 fud: 117
+fud slice size: 113
+sized entropy label : 53.3435
+sized conditional entropy: 17.0525
+sized entropy decrease: 36.291
+entropy variable: <<<<f,7>,1>,s>,9>
+fud slice cardinality: 2
+<<< transer 0.000124727s
+>>> slicer 
+slice size: 338
+slice variable: <<<1,9>,s>,2>
+<<< slicer 4.581e-05s
+>>> searcher 
+<<< searcher 0.0411724s
+>>> transer 
+fud: 118
+fud slice size: 338
+sized entropy label : 52.9138
+sized conditional entropy: 36.1995
+sized entropy decrease: 16.7142
+entropy variable: <<<<f,1>,11>,s>,8>
+fud slice cardinality: 2
+<<< transer 0.000124341s
+>>> slicer 
+slice size: 197
+slice variable: <<<1,50>,s>,2>
+<<< slicer 4.966e-05s
+>>> searcher 
+<<< searcher 0.0248541s
+>>> transer 
+fud: 119
+fud slice size: 197
+sized entropy label : 51.3809
+sized conditional entropy: 34.0821
+sized entropy decrease: 17.2988
+entropy variable: <<<<f,4>,25>,s>,8>
+fud slice cardinality: 2
+<<< transer 0.000126652s
+>>> slicer 
+slice size: 288
+slice variable: <<<1,60>,s>,2>
+<<< slicer 4.812e-05s
+>>> searcher 
+<<< searcher 0.0396056s
+>>> transer 
+fud: 120
+fud slice size: 288
+sized entropy label : 50.7915
+sized conditional entropy: 37.4462
+sized entropy decrease: 13.3453
+entropy variable: <<<<f,4>,5>,s>,1>
+fud slice cardinality: 2
+<<< transer 0.000162837s
+>>> slicer 
+slice size: 162
+slice variable: <<<1,112>,s>,1>
+<<< slicer 6.9292e-05s
+>>> searcher 
+<<< searcher 0.0304313s
+>>> transer 
+fud: 121
 fud slice size: 162
 sized entropy label : 50.4543
 sized conditional entropy: 42.1296
 sized entropy decrease: 8.32469
 entropy variable: <<<<f,4>,2>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000160911s
+<<< transer 0.000126266s
 >>> slicer 
 slice size: 113
-slice variable: <<<1,103>,s>,1>
-<<< slicer 4.8119e-05s
+slice variable: <<<1,108>,s>,1>
+<<< slicer 4.7349e-05s
 >>> searcher 
-<<< searcher 0.0338105s
+<<< searcher 0.0289327s
 >>> transer 
-fud: 118
+fud: 122
 fud slice size: 113
 sized entropy label : 50.4247
 sized conditional entropy: 45.0998
 sized entropy decrease: 5.32487
 entropy variable: <<<<f,9>,6>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.000158986s
+<<< transer 0.000137045s
 >>> slicer 
 slice size: 64
-slice variable: <<<1,102>,s>,1>
-<<< slicer 5.9668e-05s
+slice variable: <<<1,107>,s>,1>
+<<< slicer 5.0045e-05s
 >>> searcher 
-<<< searcher 0.0284423s
+<<< searcher 0.024175s
 >>> transer 
-fud: 119
+fud: 123
 fud slice size: 64
 sized entropy label : 49.9786
 sized conditional entropy: 43.128
 sized entropy decrease: 6.85053
 entropy variable: <<<<f,12>,40>,s>,6>
 fud slice cardinality: 2
-<<< transer 0.000165531s
+<<< transer 0.000126266s
 >>> slicer 
-slice size: 74
-slice variable: <<<1,87>,s>,1>
-<<< slicer 4.6194e-05s
->>> searcher 
-<<< searcher 0.0220359s
->>> transer 
-fud: 120
-fud slice size: 74
-sized entropy label : 48.2431
-sized conditional entropy: 28.0034
-sized entropy decrease: 20.2397
-entropy variable: <<<<f,2>,13>,s>,7>
-fud slice cardinality: 2
-<<< transer 0.000160526s
->>> slicer 
-slice size: 288
-slice variable: <<<1,57>,s>,2>
-<<< slicer 4.5424e-05s
->>> searcher 
-<<< searcher 0.0395255s
->>> transer 
-fud: 121
-fud slice size: 288
-sized entropy label : 47.736
-sized conditional entropy: 33.9125
-sized entropy decrease: 13.8235
-entropy variable: <<<<f,4>,5>,s>,1>
-fud slice cardinality: 2
-<<< transer 0.000156291s
->>> slicer 
-slice size: 69
-slice variable: <<<1,56>,s>,2>
+slice size: 87
+slice variable: <<<1,86>,s>,1>
 <<< slicer 4.812e-05s
 >>> searcher 
-<<< searcher 0.027428s
->>> transer 
-fud: 122
-fud slice size: 69
-sized entropy label : 47.157
-sized conditional entropy: 38.5009
-sized entropy decrease: 8.65609
-entropy variable: <<<<f,2>,29>,s>,7>
-fud slice cardinality: 2
-<<< transer 0.000162451s
->>> slicer 
-slice size: 78
-slice variable: <<<1,31>,s>,2>
-<<< slicer 6.0823e-05s
->>> searcher 
-<<< searcher 0.0232085s
->>> transer 
-fud: 123
-fud slice size: 78
-sized entropy label : 46.5869
-sized conditional entropy: 30.3279
-sized entropy decrease: 16.259
-entropy variable: <<<<f,5>,3>,s>,1>
-fud slice cardinality: 2
-<<< transer 0.00016784s
->>> slicer 
-slice size: 70
-slice variable: <<<1,110>,s>,1>
-<<< slicer 4.6964e-05s
->>> searcher 
-<<< searcher 0.0321617s
+<<< searcher 0.0358342s
 >>> transer 
 fud: 124
-fud slice size: 70
-sized entropy label : 46.5304
-sized conditional entropy: 40.1233
-sized entropy decrease: 6.4071
-entropy variable: <<<<f,4>,13>,s>,7>
+fud slice size: 87
+sized entropy label : 49.8613
+sized conditional entropy: 29.2659
+sized entropy decrease: 20.5954
+entropy variable: <<<<f,8>,8>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.00012511s
+<<< transer 0.000125881s
 >>> slicer 
-slice size: 50
-slice variable: <<<1,85>,s>,1>
-<<< slicer 5.3509e-05s
+slice size: 363
+slice variable: <<<1,110>,s>,1>
+<<< slicer 4.812e-05s
 >>> searcher 
-<<< searcher 0.0209796s
+<<< searcher 0.0481444s
 >>> transer 
 fud: 125
-fud slice size: 50
-sized entropy label : 46.515
-sized conditional entropy: 28.4631
-sized entropy decrease: 18.0519
-entropy variable: <<<<f,9>,2>,s>,1>
+fud slice size: 363
+sized entropy label : 49.581
+sized conditional entropy: 41.9504
+sized entropy decrease: 7.6306
+entropy variable: <<<<f,10>,78>,s>,1>
 fud slice cardinality: 2
-<<< transer 0.00012434s
+<<< transer 0.000125112s
 >>> slicer 
-slice size: 62
-slice variable: <<<1,99>,s>,1>
-<<< slicer 4.658e-05s
+slice size: 58
+slice variable: <<<1,17>,s>,2>
+<<< slicer 5.1585e-05s
 >>> searcher 
-<<< searcher 0.0288792s
+<<< searcher 0.0385886s
 >>> transer 
 fud: 126
-fud slice size: 62
-sized entropy label : 45.3544
-sized conditional entropy: 36.1524
-sized entropy decrease: 9.20195
-entropy variable: <<<<f,4>,2>,s>,4>
+fud slice size: 58
+sized entropy label : 49.3826
+sized conditional entropy: 32.4709
+sized entropy decrease: 16.9118
+entropy variable: <<<<f,3>,13>,s>,7>
 fud slice cardinality: 2
-<<< transer 0.000134349s
+<<< transer 0.000143204s
 >>> slicer 
-slice size: 110
-slice variable: <<<1,118>,s>,1>
-<<< slicer 4.7735e-05s
+slice size: 193
+slice variable: <<<1,113>,s>,1>
+<<< slicer 5.12e-05s
 >>> searcher 
-<<< searcher 0.033461s
+<<< searcher 0.0398701s
 >>> transer 
 fud: 127
-fud slice size: 110
-sized entropy label : 45.0998
-sized conditional entropy: 39.3397
-sized entropy decrease: 5.76011
-entropy variable: <<<<f,11>,43>,s>,8>
+fud slice size: 193
+sized entropy label : 49.0207
+sized conditional entropy: 40.9638
+sized entropy decrease: 8.05686
+entropy variable: <<<<f,3>,4>,s>,5>
 fud slice cardinality: 2
-<<< transer 0.000160141s
-<<< applicationer 5.55958s
+<<< transer 0.000129346s
+<<< applicationer 6.32081s
 
 
