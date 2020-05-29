@@ -1,0 +1,7623 @@
+hr->dimension: 363
+hr->size: 13381
+>>> applicationer
+>>> applier 
+<<< applier 0s
+>>> shuffler 
+<<< shuffler 0.085567s
+>>> substrater 
+<<< substrater 0.359039s
+>>> applier 
+<<< applier 0.0731907s
+>>> layerer
+>>> layer	fud: 1	layer: 1
+substrate cardinality: 423
+fud cardinality: 0
+tupler	searched: 110203	rate: 58276.1
+tupler 1.89105s
+tuple cardinality: 10
+max tuple algn: -8344.34
+layer cardinality: 17
+parter	searched: 3640	rate: 194399
+parter 0.0187244s
+roller	searched: 15680	rate: 2.16721e+06
+roller 0.0072351s
+der vars algn density: 4507.68
+dervarser	searched: 268	rate: 67521.6
+dervarser 0.0039691s
+application 0.209637s
+<<< layer 2.13062s
+>>> layer	fud: 1	layer: 2
+substrate cardinality: 423
+fud cardinality: 17
+tupler	searched: 16480	rate: 58479.2
+tupler 0.28181s
+tuple cardinality: 10
+max tuple algn: -9498.92
+layer cardinality: 16
+parter	searched: 130	rate: 185927
+parter 0.0006992s
+roller	searched: 12193	rate: 2.12562e+06
+roller 0.0057362s
+der vars algn density: 8604.15
+dervarser	searched: 848	rate: 62975.8
+dervarser 0.0134655s
+application 0.201977s
+<<< layer 0.503689s
+>>> layer	fud: 1	layer: 3
+substrate cardinality: 423
+fud cardinality: 33
+tupler	searched: 21321	rate: 59820.3
+tupler 0.356417s
+tuple cardinality: 10
+max tuple algn: -9182.87
+layer cardinality: 18
+parter	searched: 130	rate: 274667
+parter 0.0004733s
+roller	searched: 23718	rate: 5.51312e+06
+roller 0.0043021s
+der vars algn density: 8623.97
+dervarser	searched: 1809	rate: 62529.2
+dervarser 0.0289305s
+application 0.200574s
+<<< layer 0.590699s
+>>> layer	fud: 1	layer: 4
+substrate cardinality: 423
+fud cardinality: 51
+tupler	searched: 27462	rate: 66505.6
+tupler 0.412928s
+tuple cardinality: 10
+max tuple algn: -9048.12
+layer cardinality: 13
+parter	searched: 130	rate: 288632
+parter 0.0004504s
+roller	searched: 35230	rate: 7.05334e+06
+roller 0.0049948s
+der vars algn density: 8623.97
+dervarser	searched: 2725	rate: 60248.8
+dervarser 0.0452291s
+application 0.20188s
+<<< layer 0.665485s
+<<< layerer 4.10208s
+>>> transer 
+fud: 1
+fud slice size: 13381
+derived cardinality: 3
+derived algn density: 8623.97
+derived impl bi-valency percent: 38.0225
+<<< transer 0.0157136s
+>>> applier 
+<<< applier 0.0231678s
+>>> slicer 
+slice size: 5413
+slice variable: <<<0,1>,s>,1>
+<<< slicer 0.0306284s
+>>> shuffler 
+<<< shuffler 0.0336191s
+>>> substrater 
+<<< substrater 0.145524s
+>>> applier 
+<<< applier 0.0547278s
+>>> layerer
+>>> layer	fud: 2	layer: 1
+substrate cardinality: 665
+fud cardinality: 0
+tupler	searched: 253830	rate: 145563
+tupler 1.74378s
+tuple cardinality: 10
+max tuple algn: -4464.37
+layer cardinality: 29
+parter	searched: 3640	rate: 219885
+parter 0.0165541s
+roller	searched: 16090	rate: 3.23905e+06
+roller 0.0049675s
+der vars algn density: 5087.91
+dervarser	searched: 1242	rate: 124333
+dervarser 0.0099893s
+application 0.129795s
+<<< layer 1.90509s
+>>> layer	fud: 2	layer: 2
+substrate cardinality: 665
+fud cardinality: 29
+tupler	searched: 34466	rate: 144447
+tupler 0.238607s
+tuple cardinality: 10
+max tuple algn: -2943.52
+layer cardinality: 18
+parter	searched: 130	rate: 256158
+parter 0.0005075s
+roller	searched: 23718	rate: 5.70652e+06
+roller 0.0041563s
+der vars algn density: 5094.54
+dervarser	searched: 2563	rate: 127083
+dervarser 0.020168s
+application 0.136805s
+<<< layer 0.400246s
+>>> layer	fud: 2	layer: 3
+substrate cardinality: 665
+fud cardinality: 47
+tupler	searched: 43290	rate: 149777
+tupler 0.289029s
+tuple cardinality: 10
+max tuple algn: -2957.89
+layer cardinality: 15
+parter	searched: 130	rate: 280778
+parter 0.000463s
+roller	searched: 12206	rate: 4.30167e+06
+roller 0.0028375s
+der vars algn density: 5094.54
+dervarser	searched: 4292	rate: 129635
+dervarser 0.0331083s
+application 0.126516s
+<<< layer 0.451956s
+<<< layerer 2.88768s
+>>> transer 
+fud: 2
+fud slice size: 5413
+derived cardinality: 4
+derived algn density: 5094.54
+derived impl bi-valency percent: 36.851
+fud slice cardinality: 3
+<<< transer 0.0075371s
+>>> applier 
+<<< applier 0.0239616s
+>>> slicer 
+slice size: 4589
+slice variable: <<<0,1>,s>,4>
+<<< slicer 0.0296242s
+>>> shuffler 
+<<< shuffler 0.0283405s
+>>> substrater 
+<<< substrater 0.144256s
+>>> applier 
+<<< applier 0.0464888s
+>>> layerer
+>>> layer	fud: 3	layer: 1
+substrate cardinality: 723
+fud cardinality: 0
+tupler	searched: 296953	rate: 169904
+tupler 1.74777s
+tuple cardinality: 10
+max tuple algn: -3138.29
+layer cardinality: 27
+parter	searched: 3640	rate: 175811
+parter 0.020704s
+roller	searched: 17070	rate: 3.45645e+06
+roller 0.0049386s
+der vars algn density: 4228.45
+dervarser	searched: 1192	rate: 132611
+dervarser 0.0089887s
+application 0.133412s
+<<< layer 1.91581s
+>>> layer	fud: 3	layer: 2
+substrate cardinality: 723
+fud cardinality: 27
+tupler	searched: 58183	rate: 117132
+tupler 0.496729s
+tuple cardinality: 10
+max tuple algn: -2830.59
+layer cardinality: 17
+parter	searched: 3640	rate: 229698
+parter 0.0158469s
+roller	searched: 491340	rate: 1.47744e+07
+roller 0.0332561s
+der vars algn density: 4228.45
+dervarser	searched: 2153	rate: 155185
+dervarser 0.0138738s
+application 0.124982s
+<<< layer 0.68469s
+<<< layerer 2.72458s
+>>> transer 
+fud: 3
+fud slice size: 4589
+derived cardinality: 4
+derived algn density: 4228.45
+derived impl bi-valency percent: 35.9537
+fud slice cardinality: 3
+<<< transer 0.0081922s
+>>> applier 
+<<< applier 0.0242593s
+>>> slicer 
+slice size: 3346
+slice variable: <<<0,1>,s>,3>
+<<< slicer 0.0237774s
+>>> shuffler 
+<<< shuffler 0.025301s
+>>> substrater 
+<<< substrater 0.120182s
+>>> applier 
+<<< applier 0.0454117s
+>>> layerer
+>>> layer	fud: 4	layer: 1
+substrate cardinality: 846
+fud cardinality: 0
+tupler	searched: 399535	rate: 217826
+tupler 1.83419s
+tuple cardinality: 10
+max tuple algn: 947.242
+layer cardinality: 20
+parter	searched: 3640	rate: 179727
+parter 0.0202529s
+roller	searched: 32642	rate: 4.87216e+06
+roller 0.0066997s
+der vars algn density: 3447.17
+dervarser	searched: 730	rate: 141841
+dervarser 0.0051466s
+application 0.120563s
+<<< layer 1.98686s
+>>> layer	fud: 4	layer: 2
+substrate cardinality: 846
+fud cardinality: 20
+tupler	searched: 61007	rate: 128763
+tupler 0.473792s
+tuple cardinality: 10
+max tuple algn: -2022.54
+layer cardinality: 10
+parter	searched: 3640	rate: 178711
+parter 0.0203681s
+roller	searched: 491340	rate: 1.17064e+07
+roller 0.041972s
+der vars algn density: 3447.17
+dervarser	searched: 1067	rate: 147809
+dervarser 0.0072188s
+application 0.122856s
+<<< layer 0.66621s
+<<< layerer 2.76182s
+>>> transer 
+fud: 4
+fud slice size: 3346
+derived cardinality: 4
+derived algn density: 3447.17
+derived impl bi-valency percent: 40.9749
+fud slice cardinality: 3
+<<< transer 0.0070411s
+>>> applier 
+<<< applier 0.0294738s
+>>> slicer 
+slice size: 3174
+slice variable: <<<0,3>,s>,1>
+<<< slicer 0.0265678s
+>>> shuffler 
+<<< shuffler 0.0223696s
+>>> substrater 
+<<< substrater 0.122975s
+>>> applier 
+<<< applier 0.0493537s
+>>> layerer
+>>> layer	fud: 5	layer: 1
+substrate cardinality: 869
+fud cardinality: 0
+tupler	searched: 420396	rate: 197441
+tupler 2.12922s
+tuple cardinality: 10
+max tuple algn: -2185.92
+layer cardinality: 16
+parter	searched: 3640	rate: 159568
+parter 0.0228116s
+roller	searched: 15683	rate: 1.7621e+06
+roller 0.0089002s
+der vars algn density: 1017.62
+dervarser	searched: 240	rate: 159437
+dervarser 0.0015053s
+application 0.128047s
+<<< layer 2.29049s
+>>> layer	fud: 5	layer: 2
+substrate cardinality: 869
+fud cardinality: 16
+tupler	searched: 32096	rate: 187377
+tupler 0.171291s
+tuple cardinality: 10
+max tuple algn: -2915.6
+layer cardinality: 24
+parter	searched: 130	rate: 197328
+parter 0.0006588s
+roller	searched: 20448	rate: 3.35213e+06
+roller 0.0061s
+der vars algn density: 2029.95
+dervarser	searched: 1322	rate: 265595
+dervarser 0.0049775s
+application 0.126915s
+<<< layer 0.309945s
+>>> layer	fud: 5	layer: 3
+substrate cardinality: 869
+fud cardinality: 40
+tupler	searched: 49616	rate: 209711
+tupler 0.236592s
+tuple cardinality: 10
+max tuple algn: -970.658
+layer cardinality: 20
+parter	searched: 130	rate: 213535
+parter 0.0006088s
+roller	searched: 35230	rate: 5.5146e+06
+roller 0.0063885s
+der vars algn density: 2029.95
+dervarser	searched: 2753	rate: 207683
+dervarser 0.0132558s
+application 0.126582s
+<<< layer 0.38343s
+<<< layerer 3.10516s
+>>> transer 
+fud: 5
+fud slice size: 3174
+derived cardinality: 3
+derived algn density: 2029.95
+derived impl bi-valency percent: 37.6822
+fud slice cardinality: 5
+<<< transer 0.0059964s
+>>> applier 
+<<< applier 0.0267008s
+>>> slicer 
+slice size: 2711
+slice variable: <<<0,2>,s>,2>
+<<< slicer 0.0181674s
+>>> shuffler 
+<<< shuffler 0.0192074s
+>>> substrater 
+<<< substrater 0.0906669s
+>>> applier 
+<<< applier 0.0395326s
+>>> layerer
+>>> layer	fud: 6	layer: 1
+substrate cardinality: 940
+fud cardinality: 0
+tupler	searched: 488130	rate: 234343
+tupler 2.08297s
+tuple cardinality: 10
+max tuple algn: -1687.39
+layer cardinality: 27
+parter	searched: 3640	rate: 190959
+parter 0.0190617s
+roller	searched: 17070	rate: 3.55595e+06
+roller 0.0048004s
+der vars algn density: 2357.73
+dervarser	searched: 1192	rate: 185893
+dervarser 0.0064123s
+application 0.115527s
+<<< layer 2.22877s
+>>> layer	fud: 6	layer: 2
+substrate cardinality: 940
+fud cardinality: 27
+tupler	searched: 74899	rate: 166177
+tupler 0.450718s
+tuple cardinality: 10
+max tuple algn: -1582.13
+layer cardinality: 6
+parter	searched: 3640	rate: 199128
+parter 0.0182797s
+roller	searched: 491340	rate: 1.21773e+07
+roller 0.040349s
+der vars algn density: 2357.73
+dervarser	searched: 1342	rate: 189035
+dervarser 0.0070992s
+application 0.100677s
+<<< layer 0.617126s
+<<< layerer 2.94815s
+>>> transer 
+fud: 6
+fud slice size: 2711
+derived cardinality: 4
+derived algn density: 2357.73
+derived impl bi-valency percent: 33.629
+fud slice cardinality: 3
+<<< transer 0.0045914s
+>>> applier 
+<<< applier 0.026914s
+>>> slicer 
+slice size: 2702
+slice variable: <<<0,2>,s>,1>
+<<< slicer 0.0226289s
+>>> shuffler 
+<<< shuffler 0.0190426s
+>>> substrater 
+<<< substrater 0.099594s
+>>> applier 
+<<< applier 0.039073s
+>>> layerer
+>>> layer	fud: 7	layer: 1
+substrate cardinality: 942
+fud cardinality: 0
+tupler	searched: 490111	rate: 241337
+tupler 2.03082s
+tuple cardinality: 10
+max tuple algn: -2178.15
+layer cardinality: 25
+parter	searched: 3640	rate: 174716
+parter 0.0208338s
+roller	searched: 16170	rate: 2.53822e+06
+roller 0.0063706s
+der vars algn density: 2506.32
+dervarser	searched: 940	rate: 194123
+dervarser 0.0048423s
+application 0.117101s
+<<< layer 2.17997s
+>>> layer	fud: 7	layer: 2
+substrate cardinality: 942
+fud cardinality: 25
+tupler	searched: 44025	rate: 238174
+tupler 0.184844s
+tuple cardinality: 10
+max tuple algn: -1621.29
+layer cardinality: 16
+parter	searched: 130	rate: 232392
+parter 0.0005594s
+roller	searched: 6450	rate: 2.24262e+06
+roller 0.0028761s
+der vars algn density: 2512.36
+dervarser	searched: 2018	rate: 195467
+dervarser 0.010324s
+application 0.104633s
+<<< layer 0.303239s
+>>> layer	fud: 7	layer: 3
+substrate cardinality: 942
+fud cardinality: 41
+tupler	searched: 54695	rate: 239683
+tupler 0.228197s
+tuple cardinality: 10
+max tuple algn: -1655.02
+layer cardinality: 14
+parter	searched: 130	rate: 137319
+parter 0.0009467s
+roller	searched: 6450	rate: 1.35601e+06
+roller 0.0047566s
+der vars algn density: 2512.36
+dervarser	searched: 3465	rate: 253584
+dervarser 0.0136641s
+application 0.107917s
+<<< layer 0.355485s
+<<< layerer 2.94345s
+>>> transer 
+fud: 7
+fud slice size: 2702
+derived cardinality: 4
+derived algn density: 2512.36
+derived impl bi-valency percent: 36.3341
+fud slice cardinality: 4
+<<< transer 0.0066755s
+>>> applier 
+<<< applier 0.0367301s
+>>> slicer 
+slice size: 1974
+slice variable: <<<0,6>,s>,1>
+<<< slicer 0.0154394s
+>>> shuffler 
+<<< shuffler 0.0134203s
+>>> substrater 
+<<< substrater 0.083534s
+>>> applier 
+<<< applier 0.0343993s
+>>> layerer
+>>> layer	fud: 8	layer: 1
+substrate cardinality: 1102
+fud cardinality: 0
+tupler	searched: 661551	rate: 251313
+tupler 2.63238s
+tuple cardinality: 10
+max tuple algn: -1532.45
+layer cardinality: 26
+parter	searched: 3640	rate: 122119
+parter 0.0298071s
+roller	searched: 16190	rate: 1.93371e+06
+roller 0.0083725s
+der vars algn density: 1854.01
+dervarser	searched: 1010	rate: 189771
+dervarser 0.0053222s
+application 0.119855s
+<<< layer 2.79574s
+>>> layer	fud: 8	layer: 2
+substrate cardinality: 1102
+fud cardinality: 26
+tupler	searched: 54572	rate: 288429
+tupler 0.189204s
+tuple cardinality: 10
+max tuple algn: -1102.67
+layer cardinality: 24
+parter	searched: 400	rate: 170162
+parter 0.0023507s
+roller	searched: 32972	rate: 4.15998e+06
+roller 0.007926s
+der vars algn density: 1854.01
+dervarser	searched: 2506	rate: 250430
+dervarser 0.0100068s
+application 0.0975647s
+<<< layer 0.307057s
+<<< layerer 3.18275s
+>>> transer 
+fud: 8
+fud slice size: 1974
+derived cardinality: 4
+derived algn density: 1854.01
+derived impl bi-valency percent: 36.7618
+fud slice cardinality: 3
+<<< transer 0.0041571s
+>>> applier 
+<<< applier 0.0449213s
+>>> slicer 
+slice size: 1766
+slice variable: <<<0,4>,s>,1>
+<<< slicer 0.014682s
+>>> shuffler 
+<<< shuffler 0.0132872s
+>>> substrater 
+<<< substrater 0.0635185s
+>>> applier 
+<<< applier 0.0374248s
+>>> layerer
+>>> layer	fud: 9	layer: 1
+substrate cardinality: 1165
+fud cardinality: 0
+tupler	searched: 736080	rate: 368097
+tupler 1.99969s
+tuple cardinality: 10
+max tuple algn: -1487.36
+layer cardinality: 24
+parter	searched: 3640	rate: 177192
+parter 0.0205427s
+roller	searched: 16090	rate: 2.45039e+06
+roller 0.0065663s
+der vars algn density: 1720.84
+dervarser	searched: 692	rate: 245355
+dervarser 0.0028204s
+application 0.0936414s
+<<< layer 2.12326s
+>>> layer	fud: 9	layer: 2
+substrate cardinality: 1165
+fud cardinality: 24
+tupler	searched: 52682	rate: 331355
+tupler 0.15899s
+tuple cardinality: 10
+max tuple algn: -1705.49
+layer cardinality: 17
+parter	searched: 130	rate: 248329
+parter 0.0005235s
+roller	searched: 35230	rate: 6.24645e+06
+roller 0.00564s
+der vars algn density: 1756.52
+dervarser	searched: 1933	rate: 287889
+dervarser 0.0067144s
+application 0.0829006s
+<<< layer 0.254771s
+>>> layer	fud: 9	layer: 3
+substrate cardinality: 1165
+fud cardinality: 41
+tupler	searched: 66795	rate: 362864
+tupler 0.184077s
+tuple cardinality: 10
+max tuple algn: -1762.34
+layer cardinality: 14
+parter	searched: 130	rate: 240785
+parter 0.0005399s
+roller	searched: 35230	rate: 6.01061e+06
+roller 0.0058613s
+der vars algn density: 1756.52
+dervarser	searched: 3377	rate: 301615
+dervarser 0.0111964s
+application 0.0856803s
+<<< layer 0.287358s
+<<< layerer 2.76814s
+>>> transer 
+fud: 9
+fud slice size: 1766
+derived cardinality: 4
+derived algn density: 1756.52
+derived impl bi-valency percent: 39.3118
+fud slice cardinality: 3
+<<< transer 0.0059008s
+>>> applier 
+<<< applier 0.0406289s
+>>> slicer 
+slice size: 1580
+slice variable: <<<0,4>,s>,2>
+<<< slicer 0.0146251s
+>>> shuffler 
+<<< shuffler 0.0111953s
+>>> substrater 
+<<< substrater 0.0539389s
+>>> applier 
+<<< applier 0.0291408s
+>>> layerer
+>>> layer	fud: 10	layer: 1
+substrate cardinality: 1232
+fud cardinality: 0
+tupler	searched: 819696	rate: 399859
+tupler 2.04996s
+tuple cardinality: 10
+max tuple algn: -645.323
+layer cardinality: 26
+parter	searched: 3640	rate: 181916
+parter 0.0200092s
+roller	searched: 37441	rate: 4.96223e+06
+roller 0.0075452s
+der vars algn density: 1600.03
+dervarser	searched: 1120	rate: 290419
+dervarser 0.0038565s
+application 0.0847134s
+<<< layer 2.16609s
+>>> layer	fud: 10	layer: 2
+substrate cardinality: 1232
+fud cardinality: 26
+tupler	searched: 96853	rate: 259555
+tupler 0.37315s
+tuple cardinality: 10
+max tuple algn: -1083.81
+layer cardinality: 19
+parter	searched: 3640	rate: 185189
+parter 0.0196556s
+roller	searched: 66810	rate: 8.18529e+06
+roller 0.0081622s
+der vars algn density: 1600.43
+dervarser	searched: 2368	rate: 392625
+dervarser 0.0060312s
+application 0.0782852s
+<<< layer 0.485288s
+>>> layer	fud: 10	layer: 3
+substrate cardinality: 1232
+fud cardinality: 45
+tupler	searched: 113897	rate: 305085
+tupler 0.373328s
+tuple cardinality: 10
+max tuple algn: -1077.28
+layer cardinality: 18
+parter	searched: 3640	rate: 177943
+parter 0.020456s
+roller	searched: 491340	rate: 1.20044e+07
+roller 0.04093s
+der vars algn density: 1600.43
+dervarser	searched: 3703	rate: 350199
+dervarser 0.010574s
+application 0.0776632s
+<<< layer 0.522955s
+<<< layerer 3.2548s
+>>> transer 
+fud: 10
+fud slice size: 1580
+derived cardinality: 4
+derived algn density: 1600.43
+derived impl bi-valency percent: 40.164
+fud slice cardinality: 3
+<<< transer 0.0058464s
+>>> applier 
+<<< applier 0.0412538s
+>>> slicer 
+slice size: 1415
+slice variable: <<<0,3>,s>,2>
+<<< slicer 0.0149142s
+>>> shuffler 
+<<< shuffler 0.0095371s
+>>> substrater 
+<<< substrater 0.0496922s
+>>> applier 
+<<< applier 0.0274865s
+>>> layerer
+>>> layer	fud: 11	layer: 1
+substrate cardinality: 1302
+fud cardinality: 0
+tupler	searched: 911851	rate: 441837
+tupler 2.06377s
+tuple cardinality: 10
+max tuple algn: -836.523
+layer cardinality: 24
+parter	searched: 3640	rate: 186761
+parter 0.0194901s
+roller	searched: 17070	rate: 3.53856e+06
+roller 0.004824s
+der vars algn density: 1384.21
+dervarser	searched: 982	rate: 289829
+dervarser 0.0033882s
+application 0.0748455s
+<<< layer 2.16632s
+>>> layer	fud: 11	layer: 2
+substrate cardinality: 1302
+fud cardinality: 24
+tupler	searched: 98518	rate: 287988
+tupler 0.342091s
+tuple cardinality: 10
+max tuple algn: -941.275
+layer cardinality: 22
+parter	searched: 3640	rate: 189694
+parter 0.0191888s
+roller	searched: 68919	rate: 8.62555e+06
+roller 0.0079901s
+der vars algn density: 1387.6
+dervarser	searched: 2461	rate: 329703
+dervarser 0.0074643s
+application 0.0689883s
+<<< layer 0.445725s
+>>> layer	fud: 11	layer: 3
+substrate cardinality: 1302
+fud cardinality: 46
+tupler	searched: 120534	rate: 306096
+tupler 0.393778s
+tuple cardinality: 10
+max tuple algn: -934.991
+layer cardinality: 13
+parter	searched: 3640	rate: 118976
+parter 0.0305943s
+roller	searched: 491340	rate: 7.43147e+06
+roller 0.0661161s
+der vars algn density: 1387.6
+dervarser	searched: 3111	rate: 284997
+dervarser 0.0109159s
+application 0.0980307s
+<<< layer 0.599439s
+<<< layerer 3.2847s
+>>> transer 
+fud: 11
+fud slice size: 1415
+derived cardinality: 4
+derived algn density: 1387.6
+derived impl bi-valency percent: 38.6633
+fud slice cardinality: 3
+<<< transer 0.0065888s
+>>> applier 
+<<< applier 0.0487542s
+>>> slicer 
+slice size: 1357
+slice variable: <<<0,7>,s>,2>
+<<< slicer 0.0141521s
+>>> shuffler 
+<<< shuffler 0.010706s
+>>> substrater 
+<<< substrater 0.0562725s
+>>> applier 
+<<< applier 0.03248s
+>>> layerer
+>>> layer	fud: 12	layer: 1
+substrate cardinality: 1329
+fud cardinality: 0
+tupler	searched: 948706	rate: 439020
+tupler 2.16096s
+tuple cardinality: 10
+max tuple algn: -1056.36
+layer cardinality: 18
+parter	searched: 3640	rate: 171460
+parter 0.0212295s
+roller	searched: 16090	rate: 2.43917e+06
+roller 0.0065965s
+der vars algn density: 1200.03
+dervarser	searched: 484	rate: 215360
+dervarser 0.0022474s
+application 0.0820971s
+<<< layer 2.27314s
+>>> layer	fud: 12	layer: 2
+substrate cardinality: 1329
+fud cardinality: 18
+tupler	searched: 51498	rate: 389011
+tupler 0.132382s
+tuple cardinality: 10
+max tuple algn: -721.164
+layer cardinality: 21
+parter	searched: 130	rate: 219409
+parter 0.0005925s
+roller	searched: 26596	rate: 5.14201e+06
+roller 0.0051723s
+der vars algn density: 1232.74
+dervarser	searched: 1664	rate: 356294
+dervarser 0.0046703s
+application 0.072882s
+<<< layer 0.215702s
+>>> layer	fud: 12	layer: 3
+substrate cardinality: 1329
+fud cardinality: 39
+tupler	searched: 108513	rate: 329971
+tupler 0.328857s
+tuple cardinality: 10
+max tuple algn: -830.812
+layer cardinality: 18
+parter	searched: 3640	rate: 210853
+parter 0.0172632s
+roller	searched: 491340	rate: 1.37196e+07
+roller 0.0358131s
+der vars algn density: 1232.74
+dervarser	searched: 2825	rate: 395188
+dervarser 0.0071485s
+application 0.0664803s
+<<< layer 0.455564s
+<<< layerer 3.02995s
+>>> transer 
+fud: 12
+fud slice size: 1357
+derived cardinality: 4
+derived algn density: 1232.74
+derived impl bi-valency percent: 35.3658
+fud slice cardinality: 3
+<<< transer 0.0055023s
+>>> applier 
+<<< applier 0.0405577s
+>>> slicer 
+slice size: 1323
+slice variable: <<<0,7>,s>,3>
+<<< slicer 0.0116047s
+>>> shuffler 
+<<< shuffler 0.0077561s
+>>> substrater 
+<<< substrater 0.0432072s
+>>> applier 
+<<< applier 0.0265692s
+>>> layerer
+>>> layer	fud: 13	layer: 1
+substrate cardinality: 1346
+fud cardinality: 0
+tupler	searched: 972285	rate: 477807
+tupler 2.03489s
+tuple cardinality: 10
+max tuple algn: -1003.49
+layer cardinality: 23
+parter	searched: 3640	rate: 186959
+parter 0.0194695s
+roller	searched: 17070	rate: 3.39789e+06
+roller 0.0050237s
+der vars algn density: 1215.42
+dervarser	searched: 916	rate: 270446
+dervarser 0.003387s
+application 0.0748766s
+<<< layer 2.13765s
+>>> layer	fud: 13	layer: 2
+substrate cardinality: 1346
+fud cardinality: 23
+tupler	searched: 100304	rate: 315237
+tupler 0.318186s
+tuple cardinality: 10
+max tuple algn: -885.455
+layer cardinality: 20
+parter	searched: 3640	rate: 185421
+parter 0.019631s
+roller	searched: 67513	rate: 8.48217e+06
+roller 0.0079594s
+der vars algn density: 1245.27
+dervarser	searched: 2245	rate: 356706
+dervarser 0.0062937s
+application 0.0693456s
+<<< layer 0.421419s
+>>> layer	fud: 13	layer: 3
+substrate cardinality: 1346
+fud cardinality: 43
+tupler	searched: 121362	rate: 329733
+tupler 0.368062s
+tuple cardinality: 10
+max tuple algn: -839.726
+layer cardinality: 20
+parter	searched: 3640	rate: 192118
+parter 0.0189467s
+roller	searched: 491340	rate: 1.24263e+07
+roller 0.0395403s
+der vars algn density: 1245.27
+dervarser	searched: 3751	rate: 440615
+dervarser 0.0085131s
+application 0.0679109s
+<<< layer 0.502976s
+<<< layerer 3.12928s
+>>> transer 
+fud: 13
+fud slice size: 1323
+derived cardinality: 4
+derived algn density: 1245.27
+derived impl bi-valency percent: 36.8546
+fud slice cardinality: 3
+<<< transer 0.0063187s
+>>> applier 
+<<< applier 0.0421668s
+>>> slicer 
+slice size: 1203
+slice variable: <<<0,5>,s>,3>
+<<< slicer 0.0123718s
+>>> shuffler 
+<<< shuffler 0.0082112s
+>>> substrater 
+<<< substrater 0.0461753s
+>>> applier 
+<<< applier 0.0286854s
+>>> layerer
+>>> layer	fud: 14	layer: 1
+substrate cardinality: 1412
+fud cardinality: 0
+tupler	searched: 1066566	rate: 518978
+tupler 2.05513s
+tuple cardinality: 10
+max tuple algn: -464.483
+layer cardinality: 26
+parter	searched: 3640	rate: 185243
+parter 0.0196499s
+roller	searched: 16338	rate: 2.95139e+06
+roller 0.0055357s
+der vars algn density: 1175.18
+dervarser	searched: 1120	rate: 311500
+dervarser 0.0035955s
+application 0.0764721s
+<<< layer 2.16038s
+>>> layer	fud: 14	layer: 2
+substrate cardinality: 1412
+fud cardinality: 26
+tupler	searched: 109746	rate: 327385
+tupler 0.33522s
+tuple cardinality: 10
+max tuple algn: -793.071
+layer cardinality: 14
+parter	searched: 3640	rate: 186166
+parter 0.0195524s
+roller	searched: 491340	rate: 1.27105e+07
+roller 0.0386562s
+der vars algn density: 1175.18
+dervarser	searched: 1656	rate: 362800
+dervarser 0.0045645s
+application 0.0654418s
+<<< layer 0.463439s
+<<< layerer 2.69558s
+>>> transer 
+fud: 14
+fud slice size: 1203
+derived cardinality: 4
+derived algn density: 1175.18
+derived impl bi-valency percent: 38.4896
+fud slice cardinality: 3
+<<< transer 0.0058004s
+>>> applier 
+<<< applier 0.0437582s
+>>> slicer 
+slice size: 1064
+slice variable: <<<0,5>,s>,4>
+<<< slicer 0.0122502s
+>>> shuffler 
+<<< shuffler 0.0070974s
+>>> substrater 
+<<< substrater 0.0420526s
+>>> applier 
+<<< applier 0.0236581s
+>>> layerer
+>>> layer	fud: 15	layer: 1
+substrate cardinality: 1501
+fud cardinality: 0
+tupler	searched: 1200600	rate: 571030
+tupler 2.10252s
+tuple cardinality: 10
+max tuple algn: -691.608
+layer cardinality: 24
+parter	searched: 3640	rate: 174039
+parter 0.0209148s
+roller	searched: 46914	rate: 6.76296e+06
+roller 0.0069369s
+der vars algn density: 965.793
+dervarser	searched: 982	rate: 274478
+dervarser 0.0035777s
+application 0.0685521s
+<<< layer 2.2025s
+>>> layer	fud: 15	layer: 2
+substrate cardinality: 1501
+fud cardinality: 24
+tupler	searched: 113366	rate: 363958
+tupler 0.311481s
+tuple cardinality: 10
+max tuple algn: -652.802
+layer cardinality: 16
+parter	searched: 3640	rate: 187344
+parter 0.0194295s
+roller	searched: 491340	rate: 1.22185e+07
+roller 0.0402128s
+der vars algn density: 965.793
+dervarser	searched: 1584	rate: 323298
+dervarser 0.0048995s
+application 0.0586573s
+<<< layer 0.434684s
+<<< layerer 2.6982s
+>>> transer 
+fud: 15
+fud slice size: 1064
+derived cardinality: 4
+derived algn density: 965.793
+derived impl bi-valency percent: 35.3328
+fud slice cardinality: 3
+<<< transer 0.0035533s
+>>> applier 
+<<< applier 0.04717s
+>>> slicer 
+slice size: 995
+slice variable: <<<0,8>,s>,2>
+<<< slicer 0.0137312s
+>>> shuffler 
+<<< shuffler 0.006966s
+>>> substrater 
+<<< substrater 0.0470823s
+>>> applier 
+<<< applier 0.0301895s
+>>> layerer
+>>> layer	fud: 16	layer: 1
+substrate cardinality: 1553
+fud cardinality: 0
+tupler	searched: 1282578	rate: 614259
+tupler 2.08801s
+tuple cardinality: 10
+max tuple algn: -655.806
+layer cardinality: 23
+parter	searched: 3640	rate: 183246
+parter 0.019864s
+roller	searched: 22044	rate: 4.13219e+06
+roller 0.0053347s
+der vars algn density: 840.983
+dervarser	searched: 916	rate: 314690
+dervarser 0.0029108s
+application 0.0661383s
+<<< layer 2.18226s
+>>> layer	fud: 16	layer: 2
+substrate cardinality: 1553
+fud cardinality: 23
+tupler	searched: 115445	rate: 371789
+tupler 0.310512s
+tuple cardinality: 10
+max tuple algn: -569.034
+layer cardinality: 18
+parter	searched: 3640	rate: 192185
+parter 0.0189401s
+roller	searched: 491340	rate: 1.26167e+07
+roller 0.0389437s
+der vars algn density: 840.983
+dervarser	searched: 1877	rate: 408443
+dervarser 0.0045955s
+application 0.0572784s
+<<< layer 0.430273s
+<<< layerer 2.69515s
+>>> transer 
+fud: 16
+fud slice size: 995
+derived cardinality: 4
+derived algn density: 840.983
+derived impl bi-valency percent: 32.5429
+fud slice cardinality: 3
+<<< transer 0.0041179s
+>>> applier 
+<<< applier 0.0422503s
+>>> slicer 
+slice size: 979
+slice variable: <<<0,8>,s>,1>
+<<< slicer 0.0120043s
+>>> shuffler 
+<<< shuffler 0.0067994s
+>>> substrater 
+<<< substrater 0.0409698s
+>>> applier 
+<<< applier 0.0269859s
+>>> layerer
+>>> layer	fud: 17	layer: 1
+substrate cardinality: 1565
+fud cardinality: 0
+tupler	searched: 1301880	rate: 641300
+tupler 2.03006s
+tuple cardinality: 10
+max tuple algn: -564.85
+layer cardinality: 25
+parter	searched: 3640	rate: 171381
+parter 0.0212392s
+roller	searched: 17070	rate: 3.25031e+06
+roller 0.0052518s
+der vars algn density: 700.03
+dervarser	searched: 1050	rate: 328958
+dervarser 0.0031919s
+application 0.0768414s
+<<< layer 2.13659s
+>>> layer	fud: 17	layer: 2
+substrate cardinality: 1565
+fud cardinality: 25
+tupler	searched: 119747	rate: 395040
+tupler 0.303126s
+tuple cardinality: 10
+max tuple algn: -542.153
+layer cardinality: 17
+parter	searched: 3640	rate: 182299
+parter 0.0199672s
+roller	searched: 66810	rate: 8.73893e+06
+roller 0.0076451s
+der vars algn density: 728.981
+dervarser	searched: 1753	rate: 373455
+dervarser 0.004694s
+application 0.0590618s
+<<< layer 0.394497s
+>>> layer	fud: 17	layer: 3
+substrate cardinality: 1565
+fud cardinality: 42
+tupler	searched: 129130	rate: 395298
+tupler 0.326665s
+tuple cardinality: 10
+max tuple algn: -493.561
+layer cardinality: 14
+parter	searched: 3640	rate: 193170
+parter 0.0188435s
+roller	searched: 491340	rate: 1.251e+07
+roller 0.0392757s
+der vars algn density: 728.981
+dervarser	searched: 2339	rate: 413594
+dervarser 0.0056553s
+application 0.0579968s
+<<< layer 0.448439s
+<<< layerer 3.04327s
+>>> transer 
+fud: 17
+fud slice size: 979
+derived cardinality: 4
+derived algn density: 728.981
+derived impl bi-valency percent: 28.1724
+fud slice cardinality: 3
+<<< transer 0.0044007s
+>>> applier 
+<<< applier 0.0427609s
+>>> slicer 
+slice size: 902
+slice variable: <<<0,9>,s>,2>
+<<< slicer 0.0113606s
+>>> shuffler 
+<<< shuffler 0.0061569s
+>>> substrater 
+<<< substrater 0.0404326s
+>>> applier 
+<<< applier 0.02503s
+>>> layerer
+>>> layer	fud: 18	layer: 1
+substrate cardinality: 1631
+fud cardinality: 0
+tupler	searched: 1410615	rate: 611341
+tupler 2.30741s
+tuple cardinality: 10
+max tuple algn: 211.006
+layer cardinality: 23
+parter	searched: 3640	rate: 128020
+parter 0.0284331s
+roller	searched: 27018	rate: 3.4982e+06
+roller 0.0077234s
+der vars algn density: 773.597
+dervarser	searched: 916	rate: 293458
+dervarser 0.0031214s
+application 0.0822043s
+<<< layer 2.4289s
+>>> layer	fud: 18	layer: 2
+substrate cardinality: 1631
+fud cardinality: 23
+tupler	searched: 121164	rate: 354764
+tupler 0.341534s
+tuple cardinality: 10
+max tuple algn: 153.873
+layer cardinality: 18
+parter	searched: 3640	rate: 168740
+parter 0.0215717s
+roller	searched: 491340	rate: 1.13574e+07
+roller 0.0432618s
+der vars algn density: 773.597
+dervarser	searched: 1777	rate: 416833
+dervarser 0.0042631s
+application 0.0620454s
+<<< layer 0.472679s
+<<< layerer 2.96754s
+>>> transer 
+fud: 18
+fud slice size: 902
+derived cardinality: 4
+derived algn density: 773.597
+derived impl bi-valency percent: 33.0936
+fud slice cardinality: 3
+<<< transer 0.0043247s
+>>> applier 
+<<< applier 0.0448385s
+>>> slicer 
+slice size: 900
+slice variable: <<<0,5>,s>,2>
+<<< slicer 0.0122923s
+>>> shuffler 
+<<< shuffler 0.0064874s
+>>> substrater 
+<<< substrater 0.0489086s
+>>> applier 
+<<< applier 0.0315205s
+>>> layerer
+>>> layer	fud: 19	layer: 1
+substrate cardinality: 1632
+fud cardinality: 0
+tupler	searched: 1412296	rate: 603552
+tupler 2.33997s
+tuple cardinality: 10
+max tuple algn: -527.093
+layer cardinality: 19
+parter	searched: 3640	rate: 168323
+parter 0.0216251s
+roller	searched: 66810	rate: 6.2216e+06
+roller 0.0107384s
+der vars algn density: 745.081
+dervarser	searched: 672	rate: 269847
+dervarser 0.0024903s
+application 0.0704927s
+<<< layer 2.44533s
+>>> layer	fud: 19	layer: 2
+substrate cardinality: 1632
+fud cardinality: 19
+tupler	searched: 114256	rate: 373672
+tupler 0.305765s
+tuple cardinality: 10
+max tuple algn: -504.801
+layer cardinality: 10
+parter	searched: 3640	rate: 136048
+parter 0.0267553s
+roller	searched: 491340	rate: 9.20423e+06
+roller 0.053382s
+der vars algn density: 745.081
+dervarser	searched: 986	rate: 313793
+dervarser 0.0031422s
+application 0.062556s
+<<< layer 0.451604s
+<<< layerer 2.96797s
+>>> transer 
+fud: 19
+fud slice size: 900
+derived cardinality: 4
+derived algn density: 745.081
+derived impl bi-valency percent: 31.779
+fud slice cardinality: 3
+<<< transer 0.0044689s
+>>> applier 
+<<< applier 0.0483346s
+>>> slicer 
+slice size: 895
+slice variable: <<<0,10>,s>,1>
+<<< slicer 0.0123828s
+>>> shuffler 
+<<< shuffler 0.007223s
+>>> substrater 
+<<< substrater 0.0465855s
+>>> applier 
+<<< applier 0.0302726s
+>>> layerer
+>>> layer	fud: 20	layer: 1
+substrate cardinality: 1637
+fud cardinality: 0
+tupler	searched: 1420716	rate: 625028
+tupler 2.27304s
+tuple cardinality: 10
+max tuple algn: -676.56
+layer cardinality: 30
+parter	searched: 3640	rate: 168462
+parter 0.0216072s
+roller	searched: 17070	rate: 3.21457e+06
+roller 0.0053102s
+der vars algn density: 872.401
+dervarser	searched: 1420	rate: 387333
+dervarser 0.0036661s
+application 0.0715739s
+<<< layer 2.3752s
+>>> layer	fud: 20	layer: 2
+substrate cardinality: 1637
+fud cardinality: 30
+tupler	searched: 133901	rate: 385569
+tupler 0.347282s
+tuple cardinality: 10
+max tuple algn: -601.655
+layer cardinality: 23
+parter	searched: 3640	rate: 174508
+parter 0.0208586s
+roller	searched: 407840	rate: 1.12564e+07
+roller 0.0362317s
+der vars algn density: 872.401
+dervarser	searched: 2941	rate: 450548
+dervarser 0.0065276s
+application 0.0612095s
+<<< layer 0.472112s
+<<< layerer 2.92098s
+>>> transer 
+fud: 20
+fud slice size: 895
+derived cardinality: 4
+derived algn density: 872.401
+derived impl bi-valency percent: 38.3915
+fud slice cardinality: 3
+<<< transer 0.0045039s
+>>> applier 
+<<< applier 0.0525135s
+>>> slicer 
+slice size: 880
+slice variable: <<<0,13>,s>,1>
+<<< slicer 0.0140387s
+>>> shuffler 
+<<< shuffler 0.0069462s
+>>> substrater 
+<<< substrater 0.0471055s
+>>> applier 
+<<< applier 0.0294657s
+>>> layerer
+>>> layer	fud: 21	layer: 1
+substrate cardinality: 1651
+fud cardinality: 0
+tupler	searched: 1444425	rate: 587203
+tupler 2.45984s
+tuple cardinality: 10
+max tuple algn: -679.321
+layer cardinality: 32
+parter	searched: 3640	rate: 142714
+parter 0.0255055s
+roller	searched: 14732	rate: 1.63884e+06
+roller 0.0089893s
+der vars algn density: 734.721
+dervarser	searched: 1492	rate: 350514
+dervarser 0.0042566s
+application 0.0745302s
+<<< layer 2.57312s
+>>> layer	fud: 21	layer: 2
+substrate cardinality: 1651
+fud cardinality: 32
+tupler	searched: 88006	rate: 523391
+tupler 0.168146s
+tuple cardinality: 10
+max tuple algn: -691.717
+layer cardinality: 16
+parter	searched: 130	rate: 161651
+parter 0.0008042s
+roller	searched: 54452	rate: 5.09998e+06
+roller 0.0106769s
+der vars algn density: 848.391
+dervarser	searched: 2738	rate: 446663
+dervarser 0.0061299s
+application 0.0636296s
+<<< layer 0.24939s
+>>> layer	fud: 21	layer: 3
+substrate cardinality: 1651
+fud cardinality: 48
+tupler	searched: 105928	rate: 533302
+tupler 0.198627s
+tuple cardinality: 10
+max tuple algn: -832.972
+layer cardinality: 20
+parter	searched: 130	rate: 117191
+parter 0.0011093s
+roller	searched: 38086	rate: 3.03481e+06
+roller 0.0125497s
+der vars algn density: 848.391
+dervarser	searched: 5128	rate: 495828
+dervarser 0.0103423s
+application 0.0675923s
+<<< layer 0.290224s
+<<< layerer 3.18569s
+>>> transer 
+fud: 21
+fud slice size: 880
+derived cardinality: 4
+derived algn density: 848.391
+derived impl bi-valency percent: 37.9002
+fud slice cardinality: 4
+<<< transer 0.0049373s
+>>> applier 
+<<< applier 0.0552712s
+>>> slicer 
+slice size: 879
+slice variable: <<<0,11>,s>,1>
+<<< slicer 0.0142448s
+>>> shuffler 
+<<< shuffler 0.0084295s
+>>> substrater 
+<<< substrater 0.0495666s
+>>> applier 
+<<< applier 0.0303643s
+>>> layerer
+>>> layer	fud: 22	layer: 1
+substrate cardinality: 1652
+fud cardinality: 0
+tupler	searched: 1446126	rate: 567610
+tupler 2.54774s
+tuple cardinality: 10
+max tuple algn: -443.695
+layer cardinality: 20
+parter	searched: 3640	rate: 124796
+parter 0.0291676s
+roller	searched: 52591	rate: 5.11536e+06
+roller 0.010281s
+der vars algn density: 869.676
+dervarser	searched: 730	rate: 269025
+dervarser 0.0027135s
+application 0.0689427s
+<<< layer 2.65889s
+>>> layer	fud: 22	layer: 2
+substrate cardinality: 1652
+fud cardinality: 20
+tupler	searched: 117470	rate: 343838
+tupler 0.341643s
+tuple cardinality: 10
+max tuple algn: -588.941
+layer cardinality: 12
+parter	searched: 3640	rate: 153923
+parter 0.0236482s
+roller	searched: 491340	rate: 1.06876e+07
+roller 0.0459731s
+der vars algn density: 869.676
+dervarser	searched: 1236	rate: 339244
+dervarser 0.0036434s
+application 0.0584076s
+<<< layer 0.47332s
+<<< layerer 3.20814s
+>>> transer 
+fud: 22
+fud slice size: 879
+derived cardinality: 4
+derived algn density: 869.676
+derived impl bi-valency percent: 39.0686
+fud slice cardinality: 3
+<<< transer 0.0042419s
+>>> applier 
+<<< applier 0.0621136s
+>>> slicer 
+slice size: 864
+slice variable: <<<0,9>,s>,1>
+<<< slicer 0.0131161s
+>>> shuffler 
+<<< shuffler 0.0078473s
+>>> substrater 
+<<< substrater 0.0503136s
+>>> applier 
+<<< applier 0.0323032s
+>>> layerer
+>>> layer	fud: 23	layer: 1
+substrate cardinality: 1666
+fud cardinality: 0
+tupler	searched: 1470045	rate: 544704
+tupler 2.6988s
+tuple cardinality: 10
+max tuple algn: -544.261
+layer cardinality: 19
+parter	searched: 3640	rate: 139467
+parter 0.0260993s
+roller	searched: 70325	rate: 6.45545e+06
+roller 0.0108939s
+der vars algn density: 760.435
+dervarser	searched: 672	rate: 284048
+dervarser 0.0023658s
+application 0.0734553s
+<<< layer 2.81162s
+>>> layer	fud: 23	layer: 2
+substrate cardinality: 1666
+fud cardinality: 19
+tupler	searched: 116597	rate: 342890
+tupler 0.340042s
+tuple cardinality: 10
+max tuple algn: -515.347
+layer cardinality: 4
+parter	searched: 3640	rate: 164828
+parter 0.0220836s
+roller	searched: 491340	rate: 1.05755e+07
+roller 0.0464602s
+der vars algn density: 760.435
+dervarser	searched: 758	rate: 291842
+dervarser 0.0025973s
+application 0.0701708s
+<<< layer 0.481358s
+<<< layerer 3.35519s
+>>> transer 
+fud: 23
+fud slice size: 864
+derived cardinality: 4
+derived algn density: 760.435
+derived impl bi-valency percent: 34.0949
+fud slice cardinality: 3
+<<< transer 0.0052406s
+>>> applier 
+<<< applier 0.0379546s
+>>> slicer 
+slice size: 778
+slice variable: <<<0,17>,s>,1>
+<<< slicer 0.0145582s
+>>> shuffler 
+<<< shuffler 0.006843s
+>>> substrater 
+<<< substrater 0.0496749s
+>>> applier 
+<<< applier 0.0629349s
+>>> layerer
+>>> layer	fud: 24	layer: 1
+substrate cardinality: 1756
+fud cardinality: 0
+tupler	searched: 1628490	rate: 696774
+tupler 2.33719s
+tuple cardinality: 10
+max tuple algn: -339.544
+layer cardinality: 28
+parter	searched: 3640	rate: 143969
+parter 0.0252832s
+roller	searched: 31992	rate: 4.37432e+06
+roller 0.0073136s
+der vars algn density: 459.248
+dervarser	searched: 1266	rate: 391212
+dervarser 0.0032361s
+application 0.0719556s
+<<< layer 2.44498s
+>>> layer	fud: 24	layer: 2
+substrate cardinality: 1756
+fud cardinality: 28
+tupler	searched: 139680	rate: 397531
+tupler 0.351368s
+tuple cardinality: 10
+max tuple algn: -312.017
+layer cardinality: 10
+parter	searched: 3640	rate: 166251
+parter 0.0218946s
+roller	searched: 491340	rate: 1.09753e+07
+roller 0.0447677s
+der vars algn density: 459.248
+dervarser	searched: 1660	rate: 489055
+dervarser 0.0033943s
+application 0.0565185s
+<<< layer 0.477947s
+<<< layerer 2.98331s
+>>> transer 
+fud: 24
+fud slice size: 778
+derived cardinality: 4
+derived algn density: 459.248
+derived impl bi-valency percent: 21.7457
+fud slice cardinality: 3
+<<< transer 0.0047453s
+>>> applier 
+<<< applier 0.058397s
+>>> slicer 
+slice size: 750
+slice variable: <<<0,14>,s>,1>
+<<< slicer 0.0119404s
+>>> shuffler 
+<<< shuffler 0.0057565s
+>>> substrater 
+<<< substrater 0.0414464s
+>>> applier 
+<<< applier 0.0265507s
+>>> layerer
+>>> layer	fud: 25	layer: 1
+substrate cardinality: 1788
+fud cardinality: 0
+tupler	searched: 1686778	rate: 743653
+tupler 2.26823s
+tuple cardinality: 10
+max tuple algn: -90.9709
+layer cardinality: 27
+parter	searched: 3640	rate: 151896
+parter 0.0239637s
+roller	searched: 16090	rate: 2.24658e+06
+roller 0.007162s
+der vars algn density: 711.524
+dervarser	searched: 1192	rate: 415143
+dervarser 0.0028713s
+application 0.0548086s
+<<< layer 2.35704s
+>>> layer	fud: 25	layer: 2
+substrate cardinality: 1788
+fud cardinality: 27
+tupler	searched: 140667	rate: 471924
+tupler 0.298071s
+tuple cardinality: 10
+max tuple algn: -403.948
+layer cardinality: 10
+parter	searched: 3640	rate: 185413
+parter 0.0196319s
+roller	searched: 240840	rate: 1.10441e+07
+roller 0.0218071s
+der vars algn density: 711.524
+dervarser	searched: 1512	rate: 431003
+dervarser 0.0035081s
+application 0.0510274s
+<<< layer 0.394049s
+<<< layerer 2.80089s
+>>> transer 
+fud: 25
+fud slice size: 750
+derived cardinality: 4
+derived algn density: 711.524
+derived impl bi-valency percent: 37.195
+fud slice cardinality: 3
+<<< transer 0.0039944s
+>>> applier 
+<<< applier 0.0309973s
+>>> slicer 
+slice size: 737
+slice variable: <<<0,15>,s>,1>
+<<< slicer 0.0135054s
+>>> shuffler 
+<<< shuffler 0.0053858s
+>>> substrater 
+<<< substrater 0.0384749s
+>>> applier 
+<<< applier 0.0239919s
+>>> layerer
+>>> layer	fud: 26	layer: 1
+substrate cardinality: 1804
+fud cardinality: 0
+tupler	searched: 1716306	rate: 851534
+tupler 2.01555s
+tuple cardinality: 10
+max tuple algn: -480.369
+layer cardinality: 23
+parter	searched: 3640	rate: 184052
+parter 0.019777s
+roller	searched: 22044	rate: 4.23028e+06
+roller 0.005211s
+der vars algn density: 607.868
+dervarser	searched: 916	rate: 384680
+dervarser 0.0023812s
+application 0.0470134s
+<<< layer 2.08993s
+>>> layer	fud: 26	layer: 2
+substrate cardinality: 1804
+fud cardinality: 23
+tupler	searched: 133757	rate: 442999
+tupler 0.301935s
+tuple cardinality: 10
+max tuple algn: -452.645
+layer cardinality: 16
+parter	searched: 3640	rate: 191472
+parter 0.0190106s
+roller	searched: 73840	rate: 8.65346e+06
+roller 0.008533s
+der vars algn density: 607.868
+dervarser	searched: 1611	rate: 437784
+dervarser 0.0036799s
+application 0.0508772s
+<<< layer 0.384039s
+<<< layerer 2.51732s
+>>> transer 
+fud: 26
+fud slice size: 737
+derived cardinality: 4
+derived algn density: 607.868
+derived impl bi-valency percent: 31.6437
+fud slice cardinality: 3
+<<< transer 0.0043835s
+>>> applier 
+<<< applier 0.031001s
+>>> slicer 
+slice size: 737
+slice variable: <<<0,6>,s>,2>
+<<< slicer 0.0118936s
+>>> shuffler 
+<<< shuffler 0.0052684s
+>>> substrater 
+<<< substrater 0.0345536s
+>>> applier 
+<<< applier 0.0207554s
+>>> layerer
+>>> layer	fud: 27	layer: 1
+substrate cardinality: 1757
+fud cardinality: 0
+tupler	searched: 1630296	rate: 817611
+tupler 1.99398s
+tuple cardinality: 10
+max tuple algn: -373.301
+layer cardinality: 20
+parter	searched: 3640	rate: 173995
+parter 0.0209202s
+roller	searched: 491340	rate: 1.20172e+07
+roller 0.0408865s
+der vars algn density: 726.23
+dervarser	searched: 730	rate: 328001
+dervarser 0.0022256s
+application 0.0427801s
+<<< layer 2.10079s
+>>> layer	fud: 27	layer: 2
+substrate cardinality: 1757
+fud cardinality: 20
+tupler	searched: 124728	rate: 450379
+tupler 0.27694s
+tuple cardinality: 10
+max tuple algn: -492.984
+layer cardinality: 6
+parter	searched: 3640	rate: 187198
+parter 0.0194447s
+roller	searched: 491340	rate: 1.23469e+07
+roller 0.0397945s
+der vars algn density: 726.23
+dervarser	searched: 917	rate: 404714
+dervarser 0.0022658s
+application 0.0402944s
+<<< layer 0.378743s
+<<< layerer 2.51554s
+>>> transer 
+fud: 27
+fud slice size: 737
+derived cardinality: 4
+derived algn density: 726.23
+derived impl bi-valency percent: 38.883
+fud slice cardinality: 3
+<<< transer 0.0036071s
+>>> applier 
+<<< applier 0.0311557s
+>>> slicer 
+slice size: 734
+slice variable: <<<0,16>,s>,1>
+<<< slicer 0.0110497s
+>>> shuffler 
+<<< shuffler 0.0052535s
+>>> substrater 
+<<< substrater 0.0379201s
+>>> applier 
+<<< applier 0.0239436s
+>>> layerer
+>>> layer	fud: 28	layer: 1
+substrate cardinality: 1808
+fud cardinality: 0
+tupler	searched: 1723728	rate: 821108
+tupler 2.09927s
+tuple cardinality: 10
+max tuple algn: -357.702
+layer cardinality: 21
+parter	searched: 3640	rate: 189852
+parter 0.0191728s
+roller	searched: 17070	rate: 3.55625e+06
+roller 0.0048s
+der vars algn density: 456.453
+dervarser	searched: 790	rate: 322147
+dervarser 0.0024523s
+application 0.047924s
+<<< layer 2.17362s
+>>> layer	fud: 28	layer: 2
+substrate cardinality: 1808
+fud cardinality: 21
+tupler	searched: 130331	rate: 470972
+tupler 0.276728s
+tuple cardinality: 10
+max tuple algn: -310.349
+layer cardinality: 8
+parter	searched: 3640	rate: 185733
+parter 0.019598s
+roller	searched: 491340	rate: 1.24043e+07
+roller 0.0396106s
+der vars algn density: 456.453
+dervarser	searched: 1066	rate: 398803
+dervarser 0.002673s
+application 0.0474619s
+<<< layer 0.386074s
+<<< layerer 2.60251s
+>>> transer 
+fud: 28
+fud slice size: 734
+derived cardinality: 4
+derived algn density: 456.453
+derived impl bi-valency percent: 23.0339
+fud slice cardinality: 3
+<<< transer 0.003525s
+>>> applier 
+<<< applier 0.0303264s
+>>> slicer 
+slice size: 685
+slice variable: <<<0,10>,s>,2>
+<<< slicer 0.0124675s
+>>> shuffler 
+<<< shuffler 0.0048274s
+>>> substrater 
+<<< substrater 0.0353293s
+>>> applier 
+<<< applier 0.0217849s
+>>> layerer
+>>> layer	fud: 29	layer: 1
+substrate cardinality: 1871
+fud cardinality: 0
+tupler	searched: 1842735	rate: 876005
+tupler 2.10357s
+tuple cardinality: 10
+max tuple algn: -385.911
+layer cardinality: 19
+parter	searched: 3640	rate: 177727
+parter 0.0204808s
+roller	searched: 486813	rate: 1.15136e+07
+roller 0.0422815s
+der vars algn density: 567.428
+dervarser	searched: 672	rate: 331967
+dervarser 0.0020243s
+application 0.0445892s
+<<< layer 2.21295s
+>>> layer	fud: 29	layer: 2
+substrate cardinality: 1871
+fud cardinality: 19
+tupler	searched: 130722	rate: 449727
+tupler 0.29067s
+tuple cardinality: 10
+max tuple algn: -385.911
+layer cardinality: 4
+parter	searched: 3640	rate: 187142
+parter 0.0194505s
+roller	searched: 491340	rate: 1.23182e+07
+roller 0.0398872s
+der vars algn density: 567.428
+dervarser	searched: 722	rate: 328705
+dervarser 0.0021965s
+application 0.0438152s
+<<< layer 0.396022s
+<<< layerer 2.64705s
+>>> transer 
+fud: 29
+fud slice size: 685
+derived cardinality: 4
+derived algn density: 567.428
+derived impl bi-valency percent: 31.8007
+fud slice cardinality: 3
+<<< transer 0.0037171s
+>>> applier 
+<<< applier 0.0312622s
+>>> slicer 
+slice size: 682
+slice variable: <<<0,12>,s>,1>
+<<< slicer 0.0113186s
+>>> shuffler 
+<<< shuffler 0.0049798s
+>>> substrater 
+<<< substrater 0.0401224s
+>>> applier 
+<<< applier 0.0241617s
+>>> layerer
+>>> layer	fud: 30	layer: 1
+substrate cardinality: 1875
+fud cardinality: 0
+tupler	searched: 1850425	rate: 886236
+tupler 2.08796s
+tuple cardinality: 10
+max tuple algn: -315.777
+layer cardinality: 36
+parter	searched: 3640	rate: 166091
+parter 0.0219157s
+roller	searched: 15700	rate: 2.27573e+06
+roller 0.0068989s
+der vars algn density: 642.018
+dervarser	searched: 1766	rate: 604277
+dervarser 0.0029225s
+application 0.0483167s
+<<< layer 2.16802s
+>>> layer	fud: 30	layer: 2
+substrate cardinality: 1875
+fud cardinality: 36
+tupler	searched: 112055	rate: 787886
+tupler 0.142222s
+tuple cardinality: 10
+max tuple algn: -487.659
+layer cardinality: 20
+parter	searched: 400	rate: 188884
+parter 0.0021177s
+roller	searched: 82280	rate: 6.79349e+06
+roller 0.0121116s
+der vars algn density: 411.525
+dervarser	searched: 2788	rate: 656093
+dervarser 0.0042494s
+application 0.0490081s
+<<< layer 0.209712s
+<<< layerer 2.42106s
+>>> transer 
+fud: 30
+fud slice size: 682
+derived cardinality: 4
+derived algn density: 642.018
+derived impl bi-valency percent: 36.8605
+fud slice cardinality: 3
+<<< transer 0.0041252s
+>>> applier 
+<<< applier 0.0317463s
+>>> slicer 
+slice size: 675
+slice variable: <<<0,12>,s>,2>
+<<< slicer 0.0113054s
+>>> shuffler 
+<<< shuffler 0.0046989s
+>>> substrater 
+<<< substrater 0.0359803s
+>>> applier 
+<<< applier 0.022179s
+>>> layerer
+>>> layer	fud: 31	layer: 1
+substrate cardinality: 1885
+fud cardinality: 0
+tupler	searched: 1869720	rate: 883284
+tupler 2.11678s
+tuple cardinality: 10
+max tuple algn: -420.865
+layer cardinality: 31
+parter	searched: 3640	rate: 190272
+parter 0.0191305s
+roller	searched: 17070	rate: 3.69993e+06
+roller 0.0046136s
+der vars algn density: 576.409
+dervarser	searched: 1500	rate: 492158
+dervarser 0.0030478s
+application 0.0435164s
+<<< layer 2.18709s
+>>> layer	fud: 31	layer: 2
+substrate cardinality: 1885
+fud cardinality: 31
+tupler	searched: 155658	rate: 542099
+tupler 0.287139s
+tuple cardinality: 10
+max tuple algn: -392.061
+layer cardinality: 11
+parter	searched: 3640	rate: 186842
+parter 0.0194817s
+roller	searched: 491340	rate: 1.21236e+07
+roller 0.0405277s
+der vars algn density: 576.409
+dervarser	searched: 2031	rate: 516978
+dervarser 0.0039286s
+application 0.0453886s
+<<< layer 0.396469s
+<<< layerer 2.62264s
+>>> transer 
+fud: 31
+fud slice size: 675
+derived cardinality: 4
+derived algn density: 576.409
+derived impl bi-valency percent: 32.9292
+fud slice cardinality: 3
+<<< transer 0.0041944s
+>>> applier 
+<<< applier 0.0317688s
+>>> slicer 
+slice size: 673
+slice variable: <<<0,19>,s>,1>
+<<< slicer 0.012265s
+>>> shuffler 
+<<< shuffler 0.0048915s
+>>> substrater 
+<<< substrater 0.0367848s
+>>> applier 
+<<< applier 0.0221524s
+>>> layerer
+>>> layer	fud: 32	layer: 1
+substrate cardinality: 1888
+fud cardinality: 0
+tupler	searched: 1875528	rate: 898235
+tupler 2.08802s
+tuple cardinality: 10
+max tuple algn: -277.051
+layer cardinality: 23
+parter	searched: 3640	rate: 177626
+parter 0.0204925s
+roller	searched: 16190	rate: 2.59772e+06
+roller 0.0062324s
+der vars algn density: 607.935
+dervarser	searched: 826	rate: 388980
+dervarser 0.0021235s
+application 0.0475265s
+<<< layer 2.16439s
+>>> layer	fud: 32	layer: 2
+substrate cardinality: 1888
+fud cardinality: 23
+tupler	searched: 86350	rate: 713217
+tupler 0.121071s
+tuple cardinality: 10
+max tuple algn: -302.709
+layer cardinality: 23
+parter	searched: 400	rate: 183688
+parter 0.0021776s
+roller	searched: 82280	rate: 6.76389e+06
+roller 0.0121646s
+der vars algn density: 607.935
+dervarser	searched: 2347	rate: 644143
+dervarser 0.0036436s
+application 0.0468885s
+<<< layer 0.185949s
+<<< layerer 2.39212s
+>>> transer 
+fud: 32
+fud slice size: 673
+derived cardinality: 4
+derived algn density: 607.935
+derived impl bi-valency percent: 35.1354
+fud slice cardinality: 4
+<<< transer 0.0039795s
+>>> applier 
+<<< applier 0.0310758s
+>>> slicer 
+slice size: 669
+slice variable: <<<0,24>,s>,1>
+<<< slicer 0.0118186s
+>>> shuffler 
+<<< shuffler 0.0046978s
+>>> substrater 
+<<< substrater 0.0357827s
+>>> applier 
+<<< applier 0.0233425s
+>>> layerer
+>>> layer	fud: 33	layer: 1
+substrate cardinality: 1894
+fud cardinality: 0
+tupler	searched: 1887171	rate: 908361
+tupler 2.07756s
+tuple cardinality: 10
+max tuple algn: -369.625
+layer cardinality: 27
+parter	searched: 3640	rate: 158929
+parter 0.0229033s
+roller	searched: 14616	rate: 1.86877e+06
+roller 0.0078212s
+der vars algn density: 391.395
+dervarser	searched: 762	rate: 345704
+dervarser 0.0022042s
+application 0.0486807s
+<<< layer 2.15917s
+>>> layer	fud: 33	layer: 2
+substrate cardinality: 1894
+fud cardinality: 27
+tupler	searched: 90962	rate: 714768
+tupler 0.127261s
+tuple cardinality: 10
+max tuple algn: -381.466
+layer cardinality: 20
+parter	searched: 130	rate: 201582
+parter 0.0006449s
+roller	searched: 32101	rate: 5.08958e+06
+roller 0.0063072s
+der vars algn density: 391.395
+dervarser	searched: 1670	rate: 579278
+dervarser 0.0028829s
+application 0.0466093s
+<<< layer 0.183709s
+<<< layerer 2.38508s
+>>> transer 
+fud: 33
+fud slice size: 669
+derived cardinality: 3
+derived algn density: 391.395
+derived impl bi-valency percent: 33.9803
+fud slice cardinality: 5
+<<< transer 0.0042599s
+>>> applier 
+<<< applier 0.0332939s
+>>> slicer 
+slice size: 657
+slice variable: <<<0,18>,s>,1>
+<<< slicer 0.0108584s
+>>> shuffler 
+<<< shuffler 0.0049306s
+>>> substrater 
+<<< substrater 0.0363561s
+>>> applier 
+<<< applier 0.0237959s
+>>> layerer
+>>> layer	fud: 34	layer: 1
+substrate cardinality: 1911
+fud cardinality: 0
+tupler	searched: 1920355	rate: 919501
+tupler 2.08847s
+tuple cardinality: 10
+max tuple algn: -367.408
+layer cardinality: 22
+parter	searched: 3640	rate: 184988
+parter 0.019677s
+roller	searched: 31992	rate: 5.70278e+06
+roller 0.0056099s
+der vars algn density: 483.365
+dervarser	searched: 852	rate: 393624
+dervarser 0.0021645s
+application 0.0471122s
+<<< layer 2.16304s
+>>> layer	fud: 34	layer: 2
+substrate cardinality: 1911
+fud cardinality: 22
+tupler	searched: 139602	rate: 552543
+tupler 0.252654s
+tuple cardinality: 10
+max tuple algn: -329.082
+layer cardinality: 14
+parter	searched: 3640	rate: 182320
+parter 0.0199649s
+roller	searched: 491340	rate: 1.2455e+07
+roller 0.0394491s
+der vars algn density: 483.365
+dervarser	searched: 1491	rate: 479360
+dervarser 0.0031104s
+application 0.0467979s
+<<< layer 0.361979s
+<<< layerer 2.567s
+>>> transer 
+fud: 34
+fud slice size: 657
+derived cardinality: 4
+derived algn density: 483.365
+derived impl bi-valency percent: 27.7926
+fud slice cardinality: 3
+<<< transer 0.0035467s
+>>> applier 
+<<< applier 0.0331724s
+>>> slicer 
+slice size: 622
+slice variable: <<<0,28>,s>,1>
+<<< slicer 0.0119237s
+>>> shuffler 
+<<< shuffler 0.0044532s
+>>> substrater 
+<<< substrater 0.0354147s
+>>> applier 
+<<< applier 0.0230925s
+>>> layerer
+>>> layer	fud: 35	layer: 1
+substrate cardinality: 1964
+fud cardinality: 0
+tupler	searched: 2025666	rate: 966390
+tupler 2.09612s
+tuple cardinality: 10
+max tuple algn: -500.862
+layer cardinality: 25
+parter	searched: 3640	rate: 168129
+parter 0.02165s
+roller	searched: 15537	rate: 2.35748e+06
+roller 0.0065905s
+der vars algn density: 375.292
+dervarser	searched: 700	rate: 410919
+dervarser 0.0017035s
+application 0.0448978s
+<<< layer 2.17096s
+>>> layer	fud: 35	layer: 2
+substrate cardinality: 1964
+fud cardinality: 25
+tupler	searched: 90015	rate: 880755
+tupler 0.102202s
+tuple cardinality: 10
+max tuple algn: -338.526
+layer cardinality: 9
+parter	searched: 130	rate: 232475
+parter 0.0005592s
+roller	searched: 35230	rate: 5.69558e+06
+roller 0.0061855s
+der vars algn density: 375.292
+dervarser	searched: 1033	rate: 472747
+dervarser 0.0021851s
+application 0.0441121s
+<<< layer 0.155247s
+<<< layerer 2.36459s
+>>> transer 
+fud: 35
+fud slice size: 622
+derived cardinality: 3
+derived algn density: 375.292
+derived impl bi-valency percent: 35.213
+fud slice cardinality: 6
+<<< transer 0.0042002s
+>>> applier 
+<<< applier 0.0332125s
+>>> slicer 
+slice size: 615
+slice variable: <<<0,23>,s>,1>
+<<< slicer 0.0107327s
+>>> shuffler 
+<<< shuffler 0.0044356s
+>>> substrater 
+<<< substrater 0.0363208s
+>>> applier 
+<<< applier 0.0232407s
+>>> layerer
+>>> layer	fud: 36	layer: 1
+substrate cardinality: 1975
+fud cardinality: 0
+tupler	searched: 2047875	rate: 991587
+tupler 2.06525s
+tuple cardinality: 10
+max tuple algn: -467.616
+layer cardinality: 17
+parter	searched: 3640	rate: 175718
+parter 0.020715s
+roller	searched: 16190	rate: 2.79997e+06
+roller 0.0057822s
+der vars algn density: 559.057
+dervarser	searched: 512	rate: 282686
+dervarser 0.0018112s
+application 0.0462999s
+<<< layer 2.13986s
+>>> layer	fud: 36	layer: 2
+substrate cardinality: 1975
+fud cardinality: 17
+tupler	searched: 83987	rate: 661159
+tupler 0.12703s
+tuple cardinality: 10
+max tuple algn: -540.327
+layer cardinality: 17
+parter	searched: 400	rate: 195227
+parter 0.0020489s
+roller	searched: 82280	rate: 6.84036e+06
+roller 0.0120286s
+der vars algn density: 559.057
+dervarser	searched: 1248	rate: 499580
+dervarser 0.0024981s
+application 0.0451254s
+<<< layer 0.188734s
+<<< layerer 2.36959s
+>>> transer 
+fud: 36
+fud slice size: 615
+derived cardinality: 4
+derived algn density: 559.057
+derived impl bi-valency percent: 35.3931
+fud slice cardinality: 3
+<<< transer 0.0043843s
+>>> applier 
+<<< applier 0.0326907s
+>>> slicer 
+slice size: 555
+slice variable: <<<0,20>,s>,1>
+<<< slicer 0.0125036s
+>>> shuffler 
+<<< shuffler 0.0039836s
+>>> substrater 
+<<< substrater 0.0325353s
+>>> applier 
+<<< applier 0.0212667s
+>>> layerer
+>>> layer	fud: 37	layer: 1
+substrate cardinality: 1954
+fud cardinality: 0
+tupler	searched: 2005581	rate: 1.07513e+06
+tupler 1.86542s
+tuple cardinality: 10
+max tuple algn: -328.231
+layer cardinality: 17
+parter	searched: 3640	rate: 186589
+parter 0.0195081s
+roller	searched: 491340	rate: 1.214e+07
+roller 0.0404728s
+der vars algn density: 481.013
+dervarser	searched: 562	rate: 318233
+dervarser 0.001766s
+application 0.0390864s
+<<< layer 1.96626s
+>>> layer	fud: 37	layer: 2
+substrate cardinality: 1954
+fud cardinality: 17
+tupler	searched: 132393	rate: 557156
+tupler 0.237623s
+tuple cardinality: 10
+max tuple algn: -328.231
+layer cardinality: 4
+parter	searched: 3640	rate: 183088
+parter 0.0198812s
+roller	searched: 491340	rate: 1.19791e+07
+roller 0.0410165s
+der vars algn density: 481.013
+dervarser	searched: 636	rate: 319694
+dervarser 0.0019894s
+application 0.040093s
+<<< layer 0.340619s
+<<< layerer 2.34283s
+>>> transer 
+fud: 37
+fud slice size: 555
+derived cardinality: 4
+derived algn density: 481.013
+derived impl bi-valency percent: 33.4954
+fud slice cardinality: 3
+<<< transer 0.0038159s
+>>> applier 
+<<< applier 0.0332815s
+>>> slicer 
+slice size: 551
+slice variable: <<<0,26>,s>,1>
+<<< slicer 0.0105405s
+>>> shuffler 
+<<< shuffler 0.0040321s
+>>> substrater 
+<<< substrater 0.0340304s
+>>> applier 
+<<< applier 0.0209327s
+>>> layerer
+>>> layer	fud: 38	layer: 1
+substrate cardinality: 2087
+fud cardinality: 0
+tupler	searched: 2280891	rate: 1.09945e+06
+tupler 2.07458s
+tuple cardinality: 10
+max tuple algn: -293.771
+layer cardinality: 23
+parter	searched: 3640	rate: 181534
+parter 0.0200513s
+roller	searched: 202914	rate: 1.05765e+07
+roller 0.0191853s
+der vars algn density: 410.647
+dervarser	searched: 916	rate: 403134
+dervarser 0.0022722s
+application 0.0389111s
+<<< layer 2.155s
+>>> layer	fud: 38	layer: 2
+substrate cardinality: 2087
+fud cardinality: 23
+tupler	searched: 154511	rate: 530429
+tupler 0.291294s
+tuple cardinality: 10
+max tuple algn: -280.396
+layer cardinality: 19
+parter	searched: 3640	rate: 189748
+parter 0.0191833s
+roller	searched: 491340	rate: 1.21292e+07
+roller 0.0405089s
+der vars algn density: 410.647
+dervarser	searched: 2015	rate: 549436
+dervarser 0.0036674s
+application 0.038498s
+<<< layer 0.393155s
+<<< layerer 2.58303s
+>>> transer 
+fud: 38
+fud slice size: 551
+derived cardinality: 4
+derived algn density: 410.647
+derived impl bi-valency percent: 28.2005
+fud slice cardinality: 3
+<<< transer 0.0038543s
+>>> applier 
+<<< applier 0.0325599s
+>>> slicer 
+slice size: 536
+slice variable: <<<0,11>,s>,2>
+<<< slicer 0.0107185s
+>>> shuffler 
+<<< shuffler 0.003746s
+>>> substrater 
+<<< substrater 0.0306728s
+>>> applier 
+<<< applier 0.0161203s
+>>> layerer
+>>> layer	fud: 39	layer: 1
+substrate cardinality: 1553
+fud cardinality: 0
+tupler	searched: 1282578	rate: 1.0771e+06
+tupler 1.19076s
+tuple cardinality: 10
+max tuple algn: -312.726
+layer cardinality: 25
+parter	searched: 3640	rate: 187074
+parter 0.0194575s
+roller	searched: 57136	rate: 7.40401e+06
+roller 0.0077169s
+der vars algn density: 479.874
+dervarser	searched: 1050	rate: 529928
+dervarser 0.0019814s
+application 0.0282875s
+<<< layer 1.24821s
+>>> layer	fud: 39	layer: 2
+substrate cardinality: 1553
+fud cardinality: 25
+tupler	searched: 118900	rate: 633282
+tupler 0.187752s
+tuple cardinality: 10
+max tuple algn: -327.615
+layer cardinality: 4
+parter	searched: 3640	rate: 186440
+parter 0.0195237s
+roller	searched: 491340	rate: 1.21129e+07
+roller 0.0405634s
+der vars algn density: 479.874
+dervarser	searched: 1114	rate: 470122
+dervarser 0.0023696s
+application 0.0280294s
+<<< layer 0.278241s
+<<< layerer 1.55164s
+>>> transer 
+fud: 39
+fud slice size: 536
+derived cardinality: 4
+derived algn density: 479.874
+derived impl bi-valency percent: 34.774
+fud slice cardinality: 3
+<<< transer 0.0034094s
+>>> applier 
+<<< applier 0.0323485s
+>>> slicer 
+slice size: 525
+slice variable: <<<0,22>,s>,1>
+<<< slicer 0.0105096s
+>>> shuffler 
+<<< shuffler 0.0037295s
+>>> substrater 
+<<< substrater 0.028295s
+>>> applier 
+<<< applier 0.0162587s
+>>> layerer
+>>> layer	fud: 40	layer: 1
+substrate cardinality: 1484
+fud cardinality: 0
+tupler	searched: 1174386	rate: 1.11143e+06
+tupler 1.05665s
+tuple cardinality: 10
+max tuple algn: -436.838
+layer cardinality: 25
+parter	searched: 3640	rate: 144262
+parter 0.0252318s
+roller	searched: 16338	rate: 2.50364e+06
+roller 0.0065257s
+der vars algn density: 491.345
+dervarser	searched: 1050	rate: 503887
+dervarser 0.0020838s
+application 0.0326213s
+<<< layer 1.12311s
+>>> layer	fud: 40	layer: 2
+substrate cardinality: 1484
+fud cardinality: 25
+tupler	searched: 113615	rate: 595038
+tupler 0.190937s
+tuple cardinality: 10
+max tuple algn: -335.505
+layer cardinality: 18
+parter	searched: 3640	rate: 188175
+parter 0.0193437s
+roller	searched: 491340	rate: 1.23278e+07
+roller 0.0398561s
+der vars algn density: 491.345
+dervarser	searched: 1926	rate: 608569
+dervarser 0.0031648s
+application 0.0281763s
+<<< layer 0.281481s
+<<< layerer 1.43029s
+>>> transer 
+fud: 40
+fud slice size: 525
+derived cardinality: 4
+derived algn density: 491.345
+derived impl bi-valency percent: 36.6107
+fud slice cardinality: 3
+<<< transer 0.0031647s
+>>> applier 
+<<< applier 0.0331775s
+>>> slicer 
+slice size: 523
+slice variable: <<<0,34>,s>,1>
+<<< slicer 0.0108078s
+>>> shuffler 
+<<< shuffler 0.0036617s
+>>> substrater 
+<<< substrater 0.0333151s
+>>> applier 
+<<< applier 0.0212629s
+>>> layerer
+>>> layer	fud: 41	layer: 1
+substrate cardinality: 2142
+fud cardinality: 0
+tupler	searched: 2399911	rate: 1.11768e+06
+tupler 2.14722s
+tuple cardinality: 10
+max tuple algn: -383.112
+layer cardinality: 29
+parter	searched: 3640	rate: 169620
+parter 0.0214597s
+roller	searched: 14660	rate: 2.09542e+06
+roller 0.0069962s
+der vars algn density: 270.74
+dervarser	searched: 810	rate: 401070
+dervarser 0.0020196s
+application 0.0405185s
+<<< layer 2.21822s
+>>> layer	fud: 41	layer: 2
+substrate cardinality: 2142
+fud cardinality: 29
+tupler	searched: 85127	rate: 1.06545e+06
+tupler 0.0798974s
+tuple cardinality: 10
+max tuple algn: -383.112
+layer cardinality: 10
+parter	searched: 40	rate: 200803
+parter 0.0001992s
+roller	searched: 10343	rate: 2.72816e+06
+roller 0.0037912s
+der vars algn density: 292.36
+dervarser	searched: 1284	rate: 577182
+dervarser 0.0022246s
+application 0.0401603s
+<<< layer 0.126276s
+>>> layer	fud: 41	layer: 3
+substrate cardinality: 2142
+fud cardinality: 39
+tupler	searched: 116169	rate: 929850
+tupler 0.124933s
+tuple cardinality: 10
+max tuple algn: -530.502
+layer cardinality: 14
+parter	searched: 130	rate: 224875
+parter 0.0005781s
+roller	searched: 35230	rate: 5.72715e+06
+roller 0.0061514s
+der vars algn density: 292.36
+dervarser	searched: 2133	rate: 731281
+dervarser 0.0029168s
+application 0.0393945s
+<<< layer 0.173977s
+<<< layerer 2.55369s
+>>> transer 
+fud: 41
+fud slice size: 523
+derived cardinality: 3
+derived algn density: 292.36
+derived impl bi-valency percent: 32.2473
+fud slice cardinality: 5
+<<< transer 0.0040477s
+>>> applier 
+<<< applier 0.033247s
+>>> slicer 
+slice size: 510
+slice variable: <<<0,29>,s>,1>
+<<< slicer 0.0117464s
+>>> shuffler 
+<<< shuffler 0.0035208s
+>>> substrater 
+<<< substrater 0.030694s
+>>> applier 
+<<< applier 0.0190214s
+>>> layerer
+>>> layer	fud: 42	layer: 1
+substrate cardinality: 1815
+fud cardinality: 0
+tupler	searched: 1736755	rate: 1.12473e+06
+tupler 1.54416s
+tuple cardinality: 10
+max tuple algn: -311.59
+layer cardinality: 32
+parter	searched: 3640	rate: 179825
+parter 0.0202419s
+roller	searched: 27018	rate: 4.73095e+06
+roller 0.0057109s
+der vars algn density: 439.37
+dervarser	searched: 1582	rate: 592643
+dervarser 0.0026694s
+application 0.0328932s
+<<< layer 1.60568s
+>>> layer	fud: 42	layer: 2
+substrate cardinality: 1815
+fud cardinality: 32
+tupler	searched: 151992	rate: 609299
+tupler 0.249454s
+tuple cardinality: 10
+max tuple algn: -300.294
+layer cardinality: 18
+parter	searched: 3640	rate: 190757
+parter 0.0190819s
+roller	searched: 491340	rate: 1.23369e+07
+roller 0.0398267s
+der vars algn density: 439.37
+dervarser	searched: 2802	rate: 719753
+dervarser 0.003893s
+application 0.0343018s
+<<< layer 0.34656s
+<<< layerer 1.98119s
+>>> transer 
+fud: 42
+fud slice size: 510
+derived cardinality: 4
+derived algn density: 439.37
+derived impl bi-valency percent: 33.265
+fud slice cardinality: 3
+<<< transer 0.0035227s
+>>> applier 
+<<< applier 0.0340581s
+>>> slicer 
+slice size: 491
+slice variable: <<<0,31>,s>,1>
+<<< slicer 0.0104565s
+>>> shuffler 
+<<< shuffler 0.0036668s
+>>> substrater 
+<<< substrater 0.0325688s
+>>> applier 
+<<< applier 0.0207207s
+>>> layerer
+>>> layer	fud: 43	layer: 1
+substrate cardinality: 2087
+fud cardinality: 0
+tupler	searched: 2280891	rate: 1.1787e+06
+tupler 1.93509s
+tuple cardinality: 10
+max tuple algn: -274.287
+layer cardinality: 22
+parter	searched: 3640	rate: 191249
+parter 0.0190328s
+roller	searched: 407840	rate: 1.22053e+07
+roller 0.033415s
+der vars algn density: 420.285
+dervarser	searched: 852	rate: 451391
+dervarser 0.0018875s
+application 0.0359111s
+<<< layer 2.02534s
+>>> layer	fud: 43	layer: 2
+substrate cardinality: 2087
+fud cardinality: 22
+tupler	searched: 152231	rate: 650835
+tupler 0.233901s
+tuple cardinality: 10
+max tuple algn: -321.14
+layer cardinality: 17
+parter	searched: 3640	rate: 170684
+parter 0.021326s
+roller	searched: 73840	rate: 7.45106e+06
+roller 0.00991s
+der vars algn density: 420.285
+dervarser	searched: 1679	rate: 587947
+dervarser 0.0028557s
+application 0.0363729s
+<<< layer 0.304369s
+<<< layerer 2.3625s
+>>> transer 
+fud: 43
+fud slice size: 491
+derived cardinality: 4
+derived algn density: 420.285
+derived impl bi-valency percent: 33.0195
+fud slice cardinality: 3
+<<< transer 0.004041s
+>>> applier 
+<<< applier 0.034454s
+>>> slicer 
+slice size: 464
+slice variable: <<<0,21>,s>,2>
+<<< slicer 0.0104864s
+>>> shuffler 
+<<< shuffler 0.0032385s
+>>> substrater 
+<<< substrater 0.0301391s
+>>> applier 
+<<< applier 0.0191209s
+>>> layerer
+>>> layer	fud: 44	layer: 1
+substrate cardinality: 1989
+fud cardinality: 0
+tupler	searched: 2076316	rate: 1.24719e+06
+tupler 1.6648s
+tuple cardinality: 10
+max tuple algn: -230.572
+layer cardinality: 24
+parter	searched: 3640	rate: 168111
+parter 0.0216524s
+roller	searched: 112075	rate: 8.69837e+06
+roller 0.0128846s
+der vars algn density: 328.691
+dervarser	searched: 982	rate: 448381
+dervarser 0.0021901s
+application 0.03428s
+<<< layer 1.73581s
+>>> layer	fud: 44	layer: 2
+substrate cardinality: 1989
+fud cardinality: 24
+tupler	searched: 149448	rate: 645160
+tupler 0.231645s
+tuple cardinality: 10
+max tuple algn: -229.69
+layer cardinality: 21
+parter	searched: 3640	rate: 183516
+parter 0.0198348s
+roller	searched: 407840	rate: 1.16907e+07
+roller 0.0348858s
+der vars algn density: 328.691
+dervarser	searched: 2109	rate: 662770
+dervarser 0.0031821s
+application 0.0309751s
+<<< layer 0.320526s
+<<< layerer 2.08398s
+>>> transer 
+fud: 44
+fud slice size: 464
+derived cardinality: 4
+derived algn density: 328.691
+derived impl bi-valency percent: 26.6337
+fud slice cardinality: 3
+<<< transer 0.0041083s
+>>> applier 
+<<< applier 0.0352586s
+>>> slicer 
+slice size: 453
+slice variable: <<<0,14>,s>,2>
+<<< slicer 0.0107115s
+>>> shuffler 
+<<< shuffler 0.0032143s
+>>> substrater 
+<<< substrater 0.0297171s
+>>> applier 
+<<< applier 0.0192532s
+>>> layerer
+>>> layer	fud: 45	layer: 1
+substrate cardinality: 1809
+fud cardinality: 0
+tupler	searched: 1725586	rate: 1.24575e+06
+tupler 1.38518s
+tuple cardinality: 10
+max tuple algn: -315.169
+layer cardinality: 24
+parter	searched: 3640	rate: 190249
+parter 0.0191328s
+roller	searched: 366090	rate: 1.21779e+07
+roller 0.0300618s
+der vars algn density: 448.605
+dervarser	searched: 982	rate: 492749
+dervarser 0.0019929s
+application 0.0294738s
+<<< layer 1.46585s
+>>> layer	fud: 45	layer: 2
+substrate cardinality: 1809
+fud cardinality: 24
+tupler	searched: 136105	rate: 660558
+tupler 0.206046s
+tuple cardinality: 10
+max tuple algn: -290.574
+layer cardinality: 8
+parter	searched: 3640	rate: 191574
+parter 0.0190005s
+roller	searched: 491340	rate: 1.25981e+07
+roller 0.0390012s
+der vars algn density: 448.605
+dervarser	searched: 1325	rate: 564430
+dervarser 0.0023475s
+application 0.0289245s
+<<< layer 0.295322s
+<<< layerer 1.78786s
+>>> transer 
+fud: 45
+fud slice size: 453
+derived cardinality: 4
+derived algn density: 448.605
+derived impl bi-valency percent: 39.1106
+fud slice cardinality: 3
+<<< transer 0.0036421s
+>>> applier 
+<<< applier 0.0334245s
+>>> slicer 
+slice size: 443
+slice variable: <<<0,13>,s>,2>
+<<< slicer 0.0113522s
+>>> shuffler 
+<<< shuffler 0.0030596s
+>>> substrater 
+<<< substrater 0.0268682s
+>>> applier 
+<<< applier 0.0160364s
+>>> layerer
+>>> layer	fud: 46	layer: 1
+substrate cardinality: 1580
+fud cardinality: 0
+tupler	searched: 1326210	rate: 1.2469e+06
+tupler 1.0636s
+tuple cardinality: 10
+max tuple algn: -194.765
+layer cardinality: 26
+parter	searched: 3640	rate: 187594
+parter 0.0194036s
+roller	searched: 278063	rate: 1.19749e+07
+roller 0.0232205s
+der vars algn density: 441.037
+dervarser	searched: 1120	rate: 507913
+dervarser 0.0022051s
+application 0.0233917s
+<<< layer 1.13183s
+>>> layer	fud: 46	layer: 2
+substrate cardinality: 1580
+fud cardinality: 26
+tupler	searched: 122616	rate: 673233
+tupler 0.18213s
+tuple cardinality: 10
+max tuple algn: -302.076
+layer cardinality: 4
+parter	searched: 3640	rate: 191040
+parter 0.0190536s
+roller	searched: 491340	rate: 1.25984e+07
+roller 0.0390002s
+der vars algn density: 441.037
+dervarser	searched: 1221	rate: 620584
+dervarser 0.0019675s
+application 0.0233332s
+<<< layer 0.265487s
+<<< layerer 1.41832s
+>>> transer 
+fud: 46
+fud slice size: 443
+derived cardinality: 4
+derived algn density: 441.037
+derived impl bi-valency percent: 39.3553
+fud slice cardinality: 3
+<<< transer 0.0033934s
+>>> applier 
+<<< applier 0.0342016s
+>>> slicer 
+slice size: 441
+slice variable: <<<0,27>,s>,1>
+<<< slicer 0.0111149s
+>>> shuffler 
+<<< shuffler 0.0030013s
+>>> substrater 
+<<< substrater 0.0282804s
+>>> applier 
+<<< applier 0.0154377s
+>>> layerer
+>>> layer	fud: 47	layer: 1
+substrate cardinality: 1469
+fud cardinality: 0
+tupler	searched: 1151496	rate: 1.26866e+06
+tupler 0.907649s
+tuple cardinality: 10
+max tuple algn: -130.833
+layer cardinality: 24
+parter	searched: 3640	rate: 185003
+parter 0.0196754s
+roller	searched: 179194	rate: 1.03819e+07
+roller 0.0172602s
+der vars algn density: 429.601
+dervarser	searched: 982	rate: 497972
+dervarser 0.001972s
+application 0.0234146s
+<<< layer 0.969974s
+>>> layer	fud: 47	layer: 2
+substrate cardinality: 1469
+fud cardinality: 24
+tupler	searched: 111072	rate: 700226
+tupler 0.158623s
+tuple cardinality: 10
+max tuple algn: -294.414
+layer cardinality: 4
+parter	searched: 3640	rate: 187405
+parter 0.0194232s
+roller	searched: 491340	rate: 1.23066e+07
+roller 0.0399248s
+der vars algn density: 429.601
+dervarser	searched: 1011	rate: 485707
+dervarser 0.0020815s
+application 0.022724s
+<<< layer 0.242781s
+<<< layerer 1.2333s
+>>> transer 
+fud: 47
+fud slice size: 441
+derived cardinality: 4
+derived algn density: 429.601
+derived impl bi-valency percent: 38.3639
+fud slice cardinality: 3
+<<< transer 0.0032258s
+>>> applier 
+<<< applier 0.0346869s
+>>> slicer 
+slice size: 435
+slice variable: <<<0,38>,s>,1>
+<<< slicer 0.0118288s
+>>> shuffler 
+<<< shuffler 0.0031095s
+>>> substrater 
+<<< substrater 0.030506s
+>>> applier 
+<<< applier 0.020421s
+>>> layerer
+>>> layer	fud: 48	layer: 1
+substrate cardinality: 2158
+fud cardinality: 0
+tupler	searched: 2435103	rate: 1.29611e+06
+tupler 1.87878s
+tuple cardinality: 10
+max tuple algn: -480.404
+layer cardinality: 23
+parter	searched: 3640	rate: 179916
+parter 0.0202317s
+roller	searched: 16130	rate: 2.76473e+06
+roller 0.0058342s
+der vars algn density: 333.612
+dervarser	searched: 640	rate: 389034
+dervarser 0.0016451s
+application 0.0330112s
+<<< layer 1.93951s
+>>> layer	fud: 48	layer: 2
+substrate cardinality: 2158
+fud cardinality: 23
+tupler	searched: 94140	rate: 977365
+tupler 0.0963202s
+tuple cardinality: 10
+max tuple algn: -369.437
+layer cardinality: 17
+parter	searched: 130	rate: 252427
+parter 0.000515s
+roller	searched: 35230	rate: 6.3194e+06
+roller 0.0055749s
+der vars algn density: 393.146
+dervarser	searched: 1844	rate: 643563
+dervarser 0.0028653s
+application 0.031343s
+<<< layer 0.136622s
+>>> layer	fud: 48	layer: 3
+substrate cardinality: 2158
+fud cardinality: 40
+tupler	searched: 119148	rate: 1.00636e+06
+tupler 0.118395s
+tuple cardinality: 10
+max tuple algn: -381.696
+layer cardinality: 13
+parter	searched: 130	rate: 253411
+parter 0.000513s
+roller	searched: 6450	rate: 2.60438e+06
+roller 0.0024766s
+der vars algn density: 393.146
+dervarser	searched: 3150	rate: 843984
+dervarser 0.0037323s
+application 0.0310882s
+<<< layer 0.156208s
+<<< layerer 2.26048s
+>>> transer 
+fud: 48
+fud slice size: 435
+derived cardinality: 4
+derived algn density: 393.146
+derived impl bi-valency percent: 35.1562
+fud slice cardinality: 3
+<<< transer 0.0037039s
+>>> applier 
+<<< applier 0.0350471s
+>>> slicer 
+slice size: 435
+slice variable: <<<0,30>,s>,1>
+<<< slicer 0.0106151s
+>>> shuffler 
+<<< shuffler 0.0029576s
+>>> substrater 
+<<< substrater 0.0306521s
+>>> applier 
+<<< applier 0.0188411s
+>>> layerer
+>>> layer	fud: 49	layer: 1
+substrate cardinality: 2143
+fud cardinality: 0
+tupler	searched: 2402103	rate: 1.31251e+06
+tupler 1.83016s
+tuple cardinality: 10
+max tuple algn: -405.879
+layer cardinality: 26
+parter	searched: 3640	rate: 176262
+parter 0.0206511s
+roller	searched: 15523	rate: 2.25861e+06
+roller 0.0068728s
+der vars algn density: 348.153
+dervarser	searched: 1080	rate: 497100
+dervarser 0.0021726s
+application 0.0327692s
+<<< layer 1.89263s
+>>> layer	fud: 49	layer: 2
+substrate cardinality: 2143
+fud cardinality: 26
+tupler	searched: 120060	rate: 890739
+tupler 0.134787s
+tuple cardinality: 10
+max tuple algn: -360.051
+layer cardinality: 26
+parter	searched: 400	rate: 204729
+parter 0.0019538s
+roller	searched: 8528	rate: 2.61131e+06
+roller 0.0032658s
+der vars algn density: 377.536
+dervarser	searched: 2847	rate: 761515
+dervarser 0.0037386s
+application 0.0328294s
+<<< layer 0.176578s
+>>> layer	fud: 49	layer: 3
+substrate cardinality: 2143
+fud cardinality: 52
+tupler	searched: 198710	rate: 510011
+tupler 0.389619s
+tuple cardinality: 10
+max tuple algn: -245.581
+layer cardinality: 20
+parter	searched: 3640	rate: 160435
+parter 0.0226883s
+roller	searched: 491340	rate: 1.05197e+07
+roller 0.0467067s
+der vars algn density: 388.921
+dervarser	searched: 4496	rate: 767432
+dervarser 0.0058585s
+application 0.036387s
+<<< layer 0.501263s
+>>> layer	fud: 49	layer: 4
+substrate cardinality: 2143
+fud cardinality: 72
+tupler	searched: 227270	rate: 747673
+tupler 0.30397s
+tuple cardinality: 10
+max tuple algn: -266.812
+layer cardinality: 17
+parter	searched: 3640	rate: 182818
+parter 0.0199105s
+roller	searched: 491340	rate: 1.20914e+07
+roller 0.0406355s
+der vars algn density: 388.921
+dervarser	searched: 6023	rate: 881729
+dervarser 0.0068309s
+application 0.0323287s
+<<< layer 0.403678s
+<<< layerer 3.00322s
+>>> transer 
+fud: 49
+fud slice size: 435
+derived cardinality: 4
+derived algn density: 388.921
+derived impl bi-valency percent: 34.7193
+fud slice cardinality: 3
+<<< transer 0.0042459s
+>>> applier 
+<<< applier 0.0356723s
+>>> slicer 
+slice size: 414
+slice variable: <<<0,21>,s>,3>
+<<< slicer 0.010161s
+>>> shuffler 
+<<< shuffler 0.0030806s
+>>> substrater 
+<<< substrater 0.0300434s
+>>> applier 
+<<< applier 0.0201102s
+>>> layerer
+>>> layer	fud: 50	layer: 1
+substrate cardinality: 2231
+fud cardinality: 0
+tupler	searched: 2598915	rate: 1.37634e+06
+tupler 1.88829s
+tuple cardinality: 10
+max tuple algn: -279.477
+layer cardinality: 25
+parter	searched: 3640	rate: 178451
+parter 0.0203978s
+roller	searched: 41940	rate: 6.51698e+06
+roller 0.0064355s
+der vars algn density: 361.107
+dervarser	searched: 1050	rate: 484988
+dervarser 0.002165s
+application 0.034654s
+<<< layer 1.95194s
+>>> layer	fud: 50	layer: 2
+substrate cardinality: 2231
+fud cardinality: 25
+tupler	searched: 169616	rate: 711289
+tupler 0.238463s
+tuple cardinality: 10
+max tuple algn: -260.454
+layer cardinality: 20
+parter	searched: 3640	rate: 180507
+parter 0.0201654s
+roller	searched: 491340	rate: 1.18596e+07
+roller 0.0414299s
+der vars algn density: 361.107
+dervarser	searched: 2119	rate: 720356
+dervarser 0.0029416s
+application 0.0326781s
+<<< layer 0.335695s
+<<< layerer 2.3169s
+>>> transer 
+fud: 50
+fud slice size: 414
+derived cardinality: 4
+derived algn density: 361.107
+derived impl bi-valency percent: 33.7426
+fud slice cardinality: 3
+<<< transer 0.0039424s
+>>> applier 
+<<< applier 0.0348016s
+>>> slicer 
+slice size: 405
+slice variable: <<<0,25>,s>,2>
+<<< slicer 0.0104307s
+>>> shuffler 
+<<< shuffler 0.0028292s
+>>> substrater 
+<<< substrater 0.0307611s
+>>> applier 
+<<< applier 0.0186391s
+>>> layerer
+>>> layer	fud: 51	layer: 1
+substrate cardinality: 2183
+fud cardinality: 0
+tupler	searched: 2490603	rate: 1.3913e+06
+tupler 1.79013s
+tuple cardinality: 10
+max tuple algn: -281.194
+layer cardinality: 24
+parter	searched: 3640	rate: 177421
+parter 0.0205162s
+roller	searched: 17070	rate: 3.36216e+06
+roller 0.0050771s
+der vars algn density: 353.824
+dervarser	searched: 982	rate: 526711
+dervarser 0.0018644s
+application 0.0320633s
+<<< layer 1.84966s
+>>> layer	fud: 51	layer: 2
+substrate cardinality: 2183
+fud cardinality: 24
+tupler	searched: 163716	rate: 693452
+tupler 0.236088s
+tuple cardinality: 10
+max tuple algn: -258.899
+layer cardinality: 22
+parter	searched: 3640	rate: 182537
+parter 0.0199412s
+roller	searched: 357036	rate: 1.18491e+07
+roller 0.030132s
+der vars algn density: 353.824
+dervarser	searched: 2196	rate: 710634
+dervarser 0.0030902s
+application 0.0308643s
+<<< layer 0.320119s
+<<< layerer 2.19797s
+>>> transer 
+fud: 51
+fud slice size: 405
+derived cardinality: 4
+derived algn density: 353.824
+derived impl bi-valency percent: 33.805
+fud slice cardinality: 3
+<<< transer 0.0039299s
+>>> applier 
+<<< applier 0.0355451s
+>>> slicer 
+slice size: 397
+slice variable: <<<0,37>,s>,1>
+<<< slicer 0.0113925s
+>>> shuffler 
+<<< shuffler 0.0027917s
+>>> substrater 
+<<< substrater 0.028269s
+>>> applier 
+<<< applier 0.0183184s
+>>> layerer
+>>> layer	fud: 52	layer: 1
+substrate cardinality: 1839
+fud cardinality: 0
+tupler	searched: 1781791	rate: 1.43214e+06
+tupler 1.24414s
+tuple cardinality: 10
+max tuple algn: -196.49
+layer cardinality: 18
+parter	searched: 3640	rate: 173513
+parter 0.0209783s
+roller	searched: 491340	rate: 1.15774e+07
+roller 0.0424394s
+der vars algn density: 285.863
+dervarser	searched: 616	rate: 385506
+dervarser 0.0015979s
+application 0.0286507s
+<<< layer 1.33781s
+>>> layer	fud: 52	layer: 2
+substrate cardinality: 1839
+fud cardinality: 18
+tupler	searched: 126578	rate: 675487
+tupler 0.187388s
+tuple cardinality: 10
+max tuple algn: -196.49
+layer cardinality: 4
+parter	searched: 3640	rate: 190839
+parter 0.0190737s
+roller	searched: 491340	rate: 1.26149e+07
+roller 0.0389492s
+der vars algn density: 285.863
+dervarser	searched: 759	rate: 437918
+dervarser 0.0017332s
+application 0.0274754s
+<<< layer 0.274622s
+<<< layerer 1.63761s
+>>> transer 
+fud: 52
+fud slice size: 397
+derived cardinality: 4
+derived algn density: 285.863
+derived impl bi-valency percent: 27.1274
+fud slice cardinality: 3
+<<< transer 0.0035351s
+>>> applier 
+<<< applier 0.0354739s
+>>> slicer 
+slice size: 374
+slice variable: <<<0,44>,s>,1>
+<<< slicer 0.0104783s
+>>> shuffler 
+<<< shuffler 0.0025323s
+>>> substrater 
+<<< substrater 0.0264622s
+>>> applier 
+<<< applier 0.0167252s
+>>> layerer
+>>> layer	fud: 53	layer: 1
+substrate cardinality: 1818
+fud cardinality: 0
+tupler	searched: 1742353	rate: 1.48122e+06
+tupler 1.1763s
+tuple cardinality: 10
+max tuple algn: -177.36
+layer cardinality: 18
+parter	searched: 3640	rate: 184985
+parter 0.0196773s
+roller	searched: 491340	rate: 1.21924e+07
+roller 0.0402988s
+der vars algn density: 257.678
+dervarser	searched: 616	rate: 379077
+dervarser 0.001625s
+application 0.0248916s
+<<< layer 1.26279s
+>>> layer	fud: 53	layer: 2
+substrate cardinality: 1818
+fud cardinality: 18
+tupler	searched: 125124	rate: 734916
+tupler 0.170256s
+tuple cardinality: 10
+max tuple algn: -177.36
+layer cardinality: 4
+parter	searched: 3640	rate: 191462
+parter 0.0190116s
+roller	searched: 491340	rate: 1.25343e+07
+roller 0.0391995s
+der vars algn density: 257.678
+dervarser	searched: 683	rate: 419662
+dervarser 0.0016275s
+application 0.0241922s
+<<< layer 0.25429s
+<<< layerer 1.53881s
+>>> transer 
+fud: 53
+fud slice size: 374
+derived cardinality: 4
+derived algn density: 257.678
+derived impl bi-valency percent: 25.8172
+fud slice cardinality: 3
+<<< transer 0.0039795s
+>>> applier 
+<<< applier 0.0357154s
+>>> slicer 
+slice size: 371
+slice variable: <<<0,39>,s>,1>
+<<< slicer 0.0098645s
+>>> shuffler 
+<<< shuffler 0.0025958s
+>>> substrater 
+<<< substrater 0.0245986s
+>>> applier 
+<<< applier 0.0159784s
+>>> layerer
+>>> layer	fud: 54	layer: 1
+substrate cardinality: 1365
+fud cardinality: 0
+tupler	searched: 998980	rate: 1.45988e+06
+tupler 0.684288s
+tuple cardinality: 10
+max tuple algn: -185.308
+layer cardinality: 24
+parter	searched: 3640	rate: 187173
+parter 0.0194473s
+roller	searched: 154528	rate: 1.04443e+07
+roller 0.0147954s
+der vars algn density: 262.945
+dervarser	searched: 982	rate: 520927
+dervarser 0.0018851s
+application 0.0201303s
+<<< layer 0.740549s
+>>> layer	fud: 54	layer: 2
+substrate cardinality: 1365
+fud cardinality: 24
+tupler	searched: 103200	rate: 743286
+tupler 0.138843s
+tuple cardinality: 10
+max tuple algn: -181.018
+layer cardinality: 17
+parter	searched: 3640	rate: 192355
+parter 0.0189233s
+roller	searched: 491340	rate: 1.25622e+07
+roller 0.0391125s
+der vars algn density: 262.945
+dervarser	searched: 2031	rate: 720392
+dervarser 0.0028193s
+application 0.0186024s
+<<< layer 0.218303s
+<<< layerer 0.975429s
+>>> transer 
+fud: 54
+fud slice size: 371
+derived cardinality: 4
+derived algn density: 262.945
+derived impl bi-valency percent: 26.6489
+fud slice cardinality: 3
+<<< transer 0.002977s
+>>> applier 
+<<< applier 0.0381713s
+>>> slicer 
+slice size: 366
+slice variable: <<<0,42>,s>,1>
+<<< slicer 0.0099785s
+>>> shuffler 
+<<< shuffler 0.0024852s
+>>> substrater 
+<<< substrater 0.026407s
+>>> applier 
+<<< applier 0.0150398s
+>>> layerer
+>>> layer	fud: 55	layer: 1
+substrate cardinality: 1571
+fud cardinality: 0
+tupler	searched: 1311585	rate: 1.50402e+06
+tupler 0.872055s
+tuple cardinality: 10
+max tuple algn: -182.651
+layer cardinality: 21
+parter	searched: 3640	rate: 182254
+parter 0.0199721s
+roller	searched: 468705	rate: 1.26696e+07
+roller 0.0369944s
+der vars algn density: 265.236
+dervarser	searched: 790	rate: 510204
+dervarser 0.0015484s
+application 0.0233047s
+<<< layer 0.953878s
+>>> layer	fud: 55	layer: 2
+substrate cardinality: 1571
+fud cardinality: 21
+tupler	searched: 113329	rate: 778876
+tupler 0.145503s
+tuple cardinality: 10
+max tuple algn: -182.651
+layer cardinality: 4
+parter	searched: 3640	rate: 186977
+parter 0.0194676s
+roller	searched: 491340	rate: 1.24517e+07
+roller 0.0394598s
+der vars algn density: 265.236
+dervarser	searched: 846	rate: 474428
+dervarser 0.0017832s
+application 0.0222857s
+<<< layer 0.228502s
+<<< layerer 1.20175s
+>>> transer 
+fud: 55
+fud slice size: 366
+derived cardinality: 4
+derived algn density: 265.236
+derived impl bi-valency percent: 27.3237
+fud slice cardinality: 3
+<<< transer 0.0031251s
+>>> applier 
+<<< applier 0.0359094s
+>>> slicer 
+slice size: 363
+slice variable: <<<0,36>,s>,1>
+<<< slicer 0.0102645s
+>>> shuffler 
+<<< shuffler 0.0026129s
+>>> substrater 
+<<< substrater 0.0277126s
+>>> applier 
+<<< applier 0.0170781s
+>>> layerer
+>>> layer	fud: 56	layer: 1
+substrate cardinality: 1982
+fud cardinality: 0
+tupler	searched: 2062071	rate: 1.42508e+06
+tupler 1.44698s
+tuple cardinality: 10
+max tuple algn: -210.058
+layer cardinality: 24
+parter	searched: 3640	rate: 139016
+parter 0.0261841s
+roller	searched: 16914	rate: 2.61859e+06
+roller 0.0064592s
+der vars algn density: 256.198
+dervarser	searched: 982	rate: 445857
+dervarser 0.0022025s
+application 0.0306396s
+<<< layer 1.51247s
+>>> layer	fud: 56	layer: 2
+substrate cardinality: 1982
+fud cardinality: 24
+tupler	searched: 148845	rate: 617096
+tupler 0.241202s
+tuple cardinality: 10
+max tuple algn: -176.463
+layer cardinality: 18
+parter	searched: 3640	rate: 160884
+parter 0.022625s
+roller	searched: 491340	rate: 1.0531e+07
+roller 0.0466567s
+der vars algn density: 256.198
+dervarser	searched: 1946	rate: 653788
+dervarser 0.0029765s
+application 0.0298411s
+<<< layer 0.343305s
+<<< layerer 1.87906s
+>>> transer 
+fud: 56
+fud slice size: 363
+derived cardinality: 4
+derived algn density: 256.198
+derived impl bi-valency percent: 26.5238
+fud slice cardinality: 3
+<<< transer 0.003894s
+>>> applier 
+<<< applier 0.0398381s
+>>> slicer 
+slice size: 354
+slice variable: <<<0,43>,s>,1>
+<<< slicer 0.0106586s
+>>> shuffler 
+<<< shuffler 0.0028644s
+>>> substrater 
+<<< substrater 0.0295564s
+>>> applier 
+<<< applier 0.0188257s
+>>> layerer
+>>> layer	fud: 57	layer: 1
+substrate cardinality: 1897
+fud cardinality: 0
+tupler	searched: 1893006	rate: 1.52151e+06
+tupler 1.24416s
+tuple cardinality: 10
+max tuple algn: -240.195
+layer cardinality: 24
+parter	searched: 3640	rate: 181462
+parter 0.0200593s
+roller	searched: 155934	rate: 1.05489e+07
+roller 0.014782s
+der vars algn density: 326.507
+dervarser	searched: 982	rate: 517441
+dervarser 0.0018978s
+application 0.0257656s
+<<< layer 1.30667s
+>>> layer	fud: 57	layer: 2
+substrate cardinality: 1897
+fud cardinality: 24
+tupler	searched: 142578	rate: 739331
+tupler 0.192847s
+tuple cardinality: 10
+max tuple algn: -224.887
+layer cardinality: 16
+parter	searched: 3640	rate: 186239
+parter 0.0195448s
+roller	searched: 491340	rate: 1.23266e+07
+roller 0.0398601s
+der vars algn density: 326.507
+dervarser	searched: 1792	rate: 719708
+dervarser 0.0024899s
+application 0.0248155s
+<<< layer 0.27956s
+<<< layerer 1.61025s
+>>> transer 
+fud: 57
+fud slice size: 354
+derived cardinality: 4
+derived algn density: 326.507
+derived impl bi-valency percent: 35.9947
+fud slice cardinality: 3
+<<< transer 0.0035173s
+>>> applier 
+<<< applier 0.036124s
+>>> slicer 
+slice size: 354
+slice variable: <<<0,22>,s>,2>
+<<< slicer 0.0091251s
+>>> shuffler 
+<<< shuffler 0.0027244s
+>>> substrater 
+<<< substrater 0.0238171s
+>>> applier 
+<<< applier 0.0128806s
+>>> layerer
+>>> layer	fud: 58	layer: 1
+substrate cardinality: 1236
+fud cardinality: 0
+tupler	searched: 824830	rate: 1.44768e+06
+tupler 0.569761s
+tuple cardinality: 10
+max tuple algn: -270.883
+layer cardinality: 27
+parter	searched: 3640	rate: 189315
+parter 0.0192272s
+roller	searched: 17070	rate: 3.59952e+06
+roller 0.0047423s
+der vars algn density: 334.193
+dervarser	searched: 1192	rate: 589195
+dervarser 0.0020231s
+application 0.0170135s
+<<< layer 0.61277s
+>>> layer	fud: 58	layer: 2
+substrate cardinality: 1236
+fud cardinality: 27
+tupler	searched: 97665	rate: 702639
+tupler 0.138997s
+tuple cardinality: 10
+max tuple algn: -248.578
+layer cardinality: 16
+parter	searched: 3640	rate: 187814
+parter 0.0193809s
+roller	searched: 66810	rate: 8.67212e+06
+roller 0.007704s
+der vars algn density: 337.149
+dervarser	searched: 2170	rate: 815575
+dervarser 0.0026607s
+application 0.0165283s
+<<< layer 0.185274s
+>>> layer	fud: 58	layer: 3
+substrate cardinality: 1236
+fud cardinality: 43
+tupler	searched: 110482	rate: 765579
+tupler 0.144312s
+tuple cardinality: 10
+max tuple algn: -232.18
+layer cardinality: 16
+parter	searched: 3640	rate: 191279
+parter 0.0190298s
+roller	searched: 491340	rate: 1.2805e+07
+roller 0.038371s
+der vars algn density: 337.149
+dervarser	searched: 3125	rate: 842841
+dervarser 0.0037077s
+application 0.0168436s
+<<< layer 0.222267s
+<<< layerer 1.03744s
+>>> transer 
+fud: 58
+fud slice size: 354
+derived cardinality: 4
+derived algn density: 337.149
+derived impl bi-valency percent: 37.3642
+fud slice cardinality: 3
+<<< transer 0.0027215s
+>>> applier 
+<<< applier 0.0354895s
+>>> slicer 
+slice size: 345
+slice variable: <<<0,32>,s>,3>
+<<< slicer 0.0098206s
+>>> shuffler 
+<<< shuffler 0.0023485s
+>>> substrater 
+<<< substrater 0.031488s
+>>> applier 
+<<< applier 0.0159555s
+>>> layerer
+>>> layer	fud: 59	layer: 1
+substrate cardinality: 1710
+fud cardinality: 0
+tupler	searched: 1546495	rate: 1.54974e+06
+tupler 0.997907s
+tuple cardinality: 10
+max tuple algn: -199.499
+layer cardinality: 24
+parter	searched: 3640	rate: 182596
+parter 0.0199347s
+roller	searched: 58971	rate: 7.87814e+06
+roller 0.0074854s
+der vars algn density: 282.812
+dervarser	searched: 982	rate: 513008
+dervarser 0.0019142s
+application 0.0231042s
+<<< layer 1.05035s
+>>> layer	fud: 59	layer: 2
+substrate cardinality: 1710
+fud cardinality: 24
+tupler	searched: 128758	rate: 758678
+tupler 0.169714s
+tuple cardinality: 10
+max tuple algn: -194.999
+layer cardinality: 16
+parter	searched: 3640	rate: 181543
+parter 0.0200503s
+roller	searched: 491340	rate: 1.22142e+07
+roller 0.0402268s
+der vars algn density: 282.812
+dervarser	searched: 1643	rate: 693571
+dervarser 0.0023689s
+application 0.022971s
+<<< layer 0.255334s
+<<< layerer 1.32632s
+>>> transer 
+fud: 59
+fud slice size: 345
+derived cardinality: 4
+derived algn density: 282.812
+derived impl bi-valency percent: 31.4226
+fud slice cardinality: 3
+<<< transer 0.0033285s
+>>> applier 
+<<< applier 0.037165s
+>>> slicer 
+slice size: 345
+slice variable: <<<0,25>,s>,1>
+<<< slicer 0.0104483s
+>>> shuffler 
+<<< shuffler 0.0024048s
+>>> substrater 
+<<< substrater 0.0289017s
+>>> applier 
+<<< applier 0.0175513s
+>>> layerer
+>>> layer	fud: 60	layer: 1
+substrate cardinality: 2100
+fud cardinality: 0
+tupler	searched: 2308750	rate: 1.53428e+06
+tupler 1.50477s
+tuple cardinality: 10
+max tuple algn: -165.24
+layer cardinality: 22
+parter	searched: 3640	rate: 186866
+parter 0.0194792s
+roller	searched: 47617	rate: 7.14187e+06
+roller 0.0066673s
+der vars algn density: 237.879
+dervarser	searched: 852	rate: 386412
+dervarser 0.0022049s
+application 0.02741s
+<<< layer 1.56054s
+>>> layer	fud: 60	layer: 2
+substrate cardinality: 2100
+fud cardinality: 22
+tupler	searched: 153173	rate: 723224
+tupler 0.211792s
+tuple cardinality: 10
+max tuple algn: -171.684
+layer cardinality: 22
+parter	searched: 3640	rate: 163227
+parter 0.0223002s
+roller	searched: 73840	rate: 7.75174e+06
+roller 0.0095256s
+der vars algn density: 237.879
+dervarser	searched: 1941	rate: 692546
+dervarser 0.0028027s
+application 0.0285758s
+<<< layer 0.275s
+<<< layerer 1.85887s
+>>> transer 
+fud: 60
+fud slice size: 345
+derived cardinality: 4
+derived algn density: 237.879
+derived impl bi-valency percent: 25.8392
+fud slice cardinality: 3
+<<< transer 0.0037187s
+>>> applier 
+<<< applier 0.0398714s
+>>> slicer 
+slice size: 343
+slice variable: <<<0,40>,s>,1>
+<<< slicer 0.0102856s
+>>> shuffler 
+<<< shuffler 0.0026296s
+>>> substrater 
+<<< substrater 0.0266056s
+>>> applier 
+<<< applier 0.0141106s
+>>> layerer
+>>> layer	fud: 61	layer: 1
+substrate cardinality: 1350
+fud cardinality: 0
+tupler	searched: 977875	rate: 1.51304e+06
+tupler 0.646299s
+tuple cardinality: 10
+max tuple algn: -156.161
+layer cardinality: 28
+parter	searched: 3640	rate: 171997
+parter 0.0211632s
+roller	searched: 16086	rate: 2.51903e+06
+roller 0.0063858s
+der vars algn density: 263.005
+dervarser	searched: 1236	rate: 628464
+dervarser 0.0019667s
+application 0.0200838s
+<<< layer 0.695902s
+>>> layer	fud: 61	layer: 2
+substrate cardinality: 1350
+fud cardinality: 28
+tupler	searched: 80496	rate: 944023
+tupler 0.0852691s
+tuple cardinality: 10
+max tuple algn: -112.602
+layer cardinality: 16
+parter	searched: 400	rate: 178779
+parter 0.0022374s
+roller	searched: 16592	rate: 3.32605e+06
+roller 0.0049885s
+der vars algn density: 263.005
+dervarser	searched: 2334	rate: 776189
+dervarser 0.003007s
+application 0.0192502s
+<<< layer 0.114755s
+<<< layerer 0.828078s
+>>> transer 
+fud: 61
+fud slice size: 343
+derived cardinality: 4
+derived algn density: 263.005
+derived impl bi-valency percent: 29.1227
+fud slice cardinality: 4
+<<< transer 0.0029716s
+>>> applier 
+<<< applier 0.0398489s
+>>> slicer 
+slice size: 340
+slice variable: <<<0,20>,s>,2>
+<<< slicer 0.0110544s
+>>> shuffler 
+<<< shuffler 0.002508s
+>>> substrater 
+<<< substrater 0.0276992s
+>>> applier 
+<<< applier 0.0164537s
+>>> layerer
+>>> layer	fud: 62	layer: 1
+substrate cardinality: 1670
+fud cardinality: 0
+tupler	searched: 1476915	rate: 1.53645e+06
+tupler 0.961252s
+tuple cardinality: 10
+max tuple algn: -231.963
+layer cardinality: 29
+parter	searched: 3640	rate: 178610
+parter 0.0203796s
+roller	searched: 36966	rate: 6.01093e+06
+roller 0.0061498s
+der vars algn density: 310.062
+dervarser	searched: 1342	rate: 708516
+dervarser 0.0018941s
+application 0.0225944s
+<<< layer 1.01227s
+>>> layer	fud: 62	layer: 2
+substrate cardinality: 1670
+fud cardinality: 29
+tupler	searched: 134732	rate: 785837
+tupler 0.17145s
+tuple cardinality: 10
+max tuple algn: -213.79
+layer cardinality: 18
+parter	searched: 3640	rate: 190212
+parter 0.0191365s
+roller	searched: 491340	rate: 1.23713e+07
+roller 0.039716s
+der vars algn density: 310.062
+dervarser	searched: 2524	rate: 823464
+dervarser 0.0030651s
+application 0.0215683s
+<<< layer 0.254939s
+<<< layerer 1.28777s
+>>> transer 
+fud: 62
+fud slice size: 340
+derived cardinality: 4
+derived algn density: 310.062
+derived impl bi-valency percent: 35.5245
+fud slice cardinality: 3
+<<< transer 0.0032861s
+>>> applier 
+<<< applier 0.037193s
+>>> slicer 
+slice size: 327
+slice variable: <<<0,15>,s>,2>
+<<< slicer 0.0088757s
+>>> shuffler 
+<<< shuffler 0.0023203s
+>>> substrater 
+<<< substrater 0.0232403s
+>>> applier 
+<<< applier 0.0124023s
+>>> layerer
+>>> layer	fud: 63	layer: 1
+substrate cardinality: 1224
+fud cardinality: 0
+tupler	searched: 809476	rate: 1.55107e+06
+tupler 0.521883s
+tuple cardinality: 10
+max tuple algn: -25.2594
+layer cardinality: 15
+parter	searched: 3640	rate: 177998
+parter 0.0204497s
+roller	searched: 24100	rate: 4.0353e+06
+roller 0.0059723s
+der vars algn density: 311.397
+dervarser	searched: 460	rate: 380858
+dervarser 0.0012078s
+application 0.0155218s
+<<< layer 0.565042s
+>>> layer	fud: 63	layer: 2
+substrate cardinality: 1224
+fud cardinality: 15
+tupler	searched: 81088	rate: 727620
+tupler 0.111443s
+tuple cardinality: 10
+max tuple algn: -204.003
+layer cardinality: 6
+parter	searched: 3640	rate: 191113
+parter 0.0190463s
+roller	searched: 491340	rate: 1.25501e+07
+roller 0.0391503s
+der vars algn density: 311.397
+dervarser	searched: 620	rate: 458750
+dervarser 0.0013515s
+application 0.014935s
+<<< layer 0.185929s
+<<< layerer 0.764373s
+>>> transer 
+fud: 63
+fud slice size: 327
+derived cardinality: 4
+derived algn density: 311.397
+derived impl bi-valency percent: 37.359
+fud slice cardinality: 3
+<<< transer 0.0026062s
+>>> applier 
+<<< applier 0.0373548s
+>>> slicer 
+slice size: 325
+slice variable: <<<0,32>,s>,2>
+<<< slicer 0.0098338s
+>>> shuffler 
+<<< shuffler 0.0022802s
+>>> substrater 
+<<< substrater 0.0261924s
+>>> applier 
+<<< applier 0.0154248s
+>>> layerer
+>>> layer	fud: 64	layer: 1
+substrate cardinality: 1891
+fud cardinality: 0
+tupler	searched: 1881345	rate: 1.61589e+06
+tupler 1.16428s
+tuple cardinality: 10
+max tuple algn: -238.396
+layer cardinality: 20
+parter	searched: 3640	rate: 184310
+parter 0.0197493s
+roller	searched: 17070	rate: 3.57562e+06
+roller 0.004774s
+der vars algn density: 291.768
+dervarser	searched: 730	rate: 460888
+dervarser 0.0015839s
+application 0.0230561s
+<<< layer 1.21345s
+>>> layer	fud: 64	layer: 2
+substrate cardinality: 1891
+fud cardinality: 20
+tupler	searched: 134159	rate: 801838
+tupler 0.167314s
+tuple cardinality: 10
+max tuple algn: -201.428
+layer cardinality: 14
+parter	searched: 3640	rate: 179588
+parter 0.0202686s
+roller	searched: 491340	rate: 1.18718e+07
+roller 0.0413873s
+der vars algn density: 291.768
+dervarser	searched: 1214	rate: 579641
+dervarser 0.0020944s
+application 0.0229995s
+<<< layer 0.254067s
+<<< layerer 1.48752s
+>>> transer 
+fud: 64
+fud slice size: 325
+derived cardinality: 4
+derived algn density: 291.768
+derived impl bi-valency percent: 34.8846
+fud slice cardinality: 3
+<<< transer 0.0037709s
+>>> applier 
+<<< applier 0.0377678s
+>>> slicer 
+slice size: 317
+slice variable: <<<0,52>,s>,1>
+<<< slicer 0.0101584s
+>>> shuffler 
+<<< shuffler 0.0023757s
+>>> substrater 
+<<< substrater 0.0272303s
+>>> applier 
+<<< applier 0.0164719s
+>>> layerer
+>>> layer	fud: 65	layer: 1
+substrate cardinality: 1721
+fud cardinality: 0
+tupler	searched: 1565910	rate: 1.66247e+06
+tupler 0.941919s
+tuple cardinality: 10
+max tuple algn: 74.6308
+layer cardinality: 32
+parter	searched: 3640	rate: 163659
+parter 0.0222413s
+roller	searched: 16209	rate: 2.51069e+06
+roller 0.006456s
+der vars algn density: 285.236
+dervarser	searched: 1552	rate: 735022
+dervarser 0.0021115s
+application 0.0236512s
+<<< layer 0.996382s
+>>> layer	fud: 65	layer: 2
+substrate cardinality: 1721
+fud cardinality: 32
+tupler	searched: 109366	rate: 1.13155e+06
+tupler 0.0966511s
+tuple cardinality: 10
+max tuple algn: -167.171
+layer cardinality: 15
+parter	searched: 400	rate: 217663
+parter 0.0018377s
+roller	searched: 27220	rate: 5.61168e+06
+roller 0.0048506s
+der vars algn density: 285.503
+dervarser	searched: 2453	rate: 857542
+dervarser 0.0028605s
+application 0.0231391s
+<<< layer 0.129342s
+>>> layer	fud: 65	layer: 3
+substrate cardinality: 1721
+fud cardinality: 47
+tupler	searched: 120978	rate: 1.10461e+06
+tupler 0.109521s
+tuple cardinality: 10
+max tuple algn: -172.962
+layer cardinality: 22
+parter	searched: 400	rate: 231401
+parter 0.0017286s
+roller	searched: 27260	rate: 7.81492e+06
+roller 0.0034882s
+der vars algn density: 285.503
+dervarser	searched: 4958	rate: 1.08327e+06
+dervarser 0.0045769s
+application 0.0240246s
+<<< layer 0.143342s
+<<< layerer 1.28964s
+>>> transer 
+fud: 65
+fud slice size: 317
+derived cardinality: 4
+derived algn density: 285.503
+derived impl bi-valency percent: 35.0147
+fud slice cardinality: 4
+<<< transer 0.003694s
+>>> applier 
+<<< applier 0.0397448s
+>>> slicer 
+slice size: 304
+slice variable: <<<0,53>,s>,1>
+<<< slicer 0.0105946s
+>>> shuffler 
+<<< shuffler 0.0021788s
+>>> substrater 
+<<< substrater 0.0257919s
+>>> applier 
+<<< applier 0.015737s
+>>> layerer
+>>> layer	fud: 66	layer: 1
+substrate cardinality: 1710
+fud cardinality: 0
+tupler	searched: 1546495	rate: 1.69606e+06
+tupler 0.911817s
+tuple cardinality: 10
+max tuple algn: -213.237
+layer cardinality: 17
+parter	searched: 3640	rate: 168419
+parter 0.0216128s
+roller	searched: 16090	rate: 2.54802e+06
+roller 0.0063147s
+der vars algn density: 291.819
+dervarser	searched: 562	rate: 400513
+dervarser 0.0014032s
+application 0.0213619s
+<<< layer 0.962513s
+>>> layer	fud: 66	layer: 2
+substrate cardinality: 1710
+fud cardinality: 17
+tupler	searched: 116152	rate: 746245
+tupler 0.155649s
+tuple cardinality: 10
+max tuple algn: -201.383
+layer cardinality: 19
+parter	searched: 3640	rate: 163609
+parter 0.0222481s
+roller	searched: 491340	rate: 1.05914e+07
+roller 0.0463905s
+der vars algn density: 291.819
+dervarser	searched: 1524	rate: 670480
+dervarser 0.002273s
+application 0.0197647s
+<<< layer 0.246328s
+<<< layerer 1.22729s
+>>> transer 
+fud: 66
+fud slice size: 304
+derived cardinality: 4
+derived algn density: 291.819
+derived impl bi-valency percent: 37.7096
+fud slice cardinality: 3
+<<< transer 0.0032162s
+>>> applier 
+<<< applier 0.0619392s
+>>> slicer 
+slice size: 298
+slice variable: <<<0,54>,s>,1>
+<<< slicer 0.0110012s
+>>> shuffler 
+<<< shuffler 0.0020816s
+>>> substrater 
+<<< substrater 0.0230054s
+>>> applier 
+<<< applier 0.013399s
+>>> layerer
+>>> layer	fud: 67	layer: 1
+substrate cardinality: 1294
+fud cardinality: 0
+tupler	searched: 901071	rate: 1.63246e+06
+tupler 0.551971s
+tuple cardinality: 10
+max tuple algn: -165.415
+layer cardinality: 19
+parter	searched: 3640	rate: 180572
+parter 0.0201582s
+roller	searched: 66810	rate: 8.15393e+06
+roller 0.0081936s
+der vars algn density: 223.457
+dervarser	searched: 672	rate: 435826
+dervarser 0.0015419s
+application 0.0161946s
+<<< layer 0.598063s
+>>> layer	fud: 67	layer: 2
+substrate cardinality: 1294
+fud cardinality: 19
+tupler	searched: 91004	rate: 795379
+tupler 0.114416s
+tuple cardinality: 10
+max tuple algn: -154.684
+layer cardinality: 18
+parter	searched: 3640	rate: 185301
+parter 0.0196437s
+roller	searched: 491340	rate: 1.22721e+07
+roller 0.0400372s
+der vars algn density: 223.457
+dervarser	searched: 1604	rate: 774580
+dervarser 0.0020708s
+application 0.015225s
+<<< layer 0.191396s
+<<< layerer 0.803167s
+>>> transer 
+fud: 67
+fud slice size: 298
+derived cardinality: 4
+derived algn density: 223.457
+derived impl bi-valency percent: 28.3963
+fud slice cardinality: 3
+<<< transer 0.0026357s
+>>> applier 
+<<< applier 0.0623168s
+>>> slicer 
+slice size: 296
+slice variable: <<<0,27>,s>,2>
+<<< slicer 0.0085671s
+>>> shuffler 
+<<< shuffler 0.0020735s
+>>> substrater 
+<<< substrater 0.0213365s
+>>> applier 
+<<< applier 0.0102427s
+>>> layerer
+>>> layer	fud: 68	layer: 1
+substrate cardinality: 1043
+fud cardinality: 0
+tupler	searched: 595353	rate: 1.66234e+06
+tupler 0.358142s
+tuple cardinality: 10
+max tuple algn: -85.1855
+layer cardinality: 29
+parter	searched: 3640	rate: 174434
+parter 0.0208675s
+roller	searched: 30078	rate: 3.90603e+06
+roller 0.0077004s
+der vars algn density: 271.098
+dervarser	searched: 1322	rate: 631026
+dervarser 0.002095s
+application 0.0129755s
+<<< layer 0.401784s
+>>> layer	fud: 68	layer: 2
+substrate cardinality: 1043
+fud cardinality: 29
+tupler	searched: 85229	rate: 769999
+tupler 0.110687s
+tuple cardinality: 10
+max tuple algn: -166.664
+layer cardinality: 4
+parter	searched: 3640	rate: 174559
+parter 0.0208525s
+roller	searched: 491340	rate: 1.15736e+07
+roller 0.0424534s
+der vars algn density: 271.098
+dervarser	searched: 1318	rate: 661912
+dervarser 0.0019912s
+application 0.012747s
+<<< layer 0.188734s
+<<< layerer 0.601184s
+>>> transer 
+fud: 68
+fud slice size: 296
+derived cardinality: 4
+derived algn density: 271.098
+derived impl bi-valency percent: 35.702
+fud slice cardinality: 3
+<<< transer 0.0024844s
+>>> applier 
+<<< applier 0.0641774s
+>>> slicer 
+slice size: 292
+slice variable: <<<0,56>,s>,1>
+<<< slicer 0.0097651s
+>>> shuffler 
+<<< shuffler 0.0021109s
+>>> substrater 
+<<< substrater 0.0270757s
+>>> applier 
+<<< applier 0.0157115s
+>>> layerer
+>>> layer	fud: 69	layer: 1
+substrate cardinality: 1866
+fud cardinality: 0
+tupler	searched: 1833145	rate: 1.76212e+06
+tupler 1.04031s
+tuple cardinality: 10
+max tuple algn: -250.114
+layer cardinality: 18
+parter	searched: 3640	rate: 166945
+parter 0.0218036s
+roller	searched: 15410	rate: 2.46288e+06
+roller 0.0062569s
+der vars algn density: 252.169
+dervarser	searched: 616	rate: 388105
+dervarser 0.0015872s
+application 0.0220046s
+<<< layer 1.09196s
+>>> layer	fud: 69	layer: 2
+substrate cardinality: 1866
+fud cardinality: 18
+tupler	searched: 128642	rate: 768173
+tupler 0.167465s
+tuple cardinality: 10
+max tuple algn: -174.791
+layer cardinality: 15
+parter	searched: 3640	rate: 183532
+parter 0.0198331s
+roller	searched: 491340	rate: 1.20872e+07
+roller 0.0406497s
+der vars algn density: 252.169
+dervarser	searched: 1165	rate: 541936
+dervarser 0.0021497s
+application 0.021145s
+<<< layer 0.251246s
+<<< layerer 1.36229s
+>>> transer 
+fud: 69
+fud slice size: 292
+derived cardinality: 4
+derived algn density: 252.169
+derived impl bi-valency percent: 33.3576
+fud slice cardinality: 3
+<<< transer 0.0034291s
+>>> applier 
+<<< applier 0.0629334s
+>>> slicer 
+slice size: 292
+slice variable: <<<0,50>,s>,1>
+<<< slicer 0.0093423s
+>>> shuffler 
+<<< shuffler 0.002135s
+>>> substrater 
+<<< substrater 0.0286255s
+>>> applier 
+<<< applier 0.0167209s
+>>> layerer
+>>> layer	fud: 70	layer: 1
+substrate cardinality: 2050
+fud cardinality: 0
+tupler	searched: 2202525	rate: 1.77274e+06
+tupler 1.24244s
+tuple cardinality: 10
+max tuple algn: -133.074
+layer cardinality: 23
+parter	searched: 3640	rate: 186335
+parter 0.0195347s
+roller	searched: 120117	rate: 9.53514e+06
+roller 0.0125973s
+der vars algn density: 182.004
+dervarser	searched: 916	rate: 484400
+dervarser 0.001891s
+application 0.0231989s
+<<< layer 1.29966s
+>>> layer	fud: 70	layer: 2
+substrate cardinality: 2050
+fud cardinality: 23
+tupler	searched: 151691	rate: 869978
+tupler 0.174362s
+tuple cardinality: 10
+max tuple algn: -178.662
+layer cardinality: 15
+parter	searched: 3640	rate: 183325
+parter 0.0198554s
+roller	searched: 66810	rate: 8.17038e+06
+roller 0.0081771s
+der vars algn density: 206.071
+dervarser	searched: 1598	rate: 686102
+dervarser 0.0023291s
+application 0.0234125s
+<<< layer 0.228139s
+>>> layer	fud: 70	layer: 3
+substrate cardinality: 2050
+fud cardinality: 38
+tupler	searched: 163338	rate: 805517
+tupler 0.202774s
+tuple cardinality: 10
+max tuple algn: -142.721
+layer cardinality: 18
+parter	searched: 3640	rate: 192923
+parter 0.0188676s
+roller	searched: 491340	rate: 1.23798e+07
+roller 0.0396889s
+der vars algn density: 206.071
+dervarser	searched: 2612	rate: 962098
+dervarser 0.0027149s
+application 0.0227343s
+<<< layer 0.286783s
+<<< layerer 1.83491s
+>>> transer 
+fud: 70
+fud slice size: 292
+derived cardinality: 4
+derived algn density: 206.071
+derived impl bi-valency percent: 26.5213
+fud slice cardinality: 3
+<<< transer 0.0036048s
+>>> applier 
+<<< applier 0.0618716s
+>>> slicer 
+slice size: 291
+slice variable: <<<0,55>,s>,1>
+<<< slicer 0.009997s
+>>> shuffler 
+<<< shuffler 0.002027s
+>>> substrater 
+<<< substrater 0.0245138s
+>>> applier 
+<<< applier 0.020096s
+>>> layerer
+>>> layer	fud: 71	layer: 1
+substrate cardinality: 1508
+fud cardinality: 0
+tupler	searched: 1211478	rate: 1.73603e+06
+tupler 0.697845s
+tuple cardinality: 10
+max tuple algn: -161.515
+layer cardinality: 33
+parter	searched: 3640	rate: 149708
+parter 0.024314s
+roller	searched: 20776	rate: 2.89162e+06
+roller 0.0071849s
+der vars algn density: 252.687
+dervarser	searched: 1666	rate: 760036
+dervarser 0.002192s
+application 0.0185272s
+<<< layer 0.750067s
+>>> layer	fud: 71	layer: 2
+substrate cardinality: 1508
+fud cardinality: 33
+tupler	searched: 129204	rate: 922857
+tupler 0.140004s
+tuple cardinality: 10
+max tuple algn: -174.406
+layer cardinality: 20
+parter	searched: 3640	rate: 181440
+parter 0.0200617s
+roller	searched: 491340	rate: 1.20064e+07
+roller 0.0409232s
+der vars algn density: 252.687
+dervarser	searched: 3166	rate: 985801
+dervarser 0.0032116s
+application 0.017943s
+<<< layer 0.222147s
+<<< layerer 0.988263s
+>>> transer 
+fud: 71
+fud slice size: 291
+derived cardinality: 4
+derived algn density: 252.687
+derived impl bi-valency percent: 33.5688
+fud slice cardinality: 6
+<<< transer 0.0037668s
+>>> applier 
+<<< applier 0.0656278s
+>>> slicer 
+slice size: 291
+slice variable: <<<0,35>,s>,2>
+<<< slicer 0.009787s
+>>> shuffler 
+<<< shuffler 0.0023359s
+>>> substrater 
+<<< substrater 0.0264319s
+>>> applier 
+<<< applier 0.0180967s
+>>> layerer
+>>> layer	fud: 72	layer: 1
+substrate cardinality: 1939
+fud cardinality: 0
+tupler	searched: 1975641	rate: 1.76623e+06
+tupler 1.11857s
+tuple cardinality: 10
+max tuple algn: -161.54
+layer cardinality: 21
+parter	searched: 3640	rate: 184420
+parter 0.0197376s
+roller	searched: 17070	rate: 3.48844e+06
+roller 0.0048933s
+der vars algn density: 215.336
+dervarser	searched: 790	rate: 500570
+dervarser 0.0015782s
+application 0.02189s
+<<< layer 1.16667s
+>>> layer	fud: 72	layer: 2
+substrate cardinality: 1939
+fud cardinality: 21
+tupler	searched: 139495	rate: 889657
+tupler 0.156796s
+tuple cardinality: 10
+max tuple algn: -149.159
+layer cardinality: 12
+parter	searched: 3640	rate: 183660
+parter 0.0198192s
+roller	searched: 491340	rate: 1.22013e+07
+roller 0.0402695s
+der vars algn density: 215.336
+dervarser	searched: 1346	rate: 622198
+dervarser 0.0021633s
+application 0.0215985s
+<<< layer 0.24065s
+<<< layerer 1.42659s
+>>> transer 
+fud: 72
+fud slice size: 291
+derived cardinality: 4
+derived algn density: 215.336
+derived impl bi-valency percent: 27.9746
+fud slice cardinality: 3
+<<< transer 0.0036444s
+>>> applier 
+<<< applier 0.0633685s
+>>> slicer 
+slice size: 287
+slice variable: <<<0,48>,s>,1>
+<<< slicer 0.0099481s
+>>> shuffler 
+<<< shuffler 0.0019967s
+>>> substrater 
+<<< substrater 0.0252786s
+>>> applier 
+<<< applier 0.0158666s
+>>> layerer
+>>> layer	fud: 73	layer: 1
+substrate cardinality: 1835
+fud cardinality: 0
+tupler	searched: 1774245	rate: 1.72321e+06
+tupler 1.02962s
+tuple cardinality: 10
+max tuple algn: -142.962
+layer cardinality: 18
+parter	searched: 3640	rate: 192497
+parter 0.0189094s
+roller	searched: 491340	rate: 1.22668e+07
+roller 0.0400546s
+der vars algn density: 206.315
+dervarser	searched: 616	rate: 362438
+dervarser 0.0016996s
+application 0.0191891s
+<<< layer 1.10947s
+>>> layer	fud: 73	layer: 2
+substrate cardinality: 1835
+fud cardinality: 18
+tupler	searched: 126277	rate: 851529
+tupler 0.148294s
+tuple cardinality: 10
+max tuple algn: -142.962
+layer cardinality: 4
+parter	searched: 3640	rate: 191467
+parter 0.0190111s
+roller	searched: 491340	rate: 1.22969e+07
+roller 0.0399565s
+der vars algn density: 206.315
+dervarser	searched: 726	rate: 489713
+dervarser 0.0014825s
+application 0.0192314s
+<<< layer 0.227979s
+<<< layerer 1.35685s
+>>> transer 
+fud: 73
+fud slice size: 287
+derived cardinality: 4
+derived algn density: 206.315
+derived impl bi-valency percent: 27.077
+fud slice cardinality: 3
+<<< transer 0.0034085s
+>>> applier 
+<<< applier 0.0651701s
+>>> slicer 
+slice size: 285
+slice variable: <<<0,51>,s>,1>
+<<< slicer 0.0093939s
+>>> shuffler 
+<<< shuffler 0.0019839s
+>>> substrater 
+<<< substrater 0.0274996s
+>>> applier 
+<<< applier 0.0431315s
+>>> layerer
+>>> layer	fud: 74	layer: 1
+substrate cardinality: 2001
+fud cardinality: 0
+tupler	searched: 2100850	rate: 1.82563e+06
+tupler 1.15076s
+tuple cardinality: 10
+max tuple algn: -149.257
+layer cardinality: 22
+parter	searched: 3640	rate: 148806
+parter 0.0244614s
+roller	searched: 69622	rate: 6.79869e+06
+roller 0.0102405s
+der vars algn density: 203.667
+dervarser	searched: 852	rate: 535714
+dervarser 0.0015904s
+application 0.0256201s
+<<< layer 1.21267s
+>>> layer	fud: 74	layer: 2
+substrate cardinality: 2001
+fud cardinality: 22
+tupler	searched: 146044	rate: 785457
+tupler 0.185935s
+tuple cardinality: 10
+max tuple algn: -145.214
+layer cardinality: 20
+parter	searched: 3640	rate: 174455
+parter 0.020865s
+roller	searched: 73840	rate: 8.90465e+06
+roller 0.0082923s
+der vars algn density: 203.667
+dervarser	searched: 1718	rate: 747379
+dervarser 0.0022987s
+application 0.0227063s
+<<< layer 0.2401s
+<<< layerer 1.47367s
+>>> transer 
+fud: 74
+fud slice size: 285
+derived cardinality: 4
+derived algn density: 203.667
+derived impl bi-valency percent: 26.8973
+fud slice cardinality: 3
+<<< transer 0.003521s
+>>> applier 
+<<< applier 0.066701s
+>>> slicer 
+slice size: 283
+slice variable: <<<0,49>,s>,1>
+<<< slicer 0.0094834s
+>>> shuffler 
+<<< shuffler 0.0020614s
+>>> substrater 
+<<< substrater 0.0268693s
+>>> applier 
+<<< applier 0.0159579s
+>>> layerer
+>>> layer	fud: 75	layer: 1
+substrate cardinality: 1856
+fud cardinality: 0
+tupler	searched: 1814040	rate: 1.75626e+06
+tupler 1.0329s
+tuple cardinality: 10
+max tuple algn: -155.818
+layer cardinality: 16
+parter	searched: 3640	rate: 192673
+parter 0.0188921s
+roller	searched: 31992	rate: 5.85784e+06
+roller 0.0054614s
+der vars algn density: 181.926
+dervarser	searched: 510	rate: 329245
+dervarser 0.001549s
+application 0.0206459s
+<<< layer 1.07945s
+>>> layer	fud: 75	layer: 2
+substrate cardinality: 1856
+fud cardinality: 16
+tupler	searched: 123918	rate: 811807
+tupler 0.152645s
+tuple cardinality: 10
+max tuple algn: -126.078
+layer cardinality: 4
+parter	searched: 3640	rate: 185665
+parter 0.0196052s
+roller	searched: 491340	rate: 1.25809e+07
+roller 0.0390544s
+der vars algn density: 181.926
+dervarser	searched: 538	rate: 365713
+dervarser 0.0014711s
+application 0.0204091s
+<<< layer 0.233187s
+<<< layerer 1.33156s
+>>> transer 
+fud: 75
+fud slice size: 283
+derived cardinality: 4
+derived algn density: 181.926
+derived impl bi-valency percent: 23.8973
+fud slice cardinality: 3
+<<< transer 0.0042104s
+>>> applier 
+<<< applier 0.062899s
+>>> slicer 
+slice size: 280
+slice variable: <<<0,60>,s>,1>
+<<< slicer 0.0095177s
+>>> shuffler 
+<<< shuffler 0.0019164s
+>>> substrater 
+<<< substrater 0.026084s
+>>> applier 
+<<< applier 0.0161674s
+>>> layerer
+>>> layer	fud: 76	layer: 1
+substrate cardinality: 1962
+fud cardinality: 0
+tupler	searched: 2021641	rate: 1.83909e+06
+tupler 1.09926s
+tuple cardinality: 10
+max tuple algn: -150.114
+layer cardinality: 20
+parter	searched: 3640	rate: 164442
+parter 0.0221354s
+roller	searched: 407840	rate: 1.04809e+07
+roller 0.0389127s
+der vars algn density: 205.697
+dervarser	searched: 730	rate: 435951
+dervarser 0.0016745s
+application 0.022742s
+<<< layer 1.18473s
+>>> layer	fud: 76	layer: 2
+substrate cardinality: 1962
+fud cardinality: 20
+tupler	searched: 139060	rate: 878042
+tupler 0.158375s
+tuple cardinality: 10
+max tuple algn: -142.635
+layer cardinality: 4
+parter	searched: 3640	rate: 179609
+parter 0.0202663s
+roller	searched: 491340	rate: 1.18074e+07
+roller 0.0416129s
+der vars algn density: 205.697
+dervarser	searched: 783	rate: 439098
+dervarser 0.0017832s
+application 0.0210804s
+<<< layer 0.243121s
+<<< layerer 1.44603s
+>>> transer 
+fud: 76
+fud slice size: 280
+derived cardinality: 4
+derived algn density: 205.697
+derived impl bi-valency percent: 27.7465
+fud slice cardinality: 3
+<<< transer 0.0041754s
+>>> applier 
+<<< applier 0.0670118s
+>>> slicer 
+slice size: 261
+slice variable: <<<0,16>,s>,2>
+<<< slicer 0.008993s
+>>> shuffler 
+<<< shuffler 0.0018707s
+>>> substrater 
+<<< substrater 0.0232634s
+>>> applier 
+<<< applier 0.0128397s
+>>> layerer
+>>> layer	fud: 77	layer: 1
+substrate cardinality: 1285
+fud cardinality: 0
+tupler	searched: 889020	rate: 1.85617e+06
+tupler 0.478955s
+tuple cardinality: 10
+max tuple algn: -110.982
+layer cardinality: 18
+parter	searched: 3640	rate: 160538
+parter 0.0226738s
+roller	searched: 282590	rate: 1.07205e+07
+roller 0.0263598s
+der vars algn density: 248.935
+dervarser	searched: 616	rate: 485345
+dervarser 0.0012692s
+application 0.0151719s
+<<< layer 0.544433s
+>>> layer	fud: 77	layer: 2
+substrate cardinality: 1285
+fud cardinality: 18
+tupler	searched: 88906	rate: 891457
+tupler 0.0997311s
+tuple cardinality: 10
+max tuple algn: -172.907
+layer cardinality: 6
+parter	searched: 3640	rate: 169180
+parter 0.0215155s
+roller	searched: 491340	rate: 1.15715e+07
+roller 0.0424613s
+der vars algn density: 248.935
+dervarser	searched: 801	rate: 474386
+dervarser 0.0016885s
+application 0.0139242s
+<<< layer 0.179324s
+<<< layerer 0.735909s
+>>> transer 
+fud: 77
+fud slice size: 261
+derived cardinality: 4
+derived algn density: 248.935
+derived impl bi-valency percent: 37.4272
+fud slice cardinality: 3
+<<< transer 0.0033259s
+>>> applier 
+<<< applier 0.0669816s
+>>> slicer 
+slice size: 255
+slice variable: <<<0,59>,s>,1>
+<<< slicer 0.0089101s
+>>> shuffler 
+<<< shuffler 0.0018915s
+>>> substrater 
+<<< substrater 0.0239887s
+>>> applier 
+<<< applier 0.0147237s
+>>> layerer
+>>> layer	fud: 78	layer: 1
+substrate cardinality: 1530
+fud cardinality: 0
+tupler	searched: 1245985	rate: 1.88894e+06
+tupler 0.659623s
+tuple cardinality: 10
+max tuple algn: -143.906
+layer cardinality: 29
+parter	searched: 3640	rate: 146185
+parter 0.0249s
+roller	searched: 16090	rate: 2.31271e+06
+roller 0.0069572s
+der vars algn density: 234.755
+dervarser	searched: 1342	rate: 676616
+dervarser 0.0019834s
+application 0.0191083s
+<<< layer 0.712575s
+>>> layer	fud: 78	layer: 2
+substrate cardinality: 1530
+fud cardinality: 29
+tupler	searched: 124433	rate: 920124
+tupler 0.135235s
+tuple cardinality: 10
+max tuple algn: -157.327
+layer cardinality: 13
+parter	searched: 3640	rate: 167605
+parter 0.0217177s
+roller	searched: 73840	rate: 7.674e+06
+roller 0.0096221s
+der vars algn density: 230.01
+dervarser	searched: 1685	rate: 721164
+dervarser 0.0023365s
+application 0.0175971s
+<<< layer 0.186512s
+<<< layerer 0.913681s
+>>> transer 
+fud: 78
+fud slice size: 255
+derived cardinality: 4
+derived algn density: 234.755
+derived impl bi-valency percent: 35.9164
+fud slice cardinality: 3
+<<< transer 0.0032755s
+>>> applier 
+<<< applier 0.0691934s
+>>> slicer 
+slice size: 255
+slice variable: <<<0,45>,s>,1>
+<<< slicer 0.0095328s
+>>> shuffler 
+<<< shuffler 0.001935s
+>>> substrater 
+<<< substrater 0.0256807s
+>>> applier 
+<<< applier 0.0147875s
+>>> layerer
+>>> layer	fud: 79	layer: 1
+substrate cardinality: 1554
+fud cardinality: 0
+tupler	searched: 1284181	rate: 1.83634e+06
+tupler 0.699315s
+tuple cardinality: 10
+max tuple algn: -188.985
+layer cardinality: 22
+parter	searched: 3640	rate: 169923
+parter 0.0214215s
+roller	searched: 31585	rate: 4.75377e+06
+roller 0.0066442s
+der vars algn density: 245.693
+dervarser	searched: 852	rate: 538899
+dervarser 0.001581s
+application 0.0179812s
+<<< layer 0.746947s
+>>> layer	fud: 79	layer: 2
+substrate cardinality: 1554
+fud cardinality: 22
+tupler	searched: 113890	rate: 854407
+tupler 0.133297s
+tuple cardinality: 10
+max tuple algn: -170.773
+layer cardinality: 18
+parter	searched: 3640	rate: 177557
+parter 0.0205005s
+roller	searched: 491340	rate: 1.20029e+07
+roller 0.0409352s
+der vars algn density: 245.693
+dervarser	searched: 1669	rate: 841824
+dervarser 0.0019826s
+application 0.0169946s
+<<< layer 0.213713s
+<<< layerer 0.976188s
+>>> transer 
+fud: 79
+fud slice size: 255
+derived cardinality: 4
+derived algn density: 245.693
+derived impl bi-valency percent: 37.8735
+fud slice cardinality: 3
+<<< transer 0.0029782s
+>>> applier 
+<<< applier 0.0646622s
+>>> slicer 
+slice size: 252
+slice variable: <<<0,36>,s>,2>
+<<< slicer 0.0099326s
+>>> shuffler 
+<<< shuffler 0.0017568s
+>>> substrater 
+<<< substrater 0.0243543s
+>>> applier 
+<<< applier 0.0145912s
+>>> layerer
+>>> layer	fud: 80	layer: 1
+substrate cardinality: 1851
+fud cardinality: 0
+tupler	searched: 1804525	rate: 1.96656e+06
+tupler 0.917604s
+tuple cardinality: 10
+max tuple algn: -164.566
+layer cardinality: 20
+parter	searched: 3640	rate: 177684
+parter 0.0204858s
+roller	searched: 194563	rate: 1.04483e+07
+roller 0.0186215s
+der vars algn density: 229.278
+dervarser	searched: 730	rate: 469122
+dervarser 0.0015561s
+application 0.0191173s
+<<< layer 0.977387s
+>>> layer	fud: 80	layer: 2
+substrate cardinality: 1851
+fud cardinality: 20
+tupler	searched: 131290	rate: 848478
+tupler 0.154736s
+tuple cardinality: 10
+max tuple algn: -159.46
+layer cardinality: 4
+parter	searched: 3640	rate: 188435
+parter 0.019317s
+roller	searched: 491340	rate: 1.1855e+07
+roller 0.0414458s
+der vars algn density: 229.278
+dervarser	searched: 803	rate: 522991
+dervarser 0.0015354s
+application 0.0180039s
+<<< layer 0.235041s
+<<< layerer 1.22905s
+>>> transer 
+fud: 80
+fud slice size: 252
+derived cardinality: 4
+derived algn density: 229.278
+derived impl bi-valency percent: 35.429
+fud slice cardinality: 3
+<<< transer 0.0032581s
+>>> applier 
+<<< applier 0.0658393s
+>>> slicer 
+slice size: 249
+slice variable: <<<0,23>,s>,2>
+<<< slicer 0.0084866s
+>>> shuffler 
+<<< shuffler 0.0017361s
+>>> substrater 
+<<< substrater 0.020158s
+>>> applier 
+<<< applier 0.0113469s
+>>> layerer
+>>> layer	fud: 81	layer: 1
+substrate cardinality: 1116
+fud cardinality: 0
+tupler	searched: 677770	rate: 1.92985e+06
+tupler 0.351204s
+tuple cardinality: 10
+max tuple algn: -157.039
+layer cardinality: 26
+parter	searched: 3640	rate: 186043
+parter 0.0195654s
+roller	searched: 46914	rate: 7.16649e+06
+roller 0.0065463s
+der vars algn density: 208.413
+dervarser	searched: 1120	rate: 660027
+dervarser 0.0016969s
+application 0.0117506s
+<<< layer 0.390766s
+>>> layer	fud: 81	layer: 2
+substrate cardinality: 1116
+fud cardinality: 26
+tupler	searched: 87276	rate: 976899
+tupler 0.0893398s
+tuple cardinality: 10
+max tuple algn: -145.03
+layer cardinality: 4
+parter	searched: 3640	rate: 187231
+parter 0.0194412s
+roller	searched: 491340	rate: 1.23908e+07
+roller 0.0396535s
+der vars algn density: 208.413
+dervarser	searched: 1172	rate: 634302
+dervarser 0.0018477s
+application 0.0115544s
+<<< layer 0.161839s
+<<< layerer 0.563271s
+>>> transer 
+fud: 81
+fud slice size: 249
+derived cardinality: 4
+derived algn density: 208.413
+derived impl bi-valency percent: 32.1808
+fud slice cardinality: 3
+<<< transer 0.0025989s
+>>> applier 
+<<< applier 0.0632968s
+>>> slicer 
+slice size: 248
+slice variable: <<<0,33>,s>,1>
+<<< slicer 0.0088966s
+>>> shuffler 
+<<< shuffler 0.0016853s
+>>> substrater 
+<<< substrater 0.0225341s
+>>> applier 
+<<< applier 0.0145716s
+>>> layerer
+>>> layer	fud: 82	layer: 1
+substrate cardinality: 1598
+fud cardinality: 0
+tupler	searched: 1355703	rate: 1.93884e+06
+tupler 0.699233s
+tuple cardinality: 10
+max tuple algn: -126.937
+layer cardinality: 30
+parter	searched: 3640	rate: 177337
+parter 0.0205259s
+roller	searched: 39402	rate: 5.80996e+06
+roller 0.0067818s
+der vars algn density: 171.596
+dervarser	searched: 1420	rate: 788845
+dervarser 0.0018001s
+application 0.0178813s
+<<< layer 0.746226s
+>>> layer	fud: 82	layer: 2
+substrate cardinality: 1598
+fud cardinality: 30
+tupler	searched: 130741	rate: 911029
+tupler 0.143509s
+tuple cardinality: 10
+max tuple algn: -153.124
+layer cardinality: 24
+parter	searched: 3640	rate: 180698
+parter 0.0201441s
+roller	searched: 37293	rate: 5.79948e+06
+roller 0.0064304s
+der vars algn density: 179.853
+dervarser	searched: 3382	rate: 1.10805e+06
+dervarser 0.0030522s
+application 0.0168505s
+<<< layer 0.189989s
+>>> layer	fud: 82	layer: 3
+substrate cardinality: 1598
+fud cardinality: 54
+tupler	searched: 160967	rate: 1.08918e+06
+tupler 0.147787s
+tuple cardinality: 10
+max tuple algn: -125.367
+layer cardinality: 13
+parter	searched: 3640	rate: 184064
+parter 0.0197757s
+roller	searched: 491340	rate: 1.23284e+07
+roller 0.0398544s
+der vars algn density: 179.853
+dervarser	searched: 4166	rate: 1.18575e+06
+dervarser 0.0035134s
+application 0.0166336s
+<<< layer 0.227567s
+<<< layerer 1.17812s
+>>> transer 
+fud: 82
+fud slice size: 248
+derived cardinality: 4
+derived algn density: 179.853
+derived impl bi-valency percent: 27.346
+fud slice cardinality: 3
+<<< transer 0.0034424s
+>>> applier 
+<<< applier 0.0667858s
+>>> slicer 
+slice size: 247
+slice variable: <<<0,30>,s>,2>
+<<< slicer 0.0093534s
+>>> shuffler 
+<<< shuffler 0.0017561s
+>>> substrater 
+<<< substrater 0.0254689s
+>>> applier 
+<<< applier 0.0156088s
+>>> layerer
+>>> layer	fud: 83	layer: 1
+substrate cardinality: 1782
+fud cardinality: 0
+tupler	searched: 1675771	rate: 1.96775e+06
+tupler 0.851618s
+tuple cardinality: 10
+max tuple algn: -148.616
+layer cardinality: 25
+parter	searched: 3640	rate: 151562
+parter 0.0240166s
+roller	searched: 57080	rate: 6.43249e+06
+roller 0.0088737s
+der vars algn density: 210.009
+dervarser	searched: 1050	rate: 501744
+dervarser 0.0020927s
+application 0.0184246s
+<<< layer 0.905028s
+>>> layer	fud: 83	layer: 2
+substrate cardinality: 1782
+fud cardinality: 25
+tupler	searched: 135930	rate: 917070
+tupler 0.148222s
+tuple cardinality: 10
+max tuple algn: -151.34
+layer cardinality: 20
+parter	searched: 3640	rate: 182471
+parter 0.0199484s
+roller	searched: 73840	rate: 7.73097e+06
+roller 0.0095512s
+der vars algn density: 211.267
+dervarser	searched: 2222	rate: 909389
+dervarser 0.0024434s
+application 0.0181351s
+<<< layer 0.198303s
+>>> layer	fud: 83	layer: 3
+substrate cardinality: 1782
+fud cardinality: 45
+tupler	searched: 155803	rate: 973868
+tupler 0.159984s
+tuple cardinality: 10
+max tuple algn: -151.34
+layer cardinality: 20
+parter	searched: 3640	rate: 186298
+parter 0.0195386s
+roller	searched: 491340	rate: 1.21904e+07
+roller 0.0403056s
+der vars algn density: 211.267
+dervarser	searched: 3795	rate: 1.18988e+06
+dervarser 0.0031894s
+application 0.0179183s
+<<< layer 0.240939s
+<<< layerer 1.3602s
+>>> transer 
+fud: 83
+fud slice size: 247
+derived cardinality: 4
+derived algn density: 211.267
+derived impl bi-valency percent: 32.991
+fud slice cardinality: 3
+<<< transer 0.0035372s
+>>> applier 
+<<< applier 0.0648364s
+>>> slicer 
+slice size: 245
+slice variable: <<<0,18>,s>,2>
+<<< slicer 0.0092697s
+>>> shuffler 
+<<< shuffler 0.001732s
+>>> substrater 
+<<< substrater 0.0224918s
+>>> applier 
+<<< applier 0.0134778s
+>>> layerer
+>>> layer	fud: 84	layer: 1
+substrate cardinality: 1450
+fud cardinality: 0
+tupler	searched: 1122825	rate: 2.02672e+06
+tupler 0.554011s
+tuple cardinality: 10
+max tuple algn: -181.67
+layer cardinality: 25
+parter	searched: 3640	rate: 179459
+parter 0.0202832s
+roller	searched: 46914	rate: 6.80781e+06
+roller 0.0068912s
+der vars algn density: 238.191
+dervarser	searched: 1050	rate: 570994
+dervarser 0.0018389s
+application 0.0154442s
+<<< layer 0.598472s
+>>> layer	fud: 84	layer: 2
+substrate cardinality: 1450
+fud cardinality: 25
+tupler	searched: 111118	rate: 844920
+tupler 0.131513s
+tuple cardinality: 10
+max tuple algn: -160.266
+layer cardinality: 20
+parter	searched: 3640	rate: 155921
+parter 0.0233451s
+roller	searched: 491340	rate: 1.15036e+07
+roller 0.0427117s
+der vars algn density: 238.191
+dervarser	searched: 2176	rate: 843934
+dervarser 0.0025784s
+application 0.0156743s
+<<< layer 0.215826s
+<<< layerer 0.827302s
+>>> transer 
+fud: 84
+fud slice size: 245
+derived cardinality: 4
+derived algn density: 238.191
+derived impl bi-valency percent: 38.2743
+fud slice cardinality: 3
+<<< transer 0.0030665s
+>>> applier 
+<<< applier 0.0959804s
+>>> slicer 
+slice size: 242
+slice variable: <<<0,61>,s>,1>
+<<< slicer 0.0095333s
+>>> shuffler 
+<<< shuffler 0.0018119s
+>>> substrater 
+<<< substrater 0.0224251s
+>>> applier 
+<<< applier 0.0133335s
+>>> layerer
+>>> layer	fud: 85	layer: 1
+substrate cardinality: 1216
+fud cardinality: 0
+tupler	searched: 799320	rate: 1.95921e+06
+tupler 0.40798s
+tuple cardinality: 10
+max tuple algn: -46.9098
+layer cardinality: 30
+parter	searched: 3640	rate: 169598
+parter 0.0214625s
+roller	searched: 14884	rate: 2.20012e+06
+roller 0.0067651s
+der vars algn density: 209.292
+dervarser	searched: 1370	rate: 675110
+dervarser 0.0020293s
+application 0.0132188s
+<<< layer 0.45146s
+>>> layer	fud: 85	layer: 2
+substrate cardinality: 1216
+fud cardinality: 30
+tupler	searched: 87840	rate: 1.07458e+06
+tupler 0.0817432s
+tuple cardinality: 10
+max tuple algn: 60.2048
+layer cardinality: 21
+parter	searched: 1210	rate: 192678
+parter 0.0062799s
+roller	searched: 57130	rate: 6.17608e+06
+roller 0.0092502s
+der vars algn density: 214.606
+dervarser	searched: 2867	rate: 1.05829e+06
+dervarser 0.0027091s
+application 0.0131402s
+<<< layer 0.113126s
+>>> layer	fud: 85	layer: 3
+substrate cardinality: 1216
+fud cardinality: 51
+tupler	searched: 117376	rate: 964319
+tupler 0.121719s
+tuple cardinality: 10
+max tuple algn: 122.511
+layer cardinality: 18
+parter	searched: 3640	rate: 153410
+parter 0.0237272s
+roller	searched: 491340	rate: 1.02099e+07
+roller 0.048124s
+der vars algn density: 214.606
+dervarser	searched: 4214	rate: 1.13806e+06
+dervarser 0.0037028s
+application 0.0138532s
+<<< layer 0.211129s
+<<< layerer 0.78754s
+>>> transer 
+fud: 85
+fud slice size: 242
+derived cardinality: 4
+derived algn density: 214.606
+derived impl bi-valency percent: 34.3933
+fud slice cardinality: 4
+<<< transer 0.0030501s
+>>> applier 
+<<< applier 0.108311s
+>>> slicer 
+slice size: 241
+slice variable: <<<0,47>,s>,1>
+<<< slicer 0.0092647s
+>>> shuffler 
+<<< shuffler 0.0018281s
+>>> substrater 
+<<< substrater 0.0200449s
+>>> applier 
+<<< applier 0.0115776s
+>>> layerer
+>>> layer	fud: 86	layer: 1
+substrate cardinality: 1066
+fud cardinality: 0
+tupler	searched: 620745	rate: 1.91367e+06
+tupler 0.324375s
+tuple cardinality: 10
+max tuple algn: -185.049
+layer cardinality: 29
+parter	searched: 3640	rate: 180500
+parter 0.0201662s
+roller	searched: 16160	rate: 2.82651e+06
+roller 0.0057173s
+der vars algn density: 204.64
+dervarser	searched: 1342	rate: 800048
+dervarser 0.0016774s
+application 0.0110169s
+<<< layer 0.362956s
+>>> layer	fud: 86	layer: 2
+substrate cardinality: 1066
+fud cardinality: 29
+tupler	searched: 87540	rate: 881410
+tupler 0.0993181s
+tuple cardinality: 10
+max tuple algn: -105.453
+layer cardinality: 11
+parter	searched: 3640	rate: 178728
+parter 0.0203661s
+roller	searched: 119110	rate: 7.54821e+06
+roller 0.0157799s
+der vars algn density: 204.64
+dervarser	searched: 1739	rate: 849038
+dervarser 0.0020482s
+application 0.011291s
+<<< layer 0.148807s
+<<< layerer 0.521273s
+>>> transer 
+fud: 86
+fud slice size: 241
+derived cardinality: 4
+derived algn density: 204.64
+derived impl bi-valency percent: 32.7163
+fud slice cardinality: 3
+<<< transer 0.002536s
+>>> applier 
+<<< applier 0.100649s
+>>> slicer 
+slice size: 241
+slice variable: <<<0,46>,s>,1>
+<<< slicer 0.0086477s
+>>> shuffler 
+<<< shuffler 0.0017483s
+>>> substrater 
+<<< substrater 0.0201031s
+>>> applier 
+<<< applier 0.0123341s
+>>> layerer
+>>> layer	fud: 87	layer: 1
+substrate cardinality: 1252
+fud cardinality: 0
+tupler	searched: 845526	rate: 1.92794e+06
+tupler 0.438565s
+tuple cardinality: 10
+max tuple algn: -48.1866
+layer cardinality: 16
+parter	searched: 3640	rate: 180102
+parter 0.0202108s
+roller	searched: 21697	rate: 3.54578e+06
+roller 0.0061191s
+der vars algn density: 224.175
+dervarser	searched: 510	rate: 398064
+dervarser 0.0012812s
+application 0.0124472s
+<<< layer 0.478627s
+>>> layer	fud: 87	layer: 2
+substrate cardinality: 1252
+fud cardinality: 16
+tupler	searched: 84178	rate: 795465
+tupler 0.105822s
+tuple cardinality: 10
+max tuple algn: -122.316
+layer cardinality: 7
+parter	searched: 3640	rate: 184988
+parter 0.0196769s
+roller	searched: 491340	rate: 1.24196e+07
+roller 0.0395616s
+der vars algn density: 224.175
+dervarser	searched: 703	rate: 507985
+dervarser 0.0013839s
+application 0.0120088s
+<<< layer 0.178457s
+<<< layerer 0.667544s
+>>> transer 
+fud: 87
+fud slice size: 241
+derived cardinality: 4
+derived algn density: 224.175
+derived impl bi-valency percent: 36.351
+fud slice cardinality: 3
+<<< transer 0.0027297s
+>>> applier 
+<<< applier 0.0414035s
+>>> slicer 
+slice size: 235
+slice variable: <<<0,75>,s>,1>
+<<< slicer 0.0090259s
+>>> shuffler 
+<<< shuffler 0.001684s
+>>> substrater 
+<<< substrater 0.0252915s
+>>> applier 
+<<< applier 0.0154823s
+>>> layerer
+>>> layer	fud: 88	layer: 1
+substrate cardinality: 1711
+fud cardinality: 0
+tupler	searched: 1548255	rate: 2.07597e+06
+tupler 0.745797s
+tuple cardinality: 10
+max tuple algn: -146.165
+layer cardinality: 32
+parter	searched: 3640	rate: 176081
+parter 0.0206723s
+roller	searched: 15647	rate: 2.45759e+06
+roller 0.0063668s
+der vars algn density: 197.377
+dervarser	searched: 1512	rate: 736483
+dervarser 0.002053s
+application 0.0177146s
+<<< layer 0.792606s
+>>> layer	fud: 88	layer: 2
+substrate cardinality: 1711
+fud cardinality: 32
+tupler	searched: 91437	rate: 1.40389e+06
+tupler 0.0651314s
+tuple cardinality: 10
+max tuple algn: -56.3382
+layer cardinality: 22
+parter	searched: 130	rate: 199509
+parter 0.0006516s
+roller	searched: 15466	rate: 3.33341e+06
+roller 0.0046397s
+der vars algn density: 224.434
+dervarser	searched: 2835	rate: 1.06667e+06
+dervarser 0.0026578s
+application 0.0177225s
+<<< layer 0.0908062s
+>>> layer	fud: 88	layer: 3
+substrate cardinality: 1711
+fud cardinality: 54
+tupler	searched: 113907	rate: 1.42746e+06
+tupler 0.079797s
+tuple cardinality: 10
+max tuple algn: -44.6717
+layer cardinality: 14
+parter	searched: 130	rate: 185767
+parter 0.0006998s
+roller	searched: 15220	rate: 2.94237e+06
+roller 0.0051727s
+der vars algn density: 228.805
+dervarser	searched: 4111	rate: 1.21051e+06
+dervarser 0.0033961s
+application 0.0174068s
+<<< layer 0.106476s
+>>> layer	fud: 88	layer: 4
+substrate cardinality: 1711
+fud cardinality: 68
+tupler	searched: 123825	rate: 1.68598e+06
+tupler 0.0734438s
+tuple cardinality: 10
+max tuple algn: -50.4629
+layer cardinality: 9
+parter	searched: 130	rate: 203602
+parter 0.0006385s
+roller	searched: 35230	rate: 5.41151e+06
+roller 0.0065102s
+der vars algn density: 228.805
+dervarser	searched: 4971	rate: 1.19501e+06
+dervarser 0.0041598s
+application 0.0195885s
+<<< layer 0.104344s
+<<< layerer 1.10972s
+>>> transer 
+fud: 88
+fud slice size: 235
+derived cardinality: 4
+derived algn density: 228.805
+derived impl bi-valency percent: 38.3402
+fud slice cardinality: 3
+<<< transer 0.0036015s
+>>> applier 
+<<< applier 0.0427623s
+>>> slicer 
+slice size: 234
+slice variable: <<<0,70>,s>,1>
+<<< slicer 0.0098567s
+>>> shuffler 
+<<< shuffler 0.0017786s
+>>> substrater 
+<<< substrater 0.0270684s
+>>> applier 
+<<< applier 0.0160256s
+>>> layerer
+>>> layer	fud: 89	layer: 1
+substrate cardinality: 1876
+fud cardinality: 0
+tupler	searched: 1852350	rate: 2.1081e+06
+tupler 0.878681s
+tuple cardinality: 10
+max tuple algn: -141.863
+layer cardinality: 38
+parter	searched: 3640	rate: 172138
+parter 0.0211458s
+roller	searched: 15408	rate: 2.38344e+06
+roller 0.0064646s
+der vars algn density: 199.829
+dervarser	searched: 1895	rate: 729014
+dervarser 0.0025994s
+application 0.0187725s
+<<< layer 0.927667s
+>>> layer	fud: 89	layer: 2
+substrate cardinality: 1876
+fud cardinality: 38
+tupler	searched: 121663	rate: 1.23491e+06
+tupler 0.0985194s
+tuple cardinality: 10
+max tuple algn: -37.9472
+layer cardinality: 23
+parter	searched: 400	rate: 145603
+parter 0.0027472s
+roller	searched: 11803	rate: 2.29599e+06
+roller 0.0051407s
+der vars algn density: 211.404
+dervarser	searched: 3849	rate: 1.04909e+06
+dervarser 0.0036689s
+application 0.0209595s
+<<< layer 0.13104s
+>>> layer	fud: 89	layer: 3
+substrate cardinality: 1876
+fud cardinality: 61
+tupler	searched: 142758	rate: 1.45746e+06
+tupler 0.0979496s
+tuple cardinality: 10
+max tuple algn: -100.081
+layer cardinality: 11
+parter	searched: 130	rate: 204403
+parter 0.000636s
+roller	searched: 6450	rate: 2.21262e+06
+roller 0.0029151s
+der vars algn density: 139.653
+dervarser	searched: 4419	rate: 1.24556e+06
+dervarser 0.0035478s
+application 0.0204513s
+<<< layer 0.125503s
+<<< layerer 1.20072s
+>>> transer 
+fud: 89
+fud slice size: 234
+derived cardinality: 4
+derived algn density: 211.404
+derived impl bi-valency percent: 35.1406
+fud slice cardinality: 3
+<<< transer 0.0037467s
+>>> applier 
+<<< applier 0.0468011s
+>>> slicer 
+slice size: 232
+slice variable: <<<0,67>,s>,1>
+<<< slicer 0.0096163s
+>>> shuffler 
+<<< shuffler 0.0018935s
+>>> substrater 
+<<< substrater 0.0227565s
+>>> applier 
+<<< applier 0.0128716s
+>>> layerer
+>>> layer	fud: 90	layer: 1
+substrate cardinality: 1124
+fud cardinality: 0
+tupler	searched: 687126	rate: 1.95264e+06
+tupler 0.351896s
+tuple cardinality: 10
+max tuple algn: -40.409
+layer cardinality: 21
+parter	searched: 3640	rate: 173403
+parter 0.0209916s
+roller	searched: 19606	rate: 2.61138e+06
+roller 0.0075079s
+der vars algn density: 192.791
+dervarser	searched: 675	rate: 441032
+dervarser 0.0015305s
+application 0.0112223s
+<<< layer 0.393151s
+>>> layer	fud: 90	layer: 2
+substrate cardinality: 1124
+fud cardinality: 21
+tupler	searched: 58785	rate: 1.08683e+06
+tupler 0.0540885s
+tuple cardinality: 10
+max tuple algn: -6.14644
+layer cardinality: 9
+parter	searched: 400	rate: 188280
+parter 0.0021245s
+roller	searched: 11120	rate: 2.62928e+06
+roller 0.0042293s
+der vars algn density: 192.791
+dervarser	searched: 946	rate: 566874
+dervarser 0.0016688s
+application 0.011307s
+<<< layer 0.0734215s
+<<< layerer 0.4773s
+>>> transer 
+fud: 90
+fud slice size: 232
+derived cardinality: 4
+derived algn density: 192.791
+derived impl bi-valency percent: 31.9165
+fud slice cardinality: 4
+<<< transer 0.0026538s
+>>> applier 
+<<< applier 0.042939s
+>>> slicer 
+slice size: 232
+slice variable: <<<0,57>,s>,1>
+<<< slicer 0.009286s
+>>> shuffler 
+<<< shuffler 0.0019288s
+>>> substrater 
+<<< substrater 0.0255863s
+>>> applier 
+<<< applier 0.0135455s
+>>> layerer
+>>> layer	fud: 91	layer: 1
+substrate cardinality: 1669
+fud cardinality: 0
+tupler	searched: 1475196	rate: 2.12755e+06
+tupler 0.693379s
+tuple cardinality: 10
+max tuple algn: -117.112
+layer cardinality: 23
+parter	searched: 3640	rate: 183980
+parter 0.0197848s
+roller	searched: 16190	rate: 3.07771e+06
+roller 0.0052604s
+der vars algn density: 161.772
+dervarser	searched: 916	rate: 612586
+dervarser 0.0014953s
+application 0.0170767s
+<<< layer 0.736999s
+>>> layer	fud: 91	layer: 2
+substrate cardinality: 1669
+fud cardinality: 23
+tupler	searched: 124009	rate: 946531
+tupler 0.131014s
+tuple cardinality: 10
+max tuple algn: -79.0057
+layer cardinality: 13
+parter	searched: 3640	rate: 186776
+parter 0.0194886s
+roller	searched: 491340	rate: 1.23053e+07
+roller 0.0399291s
+der vars algn density: 161.772
+dervarser	searched: 1430	rate: 673575
+dervarser 0.002123s
+application 0.0162704s
+<<< layer 0.208828s
+<<< layerer 0.961739s
+>>> transer 
+fud: 91
+fud slice size: 232
+derived cardinality: 4
+derived algn density: 161.772
+derived impl bi-valency percent: 26.1664
+fud slice cardinality: 4
+<<< transer 0.0032419s
+>>> applier 
+<<< applier 0.0429938s
+>>> slicer 
+slice size: 230
+slice variable: <<<0,33>,s>,2>
+<<< slicer 0.0085357s
+>>> shuffler 
+<<< shuffler 0.0017814s
+>>> substrater 
+<<< substrater 0.0238706s
+>>> applier 
+<<< applier 0.0148933s
+>>> layerer
+>>> layer	fud: 92	layer: 1
+substrate cardinality: 1790
+fud cardinality: 0
+tupler	searched: 1690455	rate: 2.15698e+06
+tupler 0.783712s
+tuple cardinality: 10
+max tuple algn: -162.549
+layer cardinality: 21
+parter	searched: 3640	rate: 178952
+parter 0.0203406s
+roller	searched: 16190	rate: 3.0158e+06
+roller 0.0053684s
+der vars algn density: 214.546
+dervarser	searched: 720	rate: 457085
+dervarser 0.0015752s
+application 0.0176572s
+<<< layer 0.828657s
+>>> layer	fud: 92	layer: 2
+substrate cardinality: 1790
+fud cardinality: 21
+tupler	searched: 74590	rate: 1.3125e+06
+tupler 0.0568304s
+tuple cardinality: 10
+max tuple algn: -136.424
+layer cardinality: 19
+parter	searched: 130	rate: 217391
+parter 0.000598s
+roller	searched: 35230	rate: 5.74499e+06
+roller 0.0061323s
+der vars algn density: 214.546
+dervarser	searched: 1903	rate: 833881
+dervarser 0.0022821s
+application 0.0171061s
+<<< layer 0.082952s
+<<< layerer 0.926627s
+>>> transer 
+fud: 92
+fud slice size: 230
+derived cardinality: 4
+derived algn density: 214.546
+derived impl bi-valency percent: 36.4702
+fud slice cardinality: 3
+<<< transer 0.0033747s
+>>> applier 
+<<< applier 0.0443302s
+>>> slicer 
+slice size: 228
+slice variable: <<<0,73>,s>,1>
+<<< slicer 0.009006s
+>>> shuffler 
+<<< shuffler 0.0020725s
+>>> substrater 
+<<< substrater 0.0239363s
+>>> applier 
+<<< applier 0.0137203s
+>>> layerer
+>>> layer	fud: 93	layer: 1
+substrate cardinality: 1689
+fud cardinality: 0
+tupler	searched: 1509766	rate: 2.11242e+06
+tupler 0.714708s
+tuple cardinality: 10
+max tuple algn: -112.917
+layer cardinality: 17
+parter	searched: 3640	rate: 183214
+parter 0.0198675s
+roller	searched: 66810	rate: 8.58211e+06
+roller 0.0077848s
+der vars algn density: 156.445
+dervarser	searched: 562	rate: 426792
+dervarser 0.0013168s
+application 0.0158968s
+<<< layer 0.759577s
+>>> layer	fud: 93	layer: 2
+substrate cardinality: 1689
+fud cardinality: 17
+tupler	searched: 114623	rate: 929299
+tupler 0.123343s
+tuple cardinality: 10
+max tuple algn: -109.132
+layer cardinality: 12
+parter	searched: 3640	rate: 181730
+parter 0.0200297s
+roller	searched: 491340	rate: 1.20706e+07
+roller 0.0407055s
+der vars algn density: 156.445
+dervarser	searched: 916	rate: 619128
+dervarser 0.0014795s
+application 0.0167522s
+<<< layer 0.202314s
+<<< layerer 0.975732s
+>>> transer 
+fud: 93
+fud slice size: 228
+derived cardinality: 4
+derived algn density: 156.445
+derived impl bi-valency percent: 25.6991
+fud slice cardinality: 3
+<<< transer 0.004196s
+>>> applier 
+<<< applier 0.0414287s
+>>> slicer 
+slice size: 228
+slice variable: <<<0,72>,s>,1>
+<<< slicer 0.0090208s
+>>> shuffler 
+<<< shuffler 0.0016483s
+>>> substrater 
+<<< substrater 0.0280634s
+>>> applier 
+<<< applier 0.0160278s
+>>> layerer
+>>> layer	fud: 94	layer: 1
+substrate cardinality: 1782
+fud cardinality: 0
+tupler	searched: 1675771	rate: 2.16461e+06
+tupler 0.774168s
+tuple cardinality: 10
+max tuple algn: -130.556
+layer cardinality: 18
+parter	searched: 3640	rate: 183653
+parter 0.01982s
+roller	searched: 66810	rate: 8.39744e+06
+roller 0.007956s
+der vars algn density: 181.259
+dervarser	searched: 616	rate: 426445
+dervarser 0.0014445s
+application 0.0166541s
+<<< layer 0.820045s
+>>> layer	fud: 94	layer: 2
+substrate cardinality: 1782
+fud cardinality: 18
+tupler	searched: 122784	rate: 895861
+tupler 0.137057s
+tuple cardinality: 10
+max tuple algn: -126.495
+layer cardinality: 4
+parter	searched: 3640	rate: 185367
+parter 0.0196367s
+roller	searched: 491340	rate: 1.21985e+07
+roller 0.0402786s
+der vars algn density: 181.259
+dervarser	searched: 668	rate: 509457
+dervarser 0.0013112s
+application 0.0164543s
+<<< layer 0.214741s
+<<< layerer 1.04981s
+>>> transer 
+fud: 94
+fud slice size: 228
+derived cardinality: 4
+derived algn density: 181.259
+derived impl bi-valency percent: 30.3429
+fud slice cardinality: 3
+<<< transer 0.00324s
+>>> applier 
+<<< applier 0.0427557s
+>>> slicer 
+slice size: 227
+slice variable: <<<0,74>,s>,1>
+<<< slicer 0.0088983s
+>>> shuffler 
+<<< shuffler 0.0015922s
+>>> substrater 
+<<< substrater 0.0240402s
+>>> applier 
+<<< applier 0.0143765s
+>>> layerer
+>>> layer	fud: 95	layer: 1
+substrate cardinality: 1836
+fud cardinality: 0
+tupler	searched: 1776130	rate: 2.17296e+06
+tupler 0.817377s
+tuple cardinality: 10
+max tuple algn: 10.2108
+layer cardinality: 28
+parter	searched: 3640	rate: 166343
+parter 0.0218825s
+roller	searched: 15914	rate: 2.26398e+06
+roller 0.0070292s
+der vars algn density: 184.755
+dervarser	searched: 1186	rate: 627779
+dervarser 0.0018892s
+application 0.0186322s
+<<< layer 0.866813s
+>>> layer	fud: 95	layer: 2
+substrate cardinality: 1836
+fud cardinality: 28
+tupler	searched: 93704	rate: 1.26524e+06
+tupler 0.0740601s
+tuple cardinality: 10
+max tuple algn: -1.30805
+layer cardinality: 22
+parter	searched: 400	rate: 149762
+parter 0.0026709s
+roller	searched: 62351	rate: 5.41839e+06
+roller 0.0115073s
+der vars algn density: 184.755
+dervarser	searched: 2781	rate: 994102
+dervarser 0.0027975s
+application 0.019359s
+<<< layer 0.110398s
+<<< layerer 0.991907s
+>>> transer 
+fud: 95
+fud slice size: 227
+derived cardinality: 4
+derived algn density: 184.755
+derived impl bi-valency percent: 31.1668
+fud slice cardinality: 3
+<<< transer 0.0036995s
+>>> applier 
+<<< applier 0.0736815s
+>>> slicer 
+slice size: 227
+slice variable: <<<0,19>,s>,2>
+<<< slicer 0.009862s
+>>> shuffler 
+<<< shuffler 0.0017358s
+>>> substrater 
+<<< substrater 0.0206615s
+>>> applier 
+<<< applier 0.0103858s
+>>> layerer
+>>> layer	fud: 96	layer: 1
+substrate cardinality: 968
+fud cardinality: 0
+tupler	searched: 516228	rate: 1.91099e+06
+tupler 0.270136s
+tuple cardinality: 10
+max tuple algn: -97.5097
+layer cardinality: 24
+parter	searched: 3640	rate: 176346
+parter 0.0206412s
+roller	searched: 46914	rate: 6.52853e+06
+roller 0.007186s
+der vars algn density: 218.251
+dervarser	searched: 982	rate: 635558
+dervarser 0.0015451s
+application 0.0120676s
+<<< layer 0.311579s
+>>> layer	fud: 96	layer: 2
+substrate cardinality: 968
+fud cardinality: 24
+tupler	searched: 73800	rate: 919520
+tupler 0.0802593s
+tuple cardinality: 10
+max tuple algn: -152.291
+layer cardinality: 12
+parter	searched: 3640	rate: 177082
+parter 0.0205555s
+roller	searched: 491340	rate: 1.22807e+07
+roller 0.040009s
+der vars algn density: 218.251
+dervarser	searched: 1560	rate: 816583
+dervarser 0.0019104s
+application 0.009956s
+<<< layer 0.152693s
+<<< layerer 0.473544s
+>>> transer 
+fud: 96
+fud slice size: 227
+derived cardinality: 4
+derived algn density: 218.251
+derived impl bi-valency percent: 37.7798
+fud slice cardinality: 3
+<<< transer 0.0025182s
+>>> applier 
+<<< applier 0.0430319s
+>>> slicer 
+slice size: 226
+slice variable: <<<0,62>,s>,1>
+<<< slicer 0.0091414s
+>>> shuffler 
+<<< shuffler 0.0015877s
+>>> substrater 
+<<< substrater 0.0242606s
+>>> applier 
+<<< applier 0.01245s
+>>> layerer
+>>> layer	fud: 97	layer: 1
+substrate cardinality: 1424
+fud cardinality: 0
+tupler	searched: 1084176	rate: 2.12826e+06
+tupler 0.50942s
+tuple cardinality: 10
+max tuple algn: 52.2479
+layer cardinality: 25
+parter	searched: 3640	rate: 169617
+parter 0.0214601s
+roller	searched: 30682	rate: 4.13761e+06
+roller 0.0074154s
+der vars algn density: 188.057
+dervarser	searched: 1050	rate: 693710
+dervarser 0.0015136s
+application 0.0143656s
+<<< layer 0.554178s
+>>> layer	fud: 97	layer: 2
+substrate cardinality: 1424
+fud cardinality: 25
+tupler	searched: 109466	rate: 989864
+tupler 0.110587s
+tuple cardinality: 10
+max tuple algn: -36.6932
+layer cardinality: 19
+parter	searched: 3640	rate: 171884
+parter 0.0211771s
+roller	searched: 366090	rate: 1.13201e+07
+roller 0.0323398s
+der vars algn density: 188.057
+dervarser	searched: 2096	rate: 919702
+dervarser 0.002279s
+application 0.0141422s
+<<< layer 0.180528s
+<<< layerer 0.747031s
+>>> transer 
+fud: 97
+fud slice size: 226
+derived cardinality: 4
+derived algn density: 188.057
+derived impl bi-valency percent: 31.9655
+fud slice cardinality: 4
+<<< transer 0.002984s
+>>> applier 
+<<< applier 0.0449767s
+>>> slicer 
+slice size: 220
+slice variable: <<<0,76>,s>,1>
+<<< slicer 0.0103179s
+>>> shuffler 
+<<< shuffler 0.0015816s
+>>> substrater 
+<<< substrater 0.024654s
+>>> applier 
+<<< applier 0.0155756s
+>>> layerer
+>>> layer	fud: 98	layer: 1
+substrate cardinality: 1783
+fud cardinality: 0
+tupler	searched: 1677603	rate: 2.10368e+06
+tupler 0.79746s
+tuple cardinality: 10
+max tuple algn: -204.036
+layer cardinality: 29
+parter	searched: 3640	rate: 172383
+parter 0.0211158s
+roller	searched: 15788	rate: 2.51473e+06
+roller 0.0062782s
+der vars algn density: 198.203
+dervarser	searched: 1282	rate: 698257
+dervarser 0.001836s
+application 0.0165379s
+<<< layer 0.843231s
+>>> layer	fud: 98	layer: 2
+substrate cardinality: 1783
+fud cardinality: 29
+tupler	searched: 103880	rate: 1.13342e+06
+tupler 0.0916516s
+tuple cardinality: 10
+max tuple algn: -143.585
+layer cardinality: 27
+parter	searched: 400	rate: 194913
+parter 0.0020522s
+roller	searched: 10374	rate: 2.59863e+06
+roller 0.0039921s
+der vars algn density: 198.203
+dervarser	searched: 3726	rate: 1.30723e+06
+dervarser 0.0028503s
+application 0.0165107s
+<<< layer 0.11706s
+<<< layerer 0.97568s
+>>> transer 
+fud: 98
+fud slice size: 220
+derived cardinality: 4
+derived algn density: 198.203
+derived impl bi-valency percent: 35.0274
+fud slice cardinality: 4
+<<< transer 0.003645s
+>>> applier 
+<<< applier 0.0670322s
+>>> slicer 
+slice size: 220
+slice variable: <<<0,64>,s>,1>
+<<< slicer 0.0093191s
+>>> shuffler 
+<<< shuffler 0.0015824s
+>>> substrater 
+<<< substrater 0.0252129s
+>>> applier 
+<<< applier 0.0141227s
+>>> layerer
+>>> layer	fud: 99	layer: 1
+substrate cardinality: 1702
+fud cardinality: 0
+tupler	searched: 1532451	rate: 2.20764e+06
+tupler 0.694158s
+tuple cardinality: 10
+max tuple algn: -47.9537
+layer cardinality: 24
+parter	searched: 3640	rate: 178837
+parter 0.0203537s
+roller	searched: 20826	rate: 3.35006e+06
+roller 0.0062166s
+der vars algn density: 158.166
+dervarser	searched: 818	rate: 503757
+dervarser 0.0016238s
+application 0.0160227s
+<<< layer 0.738379s
+>>> layer	fud: 99	layer: 2
+substrate cardinality: 1702
+fud cardinality: 24
+tupler	searched: 90515	rate: 1.17745e+06
+tupler 0.0768735s
+tuple cardinality: 10
+max tuple algn: -81.9142
+layer cardinality: 23
+parter	searched: 400	rate: 187494
+parter 0.0021334s
+roller	searched: 74415	rate: 6.55148e+06
+roller 0.0113585s
+der vars algn density: 79.0476
+dervarser	searched: 2038	rate: 1.07117e+06
+dervarser 0.0019026s
+application 0.0160207s
+<<< layer 0.108292s
+<<< layerer 0.86081s
+>>> transer 
+fud: 99
+fud slice size: 220
+derived cardinality: 4
+derived algn density: 158.166
+derived impl bi-valency percent: 27.0799
+fud slice cardinality: 3
+<<< transer 0.0032579s
+>>> applier 
+<<< applier 0.0452568s
+>>> slicer 
+slice size: 220
+slice variable: <<<0,41>,s>,1>
+<<< slicer 0.0089912s
+>>> shuffler 
+<<< shuffler 0.0015852s
+>>> substrater 
+<<< substrater 0.0233794s
+>>> applier 
+<<< applier 0.0135289s
+>>> layerer
+>>> layer	fud: 100	layer: 1
+substrate cardinality: 1534
+fud cardinality: 0
+tupler	searched: 1252311	rate: 2.21534e+06
+tupler 0.565291s
+tuple cardinality: 10
+max tuple algn: -108.751
+layer cardinality: 19
+parter	searched: 3640	rate: 177333
+parter 0.0205263s
+roller	searched: 468705	rate: 1.24419e+07
+roller 0.0376714s
+der vars algn density: 155.698
+dervarser	searched: 672	rate: 510367
+dervarser 0.0013167s
+application 0.0142499s
+<<< layer 0.639058s
+>>> layer	fud: 100	layer: 2
+substrate cardinality: 1534
+fud cardinality: 19
+tupler	searched: 107438	rate: 872646
+tupler 0.123118s
+tuple cardinality: 10
+max tuple algn: -108.751
+layer cardinality: 4
+parter	searched: 3640	rate: 130142
+parter 0.0279694s
+roller	searched: 491340	rate: 1.08691e+07
+roller 0.0452053s
+der vars algn density: 155.698
+dervarser	searched: 820	rate: 481899
+dervarser 0.0017016s
+application 0.014629s
+<<< layer 0.212626s
+<<< layerer 0.864097s
+>>> transer 
+fud: 100
+fud slice size: 220
+derived cardinality: 4
+derived algn density: 155.698
+derived impl bi-valency percent: 26.6055
+fud slice cardinality: 3
+<<< transer 0.0040865s
+>>> applier 
+<<< applier 0.120378s
+>>> slicer 
+slice size: 219
+slice variable: <<<0,58>,s>,1>
+<<< slicer 0.0223827s
+>>> shuffler 
+<<< shuffler 0.0019148s
+>>> substrater 
+<<< substrater 0.0331733s
+>>> applier 
+<<< applier 0.0192086s
+>>> layerer
+>>> layer	fud: 101	layer: 1
+substrate cardinality: 1089
+fud cardinality: 0
+tupler	searched: 646666	rate: 1.65916e+06
+tupler 0.389756s
+tuple cardinality: 10
+max tuple algn: -47.9011
+layer cardinality: 19
+parter	searched: 3640	rate: 149457
+parter 0.0243548s
+roller	searched: 62550	rate: 5.064e+06
+roller 0.0123519s
+der vars algn density: 166.809
+dervarser	searched: 672	rate: 454484
+dervarser 0.0014786s
+application 0.0122445s
+<<< layer 0.440189s
+>>> layer	fud: 101	layer: 2
+substrate cardinality: 1089
+fud cardinality: 19
+tupler	searched: 76887	rate: 817537
+tupler 0.0940471s
+tuple cardinality: 10
+max tuple algn: 11.0934
+layer cardinality: 11
+parter	searched: 3640	rate: 160981
+parter 0.0226113s
+roller	searched: 119110	rate: 6.51344e+06
+roller 0.0182868s
+der vars algn density: 166.809
+dervarser	searched: 1051	rate: 593953
+dervarser 0.0017695s
+application 0.0111079s
+<<< layer 0.147826s
+<<< layerer 0.600042s
+>>> transer 
+fud: 101
+fud slice size: 219
+derived cardinality: 4
+derived algn density: 166.809
+derived impl bi-valency percent: 28.9037
+fud slice cardinality: 5
+<<< transer 0.0028015s
+>>> applier 
+<<< applier 0.0484625s
+>>> slicer 
+slice size: 202
+slice variable: <<<0,46>,s>,2>
+<<< slicer 0.0079929s
+>>> shuffler 
+<<< shuffler 0.0015863s
+>>> substrater 
+<<< substrater 0.0196494s
+>>> applier 
+<<< applier 0.0108275s
+>>> layerer
+>>> layer	fud: 102	layer: 1
+substrate cardinality: 959
+fud cardinality: 0
+tupler	searched: 507111	rate: 2.00362e+06
+tupler 0.253097s
+tuple cardinality: 10
+max tuple algn: -128.173
+layer cardinality: 27
+parter	searched: 3640	rate: 176813
+parter 0.0205867s
+roller	searched: 16004	rate: 2.72957e+06
+roller 0.0058632s
+der vars algn density: 174.425
+dervarser	searched: 1152	rate: 740455
+dervarser 0.0015558s
+application 0.0092585s
+<<< layer 0.290365s
+>>> layer	fud: 102	layer: 2
+substrate cardinality: 959
+fud cardinality: 27
+tupler	searched: 76717	rate: 955109
+tupler 0.0803228s
+tuple cardinality: 10
+max tuple algn: -45.3986
+layer cardinality: 20
+parter	searched: 3640	rate: 181396
+parter 0.0200666s
+roller	searched: 491340	rate: 1.22039e+07
+roller 0.040261s
+der vars algn density: 174.425
+dervarser	searched: 2369	rate: 1.02134e+06
+dervarser 0.0023195s
+application 0.0089029s
+<<< layer 0.151876s
+<<< layerer 0.450458s
+>>> transer 
+fud: 102
+fud slice size: 202
+derived cardinality: 4
+derived algn density: 174.425
+derived impl bi-valency percent: 33.3532
+fud slice cardinality: 3
+<<< transer 0.0025817s
+>>> applier 
+<<< applier 0.0669103s
+>>> slicer 
+slice size: 201
+slice variable: <<<0,63>,s>,2>
+<<< slicer 0.0081554s
+>>> shuffler 
+<<< shuffler 0.0014265s
+>>> substrater 
+<<< substrater 0.020682s
+>>> applier 
+<<< applier 0.0112805s
+>>> layerer
+>>> layer	fud: 103	layer: 1
+substrate cardinality: 881
+fud cardinality: 0
+tupler	searched: 431490	rate: 2.07742e+06
+tupler 0.207705s
+tuple cardinality: 10
+max tuple algn: -64.3563
+layer cardinality: 19
+parter	searched: 3640	rate: 170860
+parter 0.021304s
+roller	searched: 349386	rate: 1.08747e+07
+roller 0.0321283s
+der vars algn density: 183.833
+dervarser	searched: 672	rate: 482204
+dervarser 0.0013936s
+application 0.0085625s
+<<< layer 0.271096s
+>>> layer	fud: 103	layer: 2
+substrate cardinality: 881
+fud cardinality: 19
+tupler	searched: 62571	rate: 963222
+tupler 0.0649601s
+tuple cardinality: 10
+max tuple algn: -80.2691
+layer cardinality: 6
+parter	searched: 3640	rate: 176625
+parter 0.0206086s
+roller	searched: 491340	rate: 1.18779e+07
+roller 0.0413659s
+der vars algn density: 183.833
+dervarser	searched: 804	rate: 572161
+dervarser 0.0014052s
+application 0.0080666s
+<<< layer 0.136409s
+<<< layerer 0.41493s
+>>> transer 
+fud: 103
+fud slice size: 201
+derived cardinality: 4
+derived algn density: 183.833
+derived impl bi-valency percent: 35.644
+fud slice cardinality: 3
+<<< transer 0.0027628s
+>>> applier 
+<<< applier 0.0456735s
+>>> slicer 
+slice size: 201
+slice variable: <<<0,17>,s>,2>
+<<< slicer 0.0081287s
+>>> shuffler 
+<<< shuffler 0.0014485s
+>>> substrater 
+<<< substrater 0.020508s
+>>> applier 
+<<< applier 0.0114745s
+>>> layerer
+>>> layer	fud: 104	layer: 1
+substrate cardinality: 1146
+fud cardinality: 0
+tupler	searched: 713185	rate: 2.17462e+06
+tupler 0.327958s
+tuple cardinality: 10
+max tuple algn: -27.1034
+layer cardinality: 13
+parter	searched: 3640	rate: 175642
+parter 0.020724s
+roller	searched: 29074	rate: 4.45258e+06
+roller 0.0065297s
+der vars algn density: 152.867
+dervarser	searched: 366	rate: 269474
+dervarser 0.0013582s
+application 0.0116585s
+<<< layer 0.368232s
+>>> layer	fud: 104	layer: 2
+substrate cardinality: 1146
+fud cardinality: 13
+tupler	searched: 73427	rate: 833555
+tupler 0.088089s
+tuple cardinality: 10
+max tuple algn: -85.4302
+layer cardinality: 15
+parter	searched: 3640	rate: 150247
+parter 0.0242268s
+roller	searched: 66810	rate: 6.70399e+06
+roller 0.0099657s
+der vars algn density: 161.858
+dervarser	searched: 926	rate: 547346
+dervarser 0.0016918s
+application 0.0119058s
+<<< layer 0.135882s
+>>> layer	fud: 104	layer: 3
+substrate cardinality: 1146
+fud cardinality: 28
+tupler	searched: 81520	rate: 824075
+tupler 0.098923s
+tuple cardinality: 10
+max tuple algn: -79.4261
+layer cardinality: 17
+parter	searched: 3640	rate: 167854
+parter 0.0216855s
+roller	searched: 491340	rate: 1.0916e+07
+roller 0.0450109s
+der vars algn density: 161.858
+dervarser	searched: 1874	rate: 820024
+dervarser 0.0022853s
+application 0.0120448s
+<<< layer 0.179953s
+<<< layerer 0.693763s
+>>> transer 
+fud: 104
+fud slice size: 201
+derived cardinality: 4
+derived algn density: 161.858
+derived impl bi-valency percent: 30.7899
+fud slice cardinality: 3
+<<< transer 0.00321s
+>>> applier 
+<<< applier 0.0726689s
+>>> slicer 
+slice size: 200
+slice variable: <<<0,47>,s>,2>
+<<< slicer 0.0082265s
+>>> shuffler 
+<<< shuffler 0.0015086s
+>>> substrater 
+<<< substrater 0.0197848s
+>>> applier 
+<<< applier 0.0122553s
+>>> layerer
+>>> layer	fud: 105	layer: 1
+substrate cardinality: 1019
+fud cardinality: 0
+tupler	searched: 569421	rate: 2.08592e+06
+tupler 0.272984s
+tuple cardinality: 10
+max tuple algn: -54.9159
+layer cardinality: 20
+parter	searched: 3640	rate: 176705
+parter 0.0205993s
+roller	searched: 53258	rate: 5.37184e+06
+roller 0.0099143s
+der vars algn density: 153.876
+dervarser	searched: 730	rate: 483380
+dervarser 0.0015102s
+application 0.0095523s
+<<< layer 0.314563s
+>>> layer	fud: 105	layer: 2
+substrate cardinality: 1019
+fud cardinality: 20
+tupler	searched: 73350	rate: 1.00675e+06
+tupler 0.0728579s
+tuple cardinality: 10
+max tuple algn: -1.05469
+layer cardinality: 2
+parter	searched: 3640	rate: 158944
+parter 0.0229012s
+roller	searched: 491340	rate: 1.0583e+07
+roller 0.0464272s
+der vars algn density: 153.876
+dervarser	searched: 675	rate: 469958
+dervarser 0.0014363s
+application 0.0099803s
+<<< layer 0.153606s
+<<< layerer 0.476414s
+>>> transer 
+fud: 105
+fud slice size: 200
+derived cardinality: 4
+derived algn density: 153.876
+derived impl bi-valency percent: 29.2346
+fud slice cardinality: 3
+<<< transer 0.0025322s
+>>> applier 
+<<< applier 0.0692167s
+>>> slicer 
+slice size: 198
+slice variable: <<<0,69>,s>,1>
+<<< slicer 0.008867s
+>>> shuffler 
+<<< shuffler 0.0015154s
+>>> substrater 
+<<< substrater 0.0218976s
+>>> applier 
+<<< applier 0.0124556s
+>>> layerer
+>>> layer	fud: 106	layer: 1
+substrate cardinality: 1421
+fud cardinality: 0
+tupler	searched: 1079760	rate: 2.11002e+06
+tupler 0.511729s
+tuple cardinality: 10
+max tuple algn: 99.7853
+layer cardinality: 30
+parter	searched: 3640	rate: 152271
+parter 0.0239048s
+roller	searched: 16012	rate: 2.234e+06
+roller 0.0071674s
+der vars algn density: 159.2
+dervarser	searched: 1380	rate: 729618
+dervarser 0.0018914s
+application 0.0130935s
+<<< layer 0.55779s
+>>> layer	fud: 106	layer: 2
+substrate cardinality: 1421
+fud cardinality: 30
+tupler	searched: 101131	rate: 984768
+tupler 0.102695s
+tuple cardinality: 10
+max tuple algn: 41.9461
+layer cardinality: 12
+parter	searched: 3640	rate: 168250
+parter 0.0216345s
+roller	searched: 65825	rate: 5.29595e+06
+roller 0.0124293s
+der vars algn density: 178.862
+dervarser	searched: 1883	rate: 912748
+dervarser 0.002063s
+application 0.0124424s
+<<< layer 0.151268s
+>>> layer	fud: 106	layer: 3
+substrate cardinality: 1421
+fud cardinality: 42
+tupler	searched: 119690	rate: 1.04374e+06
+tupler 0.114674s
+tuple cardinality: 10
+max tuple algn: -88.1764
+layer cardinality: 14
+parter	searched: 3640	rate: 179762
+parter 0.020249s
+roller	searched: 115590	rate: 9.1e+06
+roller 0.0127022s
+der vars algn density: 178.862
+dervarser	searched: 2671	rate: 1.02412e+06
+dervarser 0.0026081s
+application 0.0126635s
+<<< layer 0.1629s
+<<< layerer 0.882738s
+>>> transer 
+fud: 106
+fud slice size: 198
+derived cardinality: 4
+derived algn density: 178.862
+derived impl bi-valency percent: 35.1363
+fud slice cardinality: 3
+<<< transer 0.0029935s
+>>> applier 
+<<< applier 0.073668s
+>>> slicer 
+slice size: 198
+slice variable: <<<0,45>,s>,2>
+<<< slicer 0.008992s
+>>> shuffler 
+<<< shuffler 0.0014208s
+>>> substrater 
+<<< substrater 0.0214831s
+>>> applier 
+<<< applier 0.0123958s
+>>> layerer
+>>> layer	fud: 107	layer: 1
+substrate cardinality: 1105
+fud cardinality: 0
+tupler	searched: 665010	rate: 2.21003e+06
+tupler 0.300905s
+tuple cardinality: 10
+max tuple algn: -117.252
+layer cardinality: 25
+parter	searched: 3640	rate: 185528
+parter 0.0196197s
+roller	searched: 63373	rate: 7.69837e+06
+roller 0.008232s
+der vars algn density: 175.675
+dervarser	searched: 1050	rate: 722494
+dervarser 0.0014533s
+application 0.0105706s
+<<< layer 0.340784s
+>>> layer	fud: 107	layer: 2
+substrate cardinality: 1105
+fud cardinality: 25
+tupler	searched: 85165	rate: 908145
+tupler 0.0937791s
+tuple cardinality: 10
+max tuple algn: -132.282
+layer cardinality: 23
+parter	searched: 3640	rate: 187781
+parter 0.0193843s
+roller	searched: 68919	rate: 8.43572e+06
+roller 0.0081699s
+der vars algn density: 177.578
+dervarser	searched: 2765	rate: 1.05001e+06
+dervarser 0.0026333s
+application 0.0100107s
+<<< layer 0.13398s
+>>> layer	fud: 107	layer: 3
+substrate cardinality: 1105
+fud cardinality: 48
+tupler	searched: 106612	rate: 1.05306e+06
+tupler 0.10124s
+tuple cardinality: 10
+max tuple algn: -124.551
+layer cardinality: 10
+parter	searched: 3640	rate: 190554
+parter 0.0191022s
+roller	searched: 491340	rate: 1.26888e+07
+roller 0.0387224s
+der vars algn density: 177.578
+dervarser	searched: 3337	rate: 1.15957e+06
+dervarser 0.0028778s
+application 0.0098109s
+<<< layer 0.171756s
+<<< layerer 0.655998s
+>>> transer 
+fud: 107
+fud slice size: 198
+derived cardinality: 4
+derived algn density: 177.578
+derived impl bi-valency percent: 34.8446
+fud slice cardinality: 3
+<<< transer 0.0030932s
+>>> applier 
+<<< applier 0.0661203s
+>>> slicer 
+slice size: 194
+slice variable: <<<0,68>,s>,1>
+<<< slicer 0.0076875s
+>>> shuffler 
+<<< shuffler 0.0014728s
+>>> substrater 
+<<< substrater 0.0180307s
+>>> applier 
+<<< applier 0.0101883s
+>>> layerer
+>>> layer	fud: 108	layer: 1
+substrate cardinality: 916
+fud cardinality: 0
+tupler	searched: 464670	rate: 2.10463e+06
+tupler 0.220784s
+tuple cardinality: 10
+max tuple algn: -126.107
+layer cardinality: 25
+parter	searched: 3640	rate: 181990
+parter 0.0200011s
+roller	searched: 31992	rate: 5.23309e+06
+roller 0.0061134s
+der vars algn density: 160.862
+dervarser	searched: 1050	rate: 653758
+dervarser 0.0016061s
+application 0.0082669s
+<<< layer 0.256775s
+>>> layer	fud: 108	layer: 2
+substrate cardinality: 916
+fud cardinality: 25
+tupler	searched: 71012	rate: 916685
+tupler 0.0774661s
+tuple cardinality: 10
+max tuple algn: -107.644
+layer cardinality: 5
+parter	searched: 3640	rate: 146896
+parter 0.0247795s
+roller	searched: 491340	rate: 1.01086e+07
+roller 0.0486063s
+der vars algn density: 160.862
+dervarser	searched: 1224	rate: 699029
+dervarser 0.001751s
+application 0.0086277s
+<<< layer 0.161234s
+<<< layerer 0.424853s
+>>> transer 
+fud: 108
+fud slice size: 194
+derived cardinality: 4
+derived algn density: 160.862
+derived impl bi-valency percent: 31.837
+fud slice cardinality: 3
+<<< transer 0.0026543s
+>>> applier 
+<<< applier 0.0785919s
+>>> slicer 
+slice size: 191
+slice variable: <<<0,82>,s>,1>
+<<< slicer 0.0090177s
+>>> shuffler 
+<<< shuffler 0.0015058s
+>>> substrater 
+<<< substrater 0.024093s
+>>> applier 
+<<< applier 0.0134435s
+>>> layerer
+>>> layer	fud: 109	layer: 1
+substrate cardinality: 1482
+fud cardinality: 0
+tupler	searched: 1171321	rate: 2.27771e+06
+tupler 0.514254s
+tuple cardinality: 10
+max tuple algn: -89.6967
+layer cardinality: 27
+parter	searched: 3640	rate: 170741
+parter 0.0213188s
+roller	searched: 25442	rate: 3.71291e+06
+roller 0.0068523s
+der vars algn density: 148.771
+dervarser	searched: 1142	rate: 669049
+dervarser 0.0017069s
+application 0.0132665s
+<<< layer 0.557403s
+>>> layer	fud: 109	layer: 2
+substrate cardinality: 1482
+fud cardinality: 27
+tupler	searched: 80499	rate: 1.2126e+06
+tupler 0.0663857s
+tuple cardinality: 10
+max tuple algn: -73.4281
+layer cardinality: 22
+parter	searched: 400	rate: 191571
+parter 0.002088s
+roller	searched: 82280	rate: 6.99535e+06
+roller 0.0117621s
+der vars algn density: 148.771
+dervarser	searched: 2560	rate: 1.03134e+06
+dervarser 0.0024822s
+application 0.0129369s
+<<< layer 0.0956579s
+<<< layerer 0.665632s
+>>> transer 
+fud: 109
+fud slice size: 191
+derived cardinality: 4
+derived algn density: 148.771
+derived impl bi-valency percent: 29.6457
+fud slice cardinality: 4
+<<< transer 0.0033295s
+>>> applier 
+<<< applier 0.0738058s
+>>> slicer 
+slice size: 187
+slice variable: <<<0,33>,s>,4>
+<<< slicer 0.0093344s
+>>> shuffler 
+<<< shuffler 0.0013747s
+>>> substrater 
+<<< substrater 0.0236129s
+>>> applier 
+<<< applier 0.0141899s
+>>> layerer
+>>> layer	fud: 110	layer: 1
+substrate cardinality: 1444
+fud cardinality: 0
+tupler	searched: 1113846	rate: 2.39539e+06
+tupler 0.464996s
+tuple cardinality: 10
+max tuple algn: -105.391
+layer cardinality: 25
+parter	searched: 3640	rate: 180487
+parter 0.0201677s
+roller	searched: 17070	rate: 3.46902e+06
+roller 0.0049207s
+der vars algn density: 153.379
+dervarser	searched: 1050	rate: 628968
+dervarser 0.0016694s
+application 0.012495s
+<<< layer 0.504252s
+>>> layer	fud: 110	layer: 2
+substrate cardinality: 1444
+fud cardinality: 25
+tupler	searched: 110846	rate: 1.04875e+06
+tupler 0.105694s
+tuple cardinality: 10
+max tuple algn: -107.807
+layer cardinality: 6
+parter	searched: 3640	rate: 183615
+parter 0.0198241s
+roller	searched: 491340	rate: 1.23093e+07
+roller 0.0399161s
+der vars algn density: 153.379
+dervarser	searched: 1184	rate: 737189
+dervarser 0.0016061s
+application 0.011815s
+<<< layer 0.178858s
+<<< layerer 0.694389s
+>>> transer 
+fud: 110
+fud slice size: 187
+derived cardinality: 4
+derived algn density: 153.379
+derived impl bi-valency percent: 31.4429
+fud slice cardinality: 3
+<<< transer 0.0034288s
+>>> applier 
+<<< applier 0.07179s
+>>> slicer 
+slice size: 186
+slice variable: <<<0,26>,s>,2>
+<<< slicer 0.0074981s
+>>> shuffler 
+<<< shuffler 0.0014156s
+>>> substrater 
+<<< substrater 0.0196913s
+>>> applier 
+<<< applier 0.0100093s
+>>> layerer
+>>> layer	fud: 111	layer: 1
+substrate cardinality: 892
+fud cardinality: 0
+tupler	searched: 441786	rate: 2.01463e+06
+tupler 0.219289s
+tuple cardinality: 10
+max tuple algn: -111.253
+layer cardinality: 25
+parter	searched: 3397	rate: 168660
+parter 0.0201411s
+roller	searched: 197840	rate: 9.94386e+06
+roller 0.0198957s
+der vars algn density: 171.903
+dervarser	searched: 1050	rate: 654002
+dervarser 0.0016055s
+application 0.0096753s
+<<< layer 0.27061s
+>>> layer	fud: 111	layer: 2
+substrate cardinality: 892
+fud cardinality: 25
+tupler	searched: 69175	rate: 920356
+tupler 0.0751611s
+tuple cardinality: 10
+max tuple algn: -120.86
+layer cardinality: 4
+parter	searched: 3640	rate: 166264
+parter 0.0218929s
+roller	searched: 491340	rate: 1.10786e+07
+roller 0.0443502s
+der vars algn density: 171.903
+dervarser	searched: 1114	rate: 615742
+dervarser 0.0018092s
+application 0.0093376s
+<<< layer 0.152554s
+<<< layerer 0.430937s
+>>> transer 
+fud: 111
+fud slice size: 186
+derived cardinality: 4
+derived algn density: 171.903
+derived impl bi-valency percent: 36.0797
+fud slice cardinality: 3
+<<< transer 0.0028403s
+>>> applier 
+<<< applier 0.072112s
+>>> slicer 
+slice size: 184
+slice variable: <<<0,93>,s>,1>
+<<< slicer 0.0083299s
+>>> shuffler 
+<<< shuffler 0.0013901s
+>>> substrater 
+<<< substrater 0.0240033s
+>>> applier 
+<<< applier 0.013894s
+>>> layerer
+>>> layer	fud: 112	layer: 1
+substrate cardinality: 1575
+fud cardinality: 0
+tupler	searched: 1318075	rate: 2.40827e+06
+tupler 0.547312s
+tuple cardinality: 10
+max tuple algn: -120.754
+layer cardinality: 31
+parter	searched: 3640	rate: 177336
+parter 0.020526s
+roller	searched: 20836	rate: 3.61881e+06
+roller 0.0057577s
+der vars algn density: 136.804
+dervarser	searched: 1500	rate: 838082
+dervarser 0.0017898s
+application 0.0134176s
+<<< layer 0.588808s
+>>> layer	fud: 112	layer: 2
+substrate cardinality: 1575
+fud cardinality: 31
+tupler	searched: 130551	rate: 960074
+tupler 0.13598s
+tuple cardinality: 10
+max tuple algn: -96.1783
+layer cardinality: 17
+parter	searched: 3640	rate: 173512
+parter 0.0209784s
+roller	searched: 491340	rate: 1.16898e+07
+roller 0.0420314s
+der vars algn density: 136.804
+dervarser	searched: 2566	rate: 1.12396e+06
+dervarser 0.002283s
+application 0.0132567s
+<<< layer 0.214533s
+<<< layerer 0.81472s
+>>> transer 
+fud: 112
+fud slice size: 184
+derived cardinality: 4
+derived algn density: 136.804
+derived impl bi-valency percent: 28.1246
+fud slice cardinality: 3
+<<< transer 0.0029817s
+>>> applier 
+<<< applier 0.0689038s
+>>> slicer 
+slice size: 184
+slice variable: <<<0,31>,s>,2>
+<<< slicer 0.0083004s
+>>> shuffler 
+<<< shuffler 0.0013225s
+>>> substrater 
+<<< substrater 0.019845s
+>>> applier 
+<<< applier 0.0120491s
+>>> layerer
+>>> layer	fud: 113	layer: 1
+substrate cardinality: 987
+fud cardinality: 0
+tupler	searched: 535741	rate: 2.21669e+06
+tupler 0.241685s
+tuple cardinality: 10
+max tuple algn: -19.2177
+layer cardinality: 25
+parter	searched: 3640	rate: 159866
+parter 0.022769s
+roller	searched: 98886	rate: 8.66357e+06
+roller 0.011414s
+der vars algn density: 167.34
+dervarser	searched: 1050	rate: 755233
+dervarser 0.0013903s
+application 0.0089194s
+<<< layer 0.286181s
+>>> layer	fud: 113	layer: 2
+substrate cardinality: 987
+fud cardinality: 25
+tupler	searched: 76349	rate: 1.11735e+06
+tupler 0.0683306s
+tuple cardinality: 10
+max tuple algn: -117.928
+layer cardinality: 6
+parter	searched: 3640	rate: 177780
+parter 0.0204748s
+roller	searched: 491340	rate: 1.2106e+07
+roller 0.0405865s
+der vars algn density: 167.34
+dervarser	searched: 1182	rate: 678258
+dervarser 0.0017427s
+application 0.0084064s
+<<< layer 0.139544s
+<<< layerer 0.433362s
+>>> transer 
+fud: 113
+fud slice size: 184
+derived cardinality: 4
+derived algn density: 167.34
+derived impl bi-valency percent: 35.4122
+fud slice cardinality: 3
+<<< transer 0.0025008s
+>>> applier 
+<<< applier 0.0709081s
+>>> slicer 
+slice size: 182
+slice variable: <<<0,40>,s>,2>
+<<< slicer 0.0082406s
+>>> shuffler 
+<<< shuffler 0.0013059s
+>>> substrater 
+<<< substrater 0.0171963s
+>>> applier 
+<<< applier 0.0100969s
+>>> layerer
+>>> layer	fud: 114	layer: 1
+substrate cardinality: 713
+fud cardinality: 0
+tupler	searched: 289278	rate: 2.00483e+06
+tupler 0.14429s
+tuple cardinality: 10
+max tuple algn: -103.164
+layer cardinality: 21
+parter	searched: 3640	rate: 156300
+parter 0.0232886s
+roller	searched: 379671	rate: 1.06344e+07
+roller 0.0357023s
+der vars algn density: 161.96
+dervarser	searched: 790	rate: 580242
+dervarser 0.0013615s
+application 0.0071691s
+<<< layer 0.211833s
+>>> layer	fud: 114	layer: 2
+substrate cardinality: 713
+fud cardinality: 21
+tupler	searched: 52550	rate: 854588
+tupler 0.0614916s
+tuple cardinality: 10
+max tuple algn: -108.768
+layer cardinality: 19
+parter	searched: 3640	rate: 163883
+parter 0.0222109s
+roller	searched: 491340	rate: 1.07983e+07
+roller 0.0455014s
+der vars algn density: 161.96
+dervarser	searched: 1872	rate: 906011
+dervarser 0.0020662s
+application 0.0075546s
+<<< layer 0.138828s
+<<< layerer 0.356477s
+>>> transer 
+fud: 114
+fud slice size: 182
+derived cardinality: 4
+derived algn density: 161.96
+derived impl bi-valency percent: 34.5318
+fud slice cardinality: 3
+<<< transer 0.0024994s
+>>> applier 
+<<< applier 0.0745267s
+>>> slicer 
+slice size: 181
+slice variable: <<<0,41>,s>,3>
+<<< slicer 0.0092436s
+>>> shuffler 
+<<< shuffler 0.0016838s
+>>> substrater 
+<<< substrater 0.0238818s
+>>> applier 
+<<< applier 0.0135351s
+>>> layerer
+>>> layer	fud: 115	layer: 1
+substrate cardinality: 1539
+fud cardinality: 0
+tupler	searched: 1260241	rate: 2.40456e+06
+tupler 0.524104s
+tuple cardinality: 10
+max tuple algn: -90.3907
+layer cardinality: 19
+parter	searched: 3640	rate: 183455
+parter 0.0198414s
+roller	searched: 491340	rate: 1.21537e+07
+roller 0.0404271s
+der vars algn density: 128.53
+dervarser	searched: 672	rate: 527763
+dervarser 0.0012733s
+application 0.0133846s
+<<< layer 0.599033s
+>>> layer	fud: 115	layer: 2
+substrate cardinality: 1539
+fud cardinality: 19
+tupler	searched: 107814	rate: 920257
+tupler 0.117156s
+tuple cardinality: 10
+max tuple algn: -90.3907
+layer cardinality: 4
+parter	searched: 3640	rate: 174292
+parter 0.0208845s
+roller	searched: 491340	rate: 1.17623e+07
+roller 0.0417725s
+der vars algn density: 128.53
+dervarser	searched: 742	rate: 527213
+dervarser 0.0014074s
+application 0.0128796s
+<<< layer 0.194104s
+<<< layerer 0.804701s
+>>> transer 
+fud: 115
+fud slice size: 181
+derived cardinality: 4
+derived algn density: 128.53
+derived impl bi-valency percent: 26.7065
+fud slice cardinality: 3
+<<< transer 0.0031516s
+>>> applier 
+<<< applier 0.0744813s
+>>> slicer 
+slice size: 179
+slice variable: <<<0,81>,s>,1>
+<<< slicer 0.0080173s
+>>> shuffler 
+<<< shuffler 0.0013561s
+>>> substrater 
+<<< substrater 0.0188226s
+>>> applier 
+<<< applier 0.011514s
+>>> layerer
+>>> layer	fud: 116	layer: 1
+substrate cardinality: 998
+fud cardinality: 0
+tupler	searched: 547203	rate: 2.32537e+06
+tupler 0.235319s
+tuple cardinality: 10
+max tuple algn: -66.2016
+layer cardinality: 24
+parter	searched: 3640	rate: 173175
+parter 0.0210192s
+roller	searched: 36918	rate: 5.55726e+06
+roller 0.0066432s
+der vars algn density: 148.338
+dervarser	searched: 982	rate: 643681
+dervarser 0.0015256s
+application 0.0086669s
+<<< layer 0.273177s
+>>> layer	fud: 116	layer: 2
+substrate cardinality: 998
+fud cardinality: 24
+tupler	searched: 76145	rate: 948573
+tupler 0.0802732s
+tuple cardinality: 10
+max tuple algn: -104.822
+layer cardinality: 12
+parter	searched: 3640	rate: 184319
+parter 0.0197484s
+roller	searched: 491340	rate: 1.21669e+07
+roller 0.0403833s
+der vars algn density: 148.338
+dervarser	searched: 1571	rate: 823332
+dervarser 0.0019081s
+application 0.0084667s
+<<< layer 0.150783s
+<<< layerer 0.431613s
+>>> transer 
+fud: 116
+fud slice size: 179
+derived cardinality: 4
+derived algn density: 148.338
+derived impl bi-valency percent: 31.8157
+fud slice cardinality: 3
+<<< transer 0.0026389s
+>>> applier 
+<<< applier 0.0763073s
+>>> slicer 
+slice size: 177
+slice variable: <<<0,91>,s>,2>
+<<< slicer 0.0078964s
+>>> shuffler 
+<<< shuffler 0.0012728s
+>>> substrater 
+<<< substrater 0.0219968s
+>>> applier 
+<<< applier 0.0119592s
+>>> layerer
+>>> layer	fud: 117	layer: 1
+substrate cardinality: 1351
+fud cardinality: 0
+tupler	searched: 979275	rate: 2.23434e+06
+tupler 0.438284s
+tuple cardinality: 10
+max tuple algn: -91.3188
+layer cardinality: 20
+parter	searched: 3640	rate: 175534
+parter 0.0207367s
+roller	searched: 31992	rate: 5.18265e+06
+roller 0.0061729s
+der vars algn density: 113.159
+dervarser	searched: 730	rate: 515792
+dervarser 0.0014153s
+application 0.0122545s
+<<< layer 0.478867s
+>>> layer	fud: 117	layer: 2
+substrate cardinality: 1351
+fud cardinality: 20
+tupler	searched: 96309	rate: 892210
+tupler 0.107944s
+tuple cardinality: 10
+max tuple algn: -79.5759
+layer cardinality: 14
+parter	searched: 3640	rate: 160151
+parter 0.0227286s
+roller	searched: 491340	rate: 1.2117e+07
+roller 0.0405495s
+der vars algn density: 113.159
+dervarser	searched: 1291	rate: 767584
+dervarser 0.0016819s
+application 0.0116709s
+<<< layer 0.184578s
+<<< layerer 0.673191s
+>>> transer 
+fud: 117
+fud slice size: 177
+derived cardinality: 4
+derived algn density: 113.159
+derived impl bi-valency percent: 23.7515
+fud slice cardinality: 3
+<<< transer 0.0029051s
+>>> applier 
+<<< applier 0.069847s
+>>> slicer 
+slice size: 175
+slice variable: <<<0,100>,s>,1>
+<<< slicer 0.0082076s
+>>> shuffler 
+<<< shuffler 0.0012864s
+>>> substrater 
+<<< substrater 0.0208819s
+>>> applier 
+<<< applier 0.011811s
+>>> layerer
+>>> layer	fud: 118	layer: 1
+substrate cardinality: 1380
+fud cardinality: 0
+tupler	searched: 1020310	rate: 2.45692e+06
+tupler 0.41528s
+tuple cardinality: 10
+max tuple algn: -95.1233
+layer cardinality: 28
+parter	searched: 3640	rate: 166067
+parter 0.0219189s
+roller	searched: 46914	rate: 6.51312e+06
+roller 0.007203s
+der vars algn density: 136.273
+dervarser	searched: 1266	rate: 700841
+dervarser 0.0018064s
+application 0.0118409s
+<<< layer 0.458052s
+>>> layer	fud: 118	layer: 2
+substrate cardinality: 1380
+fud cardinality: 28
+tupler	searched: 110770	rate: 1.05902e+06
+tupler 0.104597s
+tuple cardinality: 10
+max tuple algn: -96.0141
+layer cardinality: 10
+parter	searched: 3640	rate: 173272
+parter 0.0210074s
+roller	searched: 491340	rate: 1.14639e+07
+roller 0.0428598s
+der vars algn density: 136.273
+dervarser	searched: 1695	rate: 880794
+dervarser 0.0019244s
+application 0.011567s
+<<< layer 0.181959s
+<<< layerer 0.649579s
+>>> transer 
+fud: 118
+fud slice size: 175
+derived cardinality: 4
+derived algn density: 136.273
+derived impl bi-valency percent: 29.637
+fud slice cardinality: 3
+<<< transer 0.0031181s
+>>> applier 
+<<< applier 0.109234s
+>>> slicer 
+slice size: 175
+slice variable: <<<0,29>,s>,2>
+<<< slicer 0.0075773s
+>>> shuffler 
+<<< shuffler 0.0012693s
+>>> substrater 
+<<< substrater 0.0171479s
+>>> applier 
+<<< applier 0.008899s
+>>> layerer
+>>> layer	fud: 119	layer: 1
+substrate cardinality: 659
+fud cardinality: 0
+tupler	searched: 249561	rate: 2.00886e+06
+tupler 0.12423s
+tuple cardinality: 10
+max tuple algn: -63.2083
+layer cardinality: 17
+parter	searched: 3640	rate: 158063
+parter 0.0230288s
+roller	searched: 454117	rate: 1.15532e+07
+roller 0.0393065s
+der vars algn density: 168.089
+dervarser	searched: 562	rate: 451442
+dervarser 0.0012449s
+application 0.0060065s
+<<< layer 0.19382s
+>>> layer	fud: 119	layer: 2
+substrate cardinality: 659
+fud cardinality: 17
+tupler	searched: 45588	rate: 871972
+tupler 0.0522815s
+tuple cardinality: 10
+max tuple algn: -118.466
+layer cardinality: 4
+parter	searched: 3640	rate: 140447
+parter 0.0259172s
+roller	searched: 491340	rate: 1.02554e+07
+roller 0.0479102s
+der vars algn density: 168.089
+dervarser	searched: 642	rate: 436260
+dervarser 0.0014716s
+application 0.0068927s
+<<< layer 0.134476s
+<<< layerer 0.333316s
+>>> transer 
+fud: 119
+fud slice size: 175
+derived cardinality: 4
+derived algn density: 168.089
+derived impl bi-valency percent: 37.7362
+fud slice cardinality: 3
+<<< transer 0.0026234s
+>>> applier 
+<<< applier 0.119663s
+>>> slicer 
+slice size: 174
+slice variable: <<<0,83>,s>,1>
+<<< slicer 0.0085433s
+>>> shuffler 
+<<< shuffler 0.0012878s
+>>> substrater 
+<<< substrater 0.0230406s
+>>> applier 
+<<< applier 0.0138465s
+>>> layerer
+>>> layer	fud: 120	layer: 1
+substrate cardinality: 1595
+fud cardinality: 0
+tupler	searched: 1350765	rate: 2.44247e+06
+tupler 0.553033s
+tuple cardinality: 10
+max tuple algn: -89.9585
+layer cardinality: 18
+parter	searched: 3640	rate: 171123
+parter 0.0212713s
+roller	searched: 491340	rate: 1.14984e+07
+roller 0.0427311s
+der vars algn density: 127.695
+dervarser	searched: 616	rate: 343980
+dervarser 0.0017908s
+application 0.0138006s
+<<< layer 0.63263s
+>>> layer	fud: 120	layer: 2
+substrate cardinality: 1595
+fud cardinality: 18
+tupler	searched: 110018	rate: 990675
+tupler 0.111054s
+tuple cardinality: 10
+max tuple algn: -89.9585
+layer cardinality: 4
+parter	searched: 3640	rate: 152264
+parter 0.0239059s
+roller	searched: 491340	rate: 1.05994e+07
+roller 0.0463556s
+der vars algn density: 127.695
+dervarser	searched: 699	rate: 475413
+dervarser 0.0014703s
+application 0.013288s
+<<< layer 0.196077s
+<<< layerer 0.840603s
+>>> transer 
+fud: 120
+fud slice size: 174
+derived cardinality: 4
+derived algn density: 127.695
+derived impl bi-valency percent: 27.7143
+fud slice cardinality: 3
+<<< transer 0.0031348s
+>>> applier 
+<<< applier 0.0484423s
+>>> slicer 
+slice size: 174
+slice variable: <<<0,65>,s>,3>
+<<< slicer 0.0084821s
+>>> shuffler 
+<<< shuffler 0.0014337s
+>>> substrater 
+<<< substrater 0.0211031s
+>>> applier 
+<<< applier 0.0118363s
+>>> layerer
+>>> layer	fud: 121	layer: 1
+substrate cardinality: 1326
+fud cardinality: 0
+tupler	searched: 944575	rate: 2.55952e+06
+tupler 0.369044s
+tuple cardinality: 10
+max tuple algn: -102.577
+layer cardinality: 23
+parter	searched: 3640	rate: 188085
+parter 0.019353s
+roller	searched: 58971	rate: 7.76404e+06
+roller 0.0075954s
+der vars algn density: 138.784
+dervarser	searched: 916	rate: 638639
+dervarser 0.0014343s
+application 0.0114622s
+<<< layer 0.408892s
+>>> layer	fud: 121	layer: 2
+substrate cardinality: 1326
+fud cardinality: 23
+tupler	searched: 98911	rate: 1.04158e+06
+tupler 0.0949628s
+tuple cardinality: 10
+max tuple algn: -97.8165
+layer cardinality: 19
+parter	searched: 3640	rate: 181574
+parter 0.0200469s
+roller	searched: 491340	rate: 1.12009e+07
+roller 0.0438661s
+der vars algn density: 138.784
+dervarser	searched: 1829	rate: 884002
+dervarser 0.002069s
+application 0.0110565s
+<<< layer 0.172004s
+<<< layerer 0.590734s
+>>> transer 
+fud: 121
+fud slice size: 174
+derived cardinality: 4
+derived algn density: 138.784
+derived impl bi-valency percent: 30.4566
+fud slice cardinality: 3
+<<< transer 0.0028442s
+>>> applier 
+<<< applier 0.0445058s
+>>> slicer 
+slice size: 170
+slice variable: <<<0,94>,s>,1>
+<<< slicer 0.0086977s
+>>> shuffler 
+<<< shuffler 0.0013511s
+>>> substrater 
+<<< substrater 0.0221364s
+>>> applier 
+<<< applier 0.0126493s
+>>> layerer
+>>> layer	fud: 122	layer: 1
+substrate cardinality: 1649
+fud cardinality: 0
+tupler	searched: 1441026	rate: 2.61554e+06
+tupler 0.550947s
+tuple cardinality: 10
+max tuple algn: -92.3957
+layer cardinality: 18
+parter	searched: 3640	rate: 188585
+parter 0.0193016s
+roller	searched: 491340	rate: 1.21044e+07
+roller 0.040592s
+der vars algn density: 130.994
+dervarser	searched: 616	rate: 491934
+dervarser 0.0012522s
+application 0.012522s
+<<< layer 0.624618s
+>>> layer	fud: 122	layer: 2
+substrate cardinality: 1649
+fud cardinality: 18
+tupler	searched: 113660	rate: 1.12818e+06
+tupler 0.100746s
+tuple cardinality: 10
+max tuple algn: -92.3957
+layer cardinality: 4
+parter	searched: 3640	rate: 177844
+parter 0.0204674s
+roller	searched: 491340	rate: 1.21415e+07
+roller 0.0404677s
+der vars algn density: 130.994
+dervarser	searched: 699	rate: 496484
+dervarser 0.0014079s
+application 0.0127794s
+<<< layer 0.175871s
+<<< layerer 0.811233s
+>>> transer 
+fud: 122
+fud slice size: 170
+derived cardinality: 4
+derived algn density: 130.994
+derived impl bi-valency percent: 29.2851
+fud slice cardinality: 3
+<<< transer 0.0031487s
+>>> applier 
+<<< applier 0.04839s
+>>> slicer 
+slice size: 169
+slice variable: <<<0,35>,s>,5>
+<<< slicer 0.0081802s
+>>> shuffler 
+<<< shuffler 0.0012594s
+>>> substrater 
+<<< substrater 0.0214455s
+>>> applier 
+<<< applier 0.0113755s
+>>> layerer
+>>> layer	fud: 123	layer: 1
+substrate cardinality: 1393
+fud cardinality: 0
+tupler	searched: 1038978	rate: 2.64171e+06
+tupler 0.393298s
+tuple cardinality: 10
+max tuple algn: -91.7844
+layer cardinality: 25
+parter	searched: 3640	rate: 173588
+parter 0.0209692s
+roller	searched: 68216	rate: 8.08179e+06
+roller 0.0084407s
+der vars algn density: 157.946
+dervarser	searched: 1050	rate: 669942
+dervarser 0.0015673s
+application 0.0107845s
+<<< layer 0.435062s
+>>> layer	fud: 123	layer: 2
+substrate cardinality: 1393
+fud cardinality: 25
+tupler	searched: 107340	rate: 1.05081e+06
+tupler 0.102149s
+tuple cardinality: 10
+max tuple algn: -108.156
+layer cardinality: 20
+parter	searched: 3640	rate: 174687
+parter 0.0208373s
+roller	searched: 491340	rate: 1.17401e+07
+roller 0.0418516s
+der vars algn density: 160.497
+dervarser	searched: 2196	rate: 1.07012e+06
+dervarser 0.0020521s
+application 0.0108783s
+<<< layer 0.177772s
+>>> layer	fud: 123	layer: 3
+substrate cardinality: 1393
+fud cardinality: 45
+tupler	searched: 129173	rate: 1.23475e+06
+tupler 0.104615s
+tuple cardinality: 10
+max tuple algn: -108.156
+layer cardinality: 8
+parter	searched: 3640	rate: 175258
+parter 0.0207694s
+roller	searched: 491340	rate: 1.17923e+07
+roller 0.0416663s
+der vars algn density: 160.497
+dervarser	searched: 2769	rate: 1.11473e+06
+dervarser 0.002484s
+application 0.010775s
+<<< layer 0.180312s
+<<< layerer 0.802294s
+>>> transer 
+fud: 123
+fud slice size: 169
+derived cardinality: 4
+derived algn density: 160.497
+derived impl bi-valency percent: 37.2402
+fud slice cardinality: 3
+<<< transer 0.002947s
+>>> applier 
+<<< applier 0.0495994s
+>>> slicer 
+slice size: 165
+slice variable: <<<0,99>,s>,1>
+<<< slicer 0.0082278s
+>>> shuffler 
+<<< shuffler 0.0012097s
+>>> substrater 
+<<< substrater 0.0231906s
+>>> applier 
+<<< applier 0.0131112s
+>>> layerer
+>>> layer	fud: 124	layer: 1
+substrate cardinality: 1480
+fud cardinality: 0
+tupler	searched: 1168260	rate: 2.55617e+06
+tupler 0.457036s
+tuple cardinality: 10
+max tuple algn: -18.2026
+layer cardinality: 30
+parter	searched: 3640	rate: 179504
+parter 0.0202781s
+roller	searched: 20886	rate: 3.10563e+06
+roller 0.0067252s
+der vars algn density: 94.3846
+dervarser	searched: 920	rate: 721399
+dervarser 0.0012753s
+application 0.0115472s
+<<< layer 0.496865s
+>>> layer	fud: 124	layer: 2
+substrate cardinality: 1480
+fud cardinality: 30
+tupler	searched: 76170	rate: 1.75416e+06
+tupler 0.0434226s
+tuple cardinality: 10
+max tuple algn: -82.4404
+layer cardinality: 15
+parter	searched: 130	rate: 238401
+parter 0.0005453s
+roller	searched: 35230	rate: 5.9225e+06
+roller 0.0059485s
+der vars algn density: 94.2866
+dervarser	searched: 1726	rate: 1.0922e+06
+dervarser 0.0015803s
+application 0.0115594s
+<<< layer 0.0630591s
+<<< layerer 0.570036s
+>>> transer 
+fud: 124
+fud slice size: 165
+derived cardinality: 3
+derived algn density: 94.3846
+derived impl bi-valency percent: 33.1111
+fud slice cardinality: 5
+<<< transer 0.0031468s
+>>> applier 
+<<< applier 0.0484108s
+>>> slicer 
+slice size: 165
+slice variable: <<<0,80>,s>,1>
+<<< slicer 0.0082661s
+>>> shuffler 
+<<< shuffler 0.0012017s
+>>> substrater 
+<<< substrater 0.0226629s
+>>> applier 
+<<< applier 0.0126452s
+>>> layerer
+>>> layer	fud: 125	layer: 1
+substrate cardinality: 1673
+fud cardinality: 0
+tupler	searched: 1482078	rate: 2.38575e+06
+tupler 0.62122s
+tuple cardinality: 10
+max tuple algn: -77.5667
+layer cardinality: 19
+parter	searched: 3640	rate: 152360
+parter 0.0238908s
+roller	searched: 68919	rate: 6.9865e+06
+roller 0.0098646s
+der vars algn density: 105.244
+dervarser	searched: 672	rate: 381753
+dervarser 0.0017603s
+application 0.0146305s
+<<< layer 0.671369s
+>>> layer	fud: 125	layer: 2
+substrate cardinality: 1673
+fud cardinality: 19
+tupler	searched: 117098	rate: 912962
+tupler 0.128262s
+tuple cardinality: 10
+max tuple algn: -74.1994
+layer cardinality: 6
+parter	searched: 3640	rate: 161267
+parter 0.0225713s
+roller	searched: 491340	rate: 1.09147e+07
+roller 0.0450163s
+der vars algn density: 105.244
+dervarser	searched: 852	rate: 547628
+dervarser 0.0015558s
+application 0.0141041s
+<<< layer 0.211512s
+<<< layerer 0.893356s
+>>> transer 
+fud: 125
+fud slice size: 165
+derived cardinality: 4
+derived algn density: 105.244
+derived impl bi-valency percent: 23.6907
+fud slice cardinality: 3
+<<< transer 0.0035004s
+>>> applier 
+<<< applier 0.0492172s
+>>> slicer 
+slice size: 165
+slice variable: <<<0,39>,s>,2>
+<<< slicer 0.0072699s
+>>> shuffler 
+<<< shuffler 0.0012585s
+>>> substrater 
+<<< substrater 0.0178413s
+>>> applier 
+<<< applier 0.0106935s
+>>> layerer
+>>> layer	fud: 126	layer: 1
+substrate cardinality: 793
+fud cardinality: 0
+tupler	searched: 353478	rate: 2.17333e+06
+tupler 0.162643s
+tuple cardinality: 10
+max tuple algn: 127.037
+layer cardinality: 29
+parter	searched: 3640	rate: 168504
+parter 0.0216018s
+roller	searched: 16096	rate: 2.60462e+06
+roller 0.0061798s
+der vars algn density: 147.781
+dervarser	searched: 1312	rate: 754023
+dervarser 0.00174s
+application 0.0070828s
+<<< layer 0.199251s
+>>> layer	fud: 126	layer: 2
+substrate cardinality: 793
+fud cardinality: 29
+tupler	searched: 49553	rate: 1.45725e+06
+tupler 0.0340045s
+tuple cardinality: 10
+max tuple algn: -24.4312
+layer cardinality: 25
+parter	searched: 400	rate: 180448
+parter 0.0022167s
+roller	searched: 11477	rate: 2.47253e+06
+roller 0.0046418s
+der vars algn density: 148.008
+dervarser	searched: 3230	rate: 1.19785e+06
+dervarser 0.0026965s
+application 0.0073156s
+<<< layer 0.0508781s
+>>> layer	fud: 126	layer: 3
+substrate cardinality: 793
+fud cardinality: 54
+tupler	searched: 81186	rate: 1.26672e+06
+tupler 0.0640915s
+tuple cardinality: 10
+max tuple algn: 74.3972
+layer cardinality: 12
+parter	searched: 3640	rate: 153788
+parter 0.0236689s
+roller	searched: 66810	rate: 7.30068e+06
+roller 0.0091512s
+der vars algn density: 147.773
+dervarser	searched: 4198	rate: 1.40575e+06
+dervarser 0.0029863s
+application 0.0073792s
+<<< layer 0.10728s
+<<< layerer 0.363835s
+>>> transer 
+fud: 126
+fud slice size: 165
+derived cardinality: 4
+derived algn density: 148.008
+derived impl bi-valency percent: 34.8517
+fud slice cardinality: 3
+<<< transer 0.0025409s
+>>> applier 
+<<< applier 0.0498432s
+>>> slicer 
+slice size: 164
+slice variable: <<<0,86>,s>,1>
+<<< slicer 0.0082107s
+>>> shuffler 
+<<< shuffler 0.0012142s
+>>> substrater 
+<<< substrater 0.0181017s
+>>> applier 
+<<< applier 0.0099366s
+>>> layerer
+>>> layer	fud: 127	layer: 1
+substrate cardinality: 868
+fud cardinality: 0
+tupler	searched: 419478	rate: 2.4054e+06
+tupler 0.17439s
+tuple cardinality: 10
+max tuple algn: -66.7584
+layer cardinality: 32
+parter	searched: 3640	rate: 175940
+parter 0.0206889s
+roller	searched: 16010	rate: 2.66518e+06
+roller 0.0060071s
+der vars algn density: 151.076
+dervarser	searched: 1582	rate: 906850
+dervarser 0.0017445s
+application 0.0069163s
+<<< layer 0.20975s
+>>> layer	fud: 127	layer: 2
+substrate cardinality: 868
+fud cardinality: 32
+tupler	searched: 75353	rate: 1.06291e+06
+tupler 0.0708929s
+tuple cardinality: 10
+max tuple algn: -17.2424
+layer cardinality: 20
+parter	searched: 3640	rate: 177023
+parter 0.0205623s
+roller	searched: 491340	rate: 1.18214e+07
+roller 0.0415635s
+der vars algn density: 151.076
+dervarser	searched: 2904	rate: 1.17381e+06
+dervarser 0.002474s
+application 0.0068623s
+<<< layer 0.142358s
+<<< layerer 0.357997s
+>>> transer 
+fud: 127
+fud slice size: 164
+derived cardinality: 4
+derived algn density: 151.076
+derived impl bi-valency percent: 35.9429
+fud slice cardinality: 4
+<<< transer 0.0025391s
+<<< applicationer 220.854s
+
+
