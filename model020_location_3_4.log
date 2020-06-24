@@ -1,0 +1,17 @@
+model: model020
+tint: 8
+label: location
+step_count: 3
+step_interval: 4
+hr->dimension: 363
+hr->size: 81261
+hr1->dimension: 1089
+hr1->size: 81253
+treesSize(*dr1.slices): 32112
+treesLeafElements(*dr1.slices)->size(): 27576
+frder(*dr1.fud)->size(): 27576
+frund(*dr1.fud)->size(): 1080
+frvars(*dr1.fud)->size(): 90612
+hr2->dimension: 90621
+hr2->size: 81253
+>>> applicationer
