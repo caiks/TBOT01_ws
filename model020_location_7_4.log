@@ -1,0 +1,41 @@
+model: model020
+tint: 8
+label: location
+sequence_count: 7
+sequence_interval: 4
+hr->dimension: 363
+hr->size: 81261
+hr1->dimension: 2541
+hr1->size: 81237
+treesSize(*dr1.slices): 74928
+treesLeafElements(*dr1.slices)->size(): 64344
+frder(*dr1.fud)->size(): 64344
+frund(*dr1.fud)->size(): 2520
+frvars(*dr1.fud)->size(): 211428
+hr2->dimension: 211449
+hr2->size: 81237
+>>> applicationer
+Command terminated by signal 9
+	Command being timed: "./main condition model020 8 location 7 4"
+	User time (seconds): 55.55
+	System time (seconds): 11.12
+	Percent of CPU this job got: 379%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:17.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 20345540
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 5224695
+	Voluntary context switches: 2918
+	Involuntary context switches: 1857
+	Swaps: 0
+	File system inputs: 256
+	File system outputs: 16
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
