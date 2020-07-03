@@ -1,7 +1,0 @@
-model: model025
-tint: 8
-label: location
-sequence_count: 7
-sequence_interval: 2
-hr->dimension: 2541
-hr->size: 81189
